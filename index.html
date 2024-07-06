@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Little Atlas of English Early Modern Drama</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Tahoma, sans-serif;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+		.header {
+			text-align: center;
+			padding: 5px; /* Reduced padding */
+			font-size: 1.5em; /* Slightly smaller font size */
+			background-color: #281e5d; /* Changed background color to navy blue */
+			color: white; /* Changed text color to white */
+			text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; /* Added black contour to text */
+			margin-bottom: 2px; /* Reduced margin */
+		}
+        .info-box {
+            text-align: center;
+            padding: 5px;
+            background-color: #e9ecef;
+            margin: 10px; /* Reduced margin */
+            font-size: 0.8em; /* Smaller font size */
+        }
+        #map {
+            flex-grow: 1;
+            height: 600px; /* Adjust map height as needed */
+        }
+        /* Styles for Leaflet Popup */
+        .leaflet-popup-content-wrapper {
+            width: 350px; /* Fixed width for popup */
+        }
+        .leaflet-popup-content {
+            max-height: 200px; /* Limit height of popup content */
+            overflow-y: auto; /* Enable scrolling */
+            padding: 10px;
+        }
+        .popup-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .popup-location {
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        .popup-sidebar {
+            height: 120px; /* Height of sidebar, adjust as needed */
+            overflow-y: auto; /* Enable scrolling within the sidebar */
+        }
+    </style>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="header">&#128608 A Little Atlas of English Early Modern Drama &#128610</div>
+        <div class="info-box">This map charts most geographical items nominated in about 400 early modern English plays. Move around, zoom, and click on any location to see the related plays and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms (cities, countries, continents, natural features) have been extracted through NLP methods, manually reviewed, and geocoded with <i>Nominatim</i> and LLMs. <br><small>Item names with * have been postcorrected. You can dowload the whole data dump in JSON format here. Beta version, under consideration for <a href="https://2024.computational-humanities-research.org/">CHR Aarhus 2024</a>. More details in the preprint.</div>
+        <div id="map"></div>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
