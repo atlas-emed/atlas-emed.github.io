@@ -1281,8 +1281,8 @@
         "location": "Nile River",
         "original_label": "Nile",
         "coordinates": [
-            22.724378,
-            32.1053309
+            24.6238351,
+            88.0095609
         ],
         "titles": [
             "anon-caesar-and-pompey"
@@ -1331,8 +1331,8 @@
         "location": "Memphis, Greece",
         "original_label": "Memphis",
         "coordinates": [
-            40.0969165,
-            23.9790941
+            29.8544582,
+            31.26151876961478
         ],
         "titles": [
             "chapman-the-blind-beggar-of-alexandria",
@@ -1969,8 +1969,8 @@
         "location": "Wales",
         "original_label": "Cambria",
         "coordinates": [
-            52.2928116,
-            -3.73893
+            -33.6658802,
+            24.574292
         ],
         "titles": [
             "peele-edward-the-first",
@@ -2131,8 +2131,8 @@
         "location": "Assyria",
         "original_label": "Assyria",
         "coordinates": [
-            42.464482,
-            -85.1313852
+            33.3316042,
+            44.36173312178764
         ],
         "titles": [
             "anon-the-wars-of-cyrus"
@@ -2153,8 +2153,8 @@
         "location": "Brentford",
         "original_label": "Brainford",
         "coordinates": [
-            51.48833078583104,
-            -0.30959676233823713
+			51.48833078583104, 
+			-0.30959676233823713
         ],
         "titles": [
             "killigrew-the-parson-s-wedding",
@@ -2803,8 +2803,8 @@
         "location": "Cannae",
         "original_label": "Cannae",
         "coordinates": [
-            -33.8149514,
-            151.2833517
+            41.306389,
+            16.1325
         ],
         "titles": [
             "nashe-summer-s-last-will-and-testament",
@@ -2826,8 +2826,8 @@
         "location": "Hyde Park",
         "original_label": "Hide-park",
         "coordinates": [
-            51.5074889,
-            -0.1622074056037135
+            13.0047034,
+            77.6233368
         ],
         "titles": [
             "brome-a-jovial-crew"
@@ -3190,8 +3190,8 @@
         "location": "Tempe",
         "original_label": "Tempe",
         "coordinates": [
-            33.4255117,
-            -111.940016
+            39.877,
+            22.566
         ],
         "titles": [
             "cavendish-the-variety",
@@ -3424,8 +3424,8 @@
         "location": "Northumberland",
         "original_label": "Northumbria",
         "coordinates": [
-            55.25,
-            -2.000559
+            -33.9181792,
+            18.3934678
         ],
         "titles": [
             "brome-the-queen-s-exchange"
@@ -3494,8 +3494,8 @@
         "location": "Jordania",
         "original_label": "Jordan",
         "coordinates": [
-            -15.8989202,
-            -40.1787062
+            10.6611675,
+            122.5909592
         ],
         "titles": [
             "brome-the-weeding-of-the-covent-garden"
@@ -3636,8 +3636,8 @@
         "location": "Mount Pelion",
         "original_label": "Pelion",
         "coordinates": [
-            -20.9375455,
-            148.78805953742398
+            14.7815685,
+            122.0116442
         ],
         "titles": [
             "chapman-bussy-d-ambois"
@@ -3758,8 +3758,8 @@
         "location": "Lebanon",
         "original_label": "Lebanon",
         "coordinates": [
-            40.375713,
-            -76.4626118
+            33.8750629,
+            35.843409
         ],
         "titles": [
             "chapman-the-tragedy-of-charles-duke-of-byron"
@@ -3963,8 +3963,8 @@
         "location": "Arcadia",
         "original_label": "Arcadia",
         "coordinates": [
-            34.1362075,
-            -118.0401497
+            37.56048516617311,
+            22.225751764528123
         ],
         "titles": [
             "lyly-midas",
@@ -4982,7 +4982,7 @@
         "location": "Mount Oeta",
         "original_label": "Oeta",
         "coordinates": [
-            38.817401374188144,
+            38.817401374188144, 
             22.283333233727316
         ],
         "titles": [
@@ -4995,8 +4995,8 @@
         "location": "Bengal",
         "original_label": "Bengala",
         "coordinates": [
-            39.4735045,
-            -85.9228997
+            22.9964948,
+            87.6855882
         ],
         "titles": [
             "fletcher-women-pleased"
@@ -5064,8 +5064,8 @@
         "location": "Bosworth",
         "original_label": "Bosworth",
         "coordinates": [
-            39.469745,
-            -93.3346524
+            -30.89892105,
+            137.48822030917154
         ],
         "titles": [
             "ford-perkin-warbeck"
@@ -5352,7 +5352,7 @@
         "location": "Edinbrugh",
         "original_label": "Edenborough",
         "coordinates": [
-            55.94790992448649,
+            55.94790992448649, 
             -3.1950420775272397
         ],
         "titles": [
@@ -5431,8 +5431,8 @@
         "location": "Lake Avernus",
         "original_label": "Avernus",
         "coordinates": [
-            -42.5892753,
-            172.07382925133334
+            40.838396779612346,
+            14.075851066121032
         ],
         "titles": [
             "s-locrine",
@@ -5465,8 +5465,8 @@
         "location": "Caledonia",
         "original_label": "Calidonian",
         "coordinates": [
-            43.6350469,
-            -91.496387
+            57.318121612597395,
+            -4.844513345185376
         ],
         "titles": [
             "heywood-the-brazen-age"
@@ -5498,8 +5498,8 @@
         "location": "Palestine",
         "original_label": "Palestine",
         "coordinates": [
-            31.7621153,
-            -95.6307891
+            31.462420950000002,
+            34.26272151195113
         ],
         "titles": [
             "w-the-valiant-scot",
@@ -5545,8 +5545,8 @@
         "location": "Libya",
         "original_label": "Lybia",
         "coordinates": [
-            26.8234472,
-            18.1236723
+            -4.9719509,
+            143.4178375
         ],
         "titles": [
             "heywood-the-four-prentices-of-london",
@@ -5649,8 +5649,8 @@
         "location": "Argo",
         "original_label": "Argo",
         "coordinates": [
-            41.7758173,
-            -87.8203
+            37.634550275110755,
+            22.72599478399277
         ],
         "titles": [
             "heywood-the-iron-age-2"
@@ -5660,7 +5660,7 @@
         "location": "Hellespontus",
         "original_label": "Hellespont",
         "coordinates": [
-            41.14567611362854,
+            41.14567611362854, 
             29.06808639763423
         ],
         "titles": [
@@ -5697,8 +5697,8 @@
         "location": "Colman Street",
         "original_label": "Colman-street",
         "coordinates": [
-            45.36759486675178,
-            -75.6790971770984
+            -26.28167283968814,
+            27.838992064519577
         ],
         "titles": [
             "jonson-every-man-in-his-humour"
@@ -5708,8 +5708,8 @@
         "location": "Marseilles",
         "original_label": "Marseilles",
         "coordinates": [
-            41.3308666,
-            -88.7081293
+            -29.1811111,
+            27.2947222
         ],
         "titles": [
             "jonson-every-man-in-his-humour"
@@ -5753,8 +5753,8 @@
         "location": "Salem",
         "original_label": "Salem",
         "coordinates": [
-            44.9391565,
-            -123.033121
+            11.64696155,
+            78.21069575456464
         ],
         "titles": [
             "jonson-the-alchemist"
@@ -5764,8 +5764,8 @@
         "location": "Westchester",
         "original_label": "Westchester",
         "coordinates": [
-            41.1763139,
-            -73.7907554
+            15.057018854717008,
+            120.69325417668132
         ],
         "titles": [
             "jonson-the-alchemist",
@@ -5909,8 +5909,8 @@
         "location": "Damascus",
         "original_label": "Damascus",
         "coordinates": [
-            39.2884381,
-            -77.2038717
+            33.5130695,
+            36.3095814
         ],
         "titles": [
             "lower-the-phoenix-in-her-flames"
@@ -6036,8 +6036,8 @@
         "location": "Zante",
         "original_label": "Zanthus",
         "coordinates": [
-            36.1146739,
-            -119.045658
+            37.78519160833165,
+            20.89745553325849
         ],
         "titles": [
             "marlowe-nashe-dido-queen-of-carthage"
@@ -6229,7 +6229,7 @@
         "location": "Toscana, Italia",
         "original_label": "Etruria",
         "coordinates": [
-            43.42346226743928,
+            43.42346226743928, 
             11.154407102832316
         ],
         "titles": [
@@ -6240,8 +6240,8 @@
         "location": "Galatia",
         "original_label": "Galatia",
         "coordinates": [
-            37.8406038,
-            -88.6092215
+            39.84051329449917,
+            33.16124333103519
         ],
         "titles": [
             "may-cleopatra-queen-of-egypt"
@@ -6262,8 +6262,8 @@
         "location": "Aventine Hill",
         "original_label": "Aventine",
         "coordinates": [
-            -27.4809234,
-            153.0737324
+            41.884073050716026,
+            12.477724622084343
         ],
         "titles": [
             "may-cleopatra-queen-of-egypt"
@@ -6364,8 +6364,8 @@
         "location": "Severn River",
         "original_label": "Severn",
         "coordinates": [
-            -42.08974775882625,
-            173.01300790406134
+            -26.5894444,
+            22.8588889
         ],
         "titles": [
             "milton-comus"
@@ -6408,7 +6408,7 @@
         "location": "Highgate",
         "original_label": "Hygate",
         "coordinates": [
-            51.57042607401683,
+            51.57042607401683, 
             -0.1523585220835441
         ],
         "titles": [
@@ -6641,8 +6641,8 @@
         "location": "Sandwich",
         "original_label": "Sandwitch",
         "coordinates": [
-            51.2752527,
-            1.3408309
+            11.5669994,
+            104.9308688
         ],
         "titles": [
             "rowley-a-shoemaker-a-gentleman"
@@ -6674,8 +6674,8 @@
         "location": "Mercia",
         "original_label": "Mertia",
         "coordinates": [
-            49.9562971,
-            15.7992947
+            52.76034337204435,
+            -1.5629095780012927
         ],
         "titles": [
             "s-locrine"
@@ -6719,8 +6719,8 @@
         "location": "Pelham",
         "original_label": "Pelham",
         "coordinates": [
-            33.285669,
-            -86.8099884
+            51.41746454425896,
+            -0.1980514604975964
         ],
         "titles": [
             "sampson-the-vow-breaker"
@@ -6829,8 +6829,8 @@
         "location": "Tyre",
         "original_label": "Tyre",
         "coordinates": [
-            42.9911757,
-            -76.8021781
+            33.2721211,
+            35.1964023
         ],
         "titles": [
             "shirley-the-arcadia"
@@ -7119,8 +7119,8 @@
         "location": "Athens",
         "original_label": "Athens",
         "coordinates": [
-            33.9597677,
-            -83.376398
+            37.9755648,
+            23.7348324
         ],
         "titles": [
             "anon-the-taming-of-a-shrew",
@@ -7150,8 +7150,8 @@
         "location": "Gotham",
         "original_label": "Goteham",
         "coordinates": [
-            43.2233214,
-            -90.2915132
+            52.8671515,
+            -1.2032429
         ],
         "titles": [
             "anon-a-knack-to-know-a-knave"
@@ -7289,8 +7289,8 @@
         "location": "Mount Etna",
         "original_label": "Mongibell",
         "coordinates": [
-            40.7425444,
-            -85.5619208
+            -23.1666667,
+            150.45
         ],
         "titles": [
             "barnes-the-devil-s-charter"
@@ -7311,8 +7311,8 @@
         "location": "Galilea",
         "original_label": "Galily",
         "coordinates": [
-            42.3475858,
-            -2.2370324
+            6.3121286,
+            -9.1541114
         ],
         "titles": [
             "barnes-the-devil-s-charter"
@@ -7511,8 +7511,8 @@
         "location": "Baltic",
         "original_label": "Baltick",
         "coordinates": [
-            43.760461,
-            -96.7404105
+            56.0,
+            18.0
         ],
         "titles": [
             "davenant-albovine-king-of-the-lombards"
@@ -7608,8 +7608,8 @@
         "location": "Tower Street",
         "original_label": "Towerstr\u00e9et",
         "coordinates": [
-            42.542385249999995,
-            -83.36328488626208
+            51.5410272,
+            -0.058807899999999996
         ],
         "titles": [
             "dekker-the-shoemaker-s-holiday"
@@ -7751,8 +7751,8 @@
         "location": "Kingston",
         "original_label": "Kingston",
         "coordinates": [
-            17.9712148,
-            -76.7928128
+            52.1791855,
+            -0.0321477
         ],
         "titles": [
             "fletcher-the-woman-s-prize",
@@ -7797,8 +7797,8 @@
         "location": "Volga River",
         "original_label": "Volga",
         "coordinates": [
-            42.76560443832888,
-            -91.41439312508578
+            48.616234000000006,
+            44.5949707621117
         ],
         "titles": [
             "greene-friar-bacon-and-friar-bongay"
@@ -7863,8 +7863,8 @@
         "location": "Hampton",
         "original_label": "Hampton",
         "coordinates": [
-            37.0264414,
-            -76.3442846
+            51.4150272,
+            -0.3691409
         ],
         "titles": [
             "greene-friar-bacon-and-friar-bongay"
@@ -7940,8 +7940,8 @@
         "location": "Colchis",
         "original_label": "Colchian",
         "coordinates": [
-            -41.31402067284322,
-            148.2466272579551
+            41.5733215,
+            41.5723112
         ],
         "titles": [
             "heywood-the-brazen-age"
@@ -7951,8 +7951,8 @@
         "location": "Troy",
         "original_label": "Illium",
         "coordinates": [
-            42.7284117,
-            -73.6917878
+            43.3951943,
+            1.4863139
         ],
         "titles": [
             "heywood-the-brazen-age"
@@ -7962,8 +7962,8 @@
         "location": "Colchis",
         "original_label": "Colchos",
         "coordinates": [
-            -41.31402067284322,
-            148.2466272579551
+            41.5733215,
+            41.5723112
         ],
         "titles": [
             "heywood-the-brazen-age"
@@ -8006,8 +8006,8 @@
         "location": "Kent Street",
         "original_label": "Kentstreet",
         "coordinates": [
-            42.3440124,
-            -71.114352
+            50.9117333,
+            0.543834
         ],
         "titles": [
             "heywood-the-wise-woman-of-hogsdon"
@@ -8139,8 +8139,8 @@
         "location": "Utica",
         "original_label": "Vtica",
         "coordinates": [
-            43.1009031,
-            -75.2326641
+            37.05577435,
+            10.058028125630717
         ],
         "titles": [
             "marston-the-wonder-of-women",
@@ -8162,8 +8162,8 @@
         "location": "Mount Etna",
         "original_label": "Etnean",
         "coordinates": [
-            40.7425444,
-            -85.5619208
+            -23.1666667,
+            150.45
         ],
         "titles": [
             "mason-the-turk"
@@ -8228,8 +8228,8 @@
         "location": "Cambridge",
         "original_label": "Cambrick",
         "coordinates": [
-            52.2055314,
-            0.1186637
+            -25.7380912,
+            28.1009037
         ],
         "titles": [
             "middleton-the-widow"
@@ -8360,8 +8360,8 @@
         "location": "Biscay",
         "original_label": "Biscany",
         "coordinates": [
-            44.8274625,
-            -94.2749801
+            43.4024585,
+            -1.0579614
         ],
         "titles": [
             "rowley-all-s-lost-by-lust"
@@ -8404,8 +8404,8 @@
         "location": "Transylvania",
         "original_label": "Transilvania",
         "coordinates": [
-            35.1982216,
-            -82.7724889
+            55.7032915,
+            13.1937737
         ],
         "titles": [
             "shirley-the-impostor"
@@ -8459,8 +8459,8 @@
         "location": "Armenia",
         "original_label": "Hermenia",
         "coordinates": [
-            4.536307,
-            -75.6723751
+            40.7696272,
+            44.6736646
         ],
         "titles": [
             "zouche-the-sophister"
@@ -8470,8 +8470,8 @@
         "location": "Parthia",
         "original_label": "Parthesia",
         "coordinates": [
-            49.6,
-            -83.166667
+            51.45051813131935,
+            -0.9727473503229872
         ],
         "titles": [
             "zouche-the-sophister"
