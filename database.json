@@ -40,7 +40,7 @@
         ]
     },
     {
-        "location": "\u0644\u064a\u0628\u064a\u0627",
+        "location": "ليبيا",
         "original_label": "Libya",
         "coordinates": [
             26.8234472,
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "location": "Espa\u00f1a",
+        "location": "España",
         "original_label": "Spain",
         "coordinates": [
             39.3260685,
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "location": "Lyon, M\u00e9tropole de Lyon, Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+        "location": "Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France",
         "original_label": "Lyon",
         "coordinates": [
             45.7578137,
@@ -238,7 +238,7 @@
         ]
     },
     {
-        "location": "\u0627\u06cc\u0631\u0627\u0646",
+        "location": "ایران",
         "original_label": "Persia",
         "coordinates": [
             32.6475314,
@@ -265,7 +265,7 @@
         ]
     },
     {
-        "location": "Sardis, \u0130zmir-U\u015fak Yolu, Sart, Salihli, Manisa, Ege B\u00f6lgesi, 45450, T\u00fcrkiye",
+        "location": "Sardis, İzmir-Uşak Yolu, Sart, Salihli, Manisa, Ege Bölgesi, 45450, Türkiye",
         "original_label": "Sardis",
         "coordinates": [
             38.48845005,
@@ -277,7 +277,7 @@
         ]
     },
     {
-        "location": "\u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Ελλάς",
         "original_label": "Greece",
         "coordinates": [
             38.9953683,
@@ -343,7 +343,7 @@
         ]
     },
     {
-        "location": "Macedonia, Ciacova, Timi\u0219, 307114, Rom\u00e2nia",
+        "location": "Macedonia, Ciacova, Timiș, 307114, România",
         "original_label": "Macedonia",
         "coordinates": [
             45.5162469,
@@ -392,24 +392,29 @@
         ]
     },
     {
-        "location": "Babylon, okres Doma\u017elice, Plze\u0148sk\u00fd kraj, Jihoz\u00e1pad, \u010cesko",
-        "original_label": "Babylon",
+        "original_label": "Babylon/Babilon",
+        "location": "Babylon",
         "coordinates": [
             49.3975285,
             12.8617005
         ],
         "titles": [
-            "randolph-aristippus-or-the-jovial-philosopher",
-            "greene-orlando-furioso",
-            "anon-the-wars-of-cyrus",
-            "woodes-the-conflict-of-conscience",
-            "greene-friar-bacon-and-friar-bongay",
             "alexander-the-alexandraean-tragedy",
-            "jonson-the-case-is-altered"
+            "anon-caesar-and-pompey",
+            "anon-the-wars-of-cyrus",
+            "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+            "garter-the-most-virtuous-and-godly-susanna",
+            "greene-friar-bacon-and-friar-bongay",
+            "greene-orlando-furioso",
+            "jonson-the-case-is-altered",
+            "kyd-the-spanish-tragedy",
+            "marston-the-malcontent",
+            "randolph-aristippus-or-the-jovial-philosopher",
+            "woodes-the-conflict-of-conscience"
         ]
     },
     {
-        "location": "\u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03bd \u03a0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2 / Ege Denizi",
+        "location": "Αιγαίον Πέλαγος / Ege Denizi",
         "original_label": "Aegean",
         "coordinates": [
             38.06222755,
@@ -421,7 +426,7 @@
         ]
     },
     {
-        "location": "\u0627\u0644\u0641\u0631\u0627\u062a, \u0633\u0648\u0631\u064a\u0627",
+        "location": "الفرات, سوريا",
         "original_label": "Euphrates",
         "coordinates": [
             34.7314754,
@@ -435,7 +440,7 @@
         ]
     },
     {
-        "location": "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0639\u0631\u0628, \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "location": "جزيرة العرب, السعودية",
         "original_label": "Arabia",
         "coordinates": [
             22.3742506,
@@ -631,7 +636,7 @@
         ]
     },
     {
-        "location": "Vlaanderen, Belgi\u00eb / Belgique / Belgien",
+        "location": "Vlaanderen, België / Belgique / Belgien",
         "original_label": "Flanders",
         "coordinates": [
             51.096246199999996,
@@ -816,111 +821,112 @@
         ]
     },
     {
+        "original_label": "France/Fraunce",
         "location": "France",
-        "original_label": "France",
         "coordinates": [
             46.603354,
             1.8883335
         ],
         "titles": [
-            "davenport-a-new-trick-to-cheat-the-devil",
-            "massinger-the-maid-of-honour",
-            "anon-the-reign-of-king-edward-the-third",
-            "hawkins-apollo-shroving",
-            "shirley-the-witty-fair-one",
-            "brome-the-northern-lass",
-            "massinger-the-guardian",
-            "dekker-blurt-master-constable",
-            "porter-the-two-angry-women-of-abingdon",
-            "dekker-middleton-the-roaring-girl",
-            "brome-the-sparagus-garden",
-            "killigrew-the-parson-s-wedding",
-            "brome-the-english-moor",
             "anon-a-knack-to-know-a-knave",
-            "brome-the-new-academy",
-            "marlowe-the-massacre-at-paris",
-            "brome-the-weeding-of-the-covent-garden",
-            "heywood-the-four-prentices-of-london",
-            "smith-smith-the-hector-of-germany",
-            "glapthorne-the-ladies-privilege",
-            "rowley-a-shoemaker-a-gentleman",
-            "shirley-love-s-cruelty",
-            "webster-the-devil-s-law-case",
-            "dekker-the-wonder-of-a-kingdom",
-            "shirley-the-humorous-courtier",
-            "heywood-a-woman-killed-with-kindness",
-            "chapman-jonson-marston-eastward-ho",
-            "davenant-albovine-king-of-the-lombards",
-            "heywood-the-wise-woman-of-hogsdon",
-            "chapman-the-revenge-of-bussy-d-ambois",
-            "dekker-the-shoemaker-s-holiday",
-            "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
-            "armin-the-two-maids-of-more-clacke",
-            "heywood-the-english-traveller",
-            "barnes-the-devil-s-charter",
-            "brathwait-mercurius-britannicus",
-            "heywood-if-you-know-not-me-you-know-nobody-2",
-            "anon-the-true-chronicle-of-king-leir",
-            "w-the-valiant-scot",
-            "beaumont-fletcher-the-coxcomb",
-            "brome-the-cunning-lovers",
-            "fletcher-the-woman-s-prize",
-            "heywood-brome-the-late-lancashire-witches",
-            "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
-            "greene-the-scottish-history-of-james-the-fourth",
-            "rowley-when-you-see-me-you-know-me",
             "anon-caesar-and-pompey",
-            "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
-            "brome-the-damoiselle-or-the-new-ordinary",
-            "chapman-the-tragedy-of-charles-duke-of-byron",
-            "tourneur-the-atheist-s-tragedy",
+            "anon-nero",
+            "anon-the-reign-of-king-edward-the-third",
             "anon-the-trial-of-chivalry",
-            "heywood-a-challenge-for-beauty",
-            "heywood-rowley-fortune-by-land-and-sea",
-            "fletcher-massinger-a-very-woman",
+            "anon-the-true-chronicle-of-king-leir",
             "anon-the-true-tragedy-of-richard-the-third",
-            "jonson-the-case-is-altered",
-            "shirley-the-ball",
-            "chapman-monsieur-d-olive",
-            "shirley-the-sisters",
-            "field-amends-for-ladies",
-            "field-massinger-fletcher-the-honest-man-s-fortune",
-            "dekker-ford-the-sun-s-darling",
-            "peele-edward-the-first",
-            "may-cleopatra-queen-of-egypt",
+            "armin-the-two-maids-of-more-clacke",
+            "barnes-the-devil-s-charter",
+            "beaumont-fletcher-massinger-thierry-and-theodoret",
+            "beaumont-fletcher-the-coxcomb",
+            "belchier-hans-beer-pot",
+            "brathwait-mercurius-britannicus",
             "brome-the-antipodes",
-            "greene-orlando-furioso",
+            "brome-the-cunning-lovers",
+            "brome-the-damoiselle-or-the-new-ordinary",
+            "brome-the-english-moor",
+            "brome-the-new-academy",
+            "brome-the-northern-lass",
+            "brome-the-sparagus-garden",
+            "brome-the-weeding-of-the-covent-garden",
             "cavendish-the-variety",
             "chapman-all-fools",
-            "jonson-volpone",
-            "rowley-the-birth-of-merlin",
-            "fletcher-massinger-the-prophetess",
-            "munday-chettle-the-death-of-robert-earl-of-huntingdon",
-            "dekker-the-honest-whore-2",
-            "s-thomas-lord-cromwell",
-            "kyd-soliman-and-perseda",
-            "dekker-haughton-day-lust-s-dominion",
-            "massinger-the-unnatural-combat",
-            "harding-sicily-and-naples",
-            "chapman-the-conspiracy-of-charles-duke-of-byron",
-            "fletcher-beaumont-the-noble-gentleman",
-            "fletcher-massinger-the-elder-brother",
-            "sampson-the-vow-breaker",
-            "jonson-the-devil-is-an-ass",
-            "middleton-a-game-at-chess",
-            "daborne-a-christian-turned-turk",
-            "ford-love-s-sacrifice",
-            "anon-nero",
-            "beaumont-fletcher-massinger-thierry-and-theodoret",
-            "marlowe-the-jew-of-malta",
-            "ford-the-fancies-chaste-and-noble",
             "chapman-an-humorous-day-s-mirth",
-            "belchier-hans-beer-pot",
-            "fletcher-massinger-the-sea-voyage",
+            "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+            "chapman-jonson-marston-eastward-ho",
+            "chapman-monsieur-d-olive",
+            "chapman-the-conspiracy-of-charles-duke-of-byron",
+            "chapman-the-revenge-of-bussy-d-ambois",
+            "chapman-the-tragedy-of-charles-duke-of-byron",
+            "daborne-a-christian-turned-turk",
+            "davenant-albovine-king-of-the-lombards",
+            "davenport-a-new-trick-to-cheat-the-devil",
+            "dekker-blurt-master-constable",
+            "dekker-ford-the-sun-s-darling",
+            "dekker-haughton-day-lust-s-dominion",
+            "dekker-middleton-the-roaring-girl",
+            "dekker-the-honest-whore-2",
+            "dekker-the-shoemaker-s-holiday",
+            "dekker-the-wonder-of-a-kingdom",
             "dekker-webster-northward-ho",
+            "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
+            "dekker-webster-westward-ho",
+            "field-amends-for-ladies",
+            "field-massinger-fletcher-the-honest-man-s-fortune",
+            "fletcher-beaumont-the-noble-gentleman",
+            "fletcher-massinger-a-very-woman",
+            "fletcher-massinger-the-elder-brother",
+            "fletcher-massinger-the-prophetess",
+            "fletcher-massinger-the-sea-voyage",
+            "fletcher-the-woman-s-prize",
+            "ford-love-s-sacrifice",
+            "ford-the-fancies-chaste-and-noble",
+            "glapthorne-the-ladies-privilege",
+            "greene-orlando-furioso",
+            "greene-the-scottish-history-of-james-the-fourth",
+            "harding-sicily-and-naples",
+            "haughton-englishmen-for-my-money",
+            "hawkins-apollo-shroving",
+            "heywood-a-challenge-for-beauty",
+            "heywood-a-woman-killed-with-kindness",
+            "heywood-brome-the-late-lancashire-witches",
+            "heywood-if-you-know-not-me-you-know-nobody-2",
+            "heywood-rowley-fortune-by-land-and-sea",
+            "heywood-the-english-traveller",
+            "heywood-the-four-prentices-of-london",
+            "heywood-the-wise-woman-of-hogsdon",
+            "jonson-the-case-is-altered",
+            "jonson-the-devil-is-an-ass",
+            "jonson-volpone",
+            "killigrew-the-parson-s-wedding",
+            "kyd-soliman-and-perseda",
+            "marlowe-the-jew-of-malta",
+            "marlowe-the-massacre-at-paris",
+            "massinger-the-guardian",
+            "massinger-the-maid-of-honour",
+            "massinger-the-unnatural-combat",
+            "may-cleopatra-queen-of-egypt",
+            "middleton-a-game-at-chess",
+            "munday-chettle-the-death-of-robert-earl-of-huntingdon",
+            "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
+            "peele-edward-the-first",
+            "porter-the-two-angry-women-of-abingdon",
             "rawlins-the-rebellion",
-            "webster-the-duchess-of-malfi",
-            "dekker-webster-westward-ho"
+            "rowley-a-shoemaker-a-gentleman",
+            "rowley-the-birth-of-merlin",
+            "rowley-when-you-see-me-you-know-me",
+            "s-thomas-lord-cromwell",
+            "sampson-the-vow-breaker",
+            "shirley-love-s-cruelty",
+            "shirley-the-ball",
+            "shirley-the-humorous-courtier",
+            "shirley-the-sisters",
+            "shirley-the-witty-fair-one",
+            "smith-smith-the-hector-of-germany",
+            "tourneur-the-atheist-s-tragedy",
+            "w-the-valiant-scot",
+            "webster-the-devil-s-law-case",
+            "webster-the-duchess-of-malfi"
         ]
     },
     {
@@ -948,11 +954,11 @@
         ]
     },
     {
-        "location": "Leyre, Garein, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 40420, France",
+        "location": "Leiria, Portugal",
         "original_label": "Leyre",
         "coordinates": [
-            44.0277447,
-            -0.6325309
+            39.7463,
+            -8.8069
         ],
         "titles": [
             "anon-a-larum-for-london"
@@ -977,15 +983,16 @@
         ]
     },
     {
-        "location": "Antwerpen, Vlaanderen, Belgi\u00eb / Belgique / Belgien",
-        "original_label": "Antwerp",
+        "original_label": "Antwerp/Anwerpe",
+        "location": "Antwerpen, Vlaanderen, België / Belgique / Belgien",
         "coordinates": [
             51.2211097,
             4.3997081
         ],
         "titles": [
-            "gascoigne-the-glass-of-government",
             "anon-a-larum-for-london",
+            "gascoigne-the-glass-of-government",
+            "heywood-if-you-know-not-me-you-know-nobody-2",
             "shirley-the-ball"
         ]
     },
@@ -1028,22 +1035,23 @@
         ]
     },
     {
+        "original_label": "Cornwall/Corn-Wale",
         "location": "Cornwall, England, United Kingdom",
-        "original_label": "Cornwall",
         "coordinates": [
             50.443348900000004,
             -4.62465658489158
         ],
         "titles": [
-            "heywood-the-fair-maid-of-the-west-1",
-            "brome-the-antipodes",
-            "hughes-the-misfortunes-of-arthur",
-            "brome-the-northern-lass",
-            "s-locrine",
+            "anon-alphonsus-emperor-of-germany",
             "anon-the-true-chronicle-of-king-leir",
-            "ford-perkin-warbeck",
+            "brome-the-antipodes",
             "brome-the-court-beggar",
-            "anon-alphonsus-emperor-of-germany"
+            "brome-the-northern-lass",
+            "ford-perkin-warbeck",
+            "haughton-englishmen-for-my-money",
+            "heywood-the-fair-maid-of-the-west-1",
+            "hughes-the-misfortunes-of-arthur",
+            "s-locrine"
         ]
     },
     {
@@ -1058,14 +1066,17 @@
         ]
     },
     {
+        "original_label": "Rhein/Rhine",
         "location": "Rhein, Deutschland",
-        "original_label": "Rhein",
         "coordinates": [
             50.4677626,
             7.351989
         ],
         "titles": [
-            "anon-alphonsus-emperor-of-germany"
+            "anon-alphonsus-emperor-of-germany",
+            "fisher-fuimus-troes",
+            "marlowe-dr-faustus",
+            "rowley-a-shoemaker-a-gentleman"
         ]
     },
     {
@@ -1174,7 +1185,7 @@
         ]
     },
     {
-        "location": "\u0633\u0648\u0631\u064a\u0629, \u0633\u0648\u0631\u064a\u0627",
+        "location": "سورية, سوريا",
         "original_label": "Syria",
         "coordinates": [
             34.8147886,
@@ -1189,7 +1200,7 @@
         ]
     },
     {
-        "location": "\u0642\u0631\u0637\u0627\u062c, \u0648\u0644\u0627\u064a\u0629 \u062a\u0648\u0646\u0633, 2016, \u062a\u0648\u0646\u0633",
+        "location": "قرطاج, ولاية تونس, 2016, تونس",
         "original_label": "Carthage",
         "coordinates": [
             36.8548083,
@@ -1205,26 +1216,11 @@
         ]
     },
     {
-        "location": "Babylon, okres Doma\u017elice, Plze\u0148sk\u00fd kraj, Jihoz\u00e1pad, \u010cesko",
-        "original_label": "Babilon",
-        "coordinates": [
-            49.3975285,
-            12.8617005
-        ],
-        "titles": [
-            "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
-            "kyd-the-spanish-tragedy",
-            "garter-the-most-virtuous-and-godly-susanna",
-            "marston-the-malcontent",
-            "anon-caesar-and-pompey"
-        ]
-    },
-    {
-        "location": "Ganges, Lod\u00e8ve, H\u00e9rault, Occitanie, France m\u00e9tropolitaine, 34190, France",
+        "location": "Ganges River",
         "original_label": "Ganges",
         "coordinates": [
-            43.9344721,
-            3.7095134
+            25.34,
+            83.10
         ],
         "titles": [
             "fisher-fuimus-troes",
@@ -1235,7 +1231,7 @@
         ]
     },
     {
-        "location": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Περιφέρεια Θεσσαλίας, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος, Ελλάς",
         "original_label": "Thessaly",
         "coordinates": [
             39.575592900000004,
@@ -1281,15 +1277,15 @@
         "location": "Nile River",
         "original_label": "Nile",
         "coordinates": [
-            24.6238351,
-            88.0095609
+            22.724378,
+            32.1053309
         ],
         "titles": [
             "anon-caesar-and-pompey"
         ]
     },
     {
-        "location": "\u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03b9, \u0395\u039f12, \u039a\u03c1\u03b7\u03bd\u03af\u03b4\u03b5\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 640 03, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Φίλιπποι, ΕΟ12, Κρηνίδες, Δήμος Καβάλας, Περιφερειακή Ενότητα Καβάλας, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 640 03, Ελλάς",
         "original_label": "Philippi",
         "coordinates": [
             41.0132841,
@@ -1301,15 +1297,16 @@
         ]
     },
     {
-        "location": "Pharsalus, \u0399\u03c4\u03ad\u03b1\u03c2 - \u03a6\u03b1\u03c1\u03c3\u03ac\u03bb\u03c9\u03bd, \u03a0\u03c5\u03c1\u03b3\u03ac\u03ba\u03b9\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03bd\u03b9\u03c0\u03c0\u03ad\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a6\u03b1\u03c1\u03c3\u03ac\u03bb\u03c9\u03bd, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b1\u03bb\u03b1\u03bc\u03ac, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2, 403 00, \u0395\u03bb\u03bb\u03ac\u03c2",
-        "original_label": "Pharsalus",
+        "original_label": "Pharsalus/Pharsailaes",
+        "location": "Pharsalus, Ιτέας - Φαρσάλων, Πυργάκια, Δημοτική Ενότητα Ενιππέα, Δήμος Φαρσάλων, Δήμος Παλαμά, Περιφερειακή Ενότητα Λάρισας, Περιφέρεια Θεσσαλίας, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος, 403 00, Ελλάς",
         "coordinates": [
             39.3627108,
             22.2835063
         ],
         "titles": [
+            "anon-caesar-and-pompey",
             "dekker-massinger-the-virgin-martyr",
-            "anon-caesar-and-pompey"
+            "may-cleopatra-queen-of-egypt"
         ]
     },
     {
@@ -1388,7 +1385,7 @@
         ]
     },
     {
-        "location": "L\u00fcbeck, Schleswig-Holstein, Deutschland",
+        "location": "Lübeck, Schleswig-Holstein, Deutschland",
         "original_label": "Lubeck",
         "coordinates": [
             53.866444,
@@ -1427,7 +1424,7 @@
         ]
     },
     {
-        "location": "Val\u00e8ncia, Comarca de Val\u00e8ncia, Val\u00e8ncia / Valencia, Comunitat Valenciana, Espa\u00f1a",
+        "location": "València, Comarca de València, València / Valencia, Comunitat Valenciana, España",
         "original_label": "Valentia",
         "coordinates": [
             39.4697065,
@@ -1441,7 +1438,7 @@
         ]
     },
     {
-        "location": "Paris, \u00cele-de-France, France m\u00e9tropolitaine, France",
+        "location": "Paris, Île-de-France, France métropolitaine, France",
         "original_label": "Paris",
         "coordinates": [
             48.8534951,
@@ -1517,7 +1514,7 @@
         ]
     },
     {
-        "location": "Caucasus Mountains, \u10ed\u10d0\u10da\u10d8\u10e1\u10dd\u10e4\u10d4\u10da\u10d8, \u10d3\u10e3\u10e8\u10d4\u10d7\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8, \u10db\u10ea\u10ee\u10d4\u10d7\u10d0-\u10db\u10d7\u10d8\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+        "location": "Caucasus Mountains, ჭალისოფელი, დუშეთის მუნიციპალიტეტი, მცხეთა-მთიანეთი, საქართველო",
         "original_label": "Caucasus",
         "coordinates": [
             42.4913744,
@@ -1545,7 +1542,7 @@
         ]
     },
     {
-        "location": "\u039a\u03cc\u03c1\u03b9\u03bd\u03b8\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Κόρινθος, Δήμος Κορινθίων, Περιφερειακή Ενότητα Κορινθίας, Περιφέρεια Πελοποννήσου, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, Ελλάς",
         "original_label": "Corinth",
         "coordinates": [
             37.9385413,
@@ -1563,7 +1560,7 @@
         ]
     },
     {
-        "location": "\u0634\u0627\u0631\u0639 \u0627\u0644\u0628\u064a\u0627\u0639, \u0645\u062f\u064a\u0646\u0647 \u0637\u0644\u062e\u0627, \u0637\u0644\u062e\u0627, \u0627\u0644\u062f\u0642\u0647\u0644\u064a\u0629, 35681, \u0645\u0635\u0631",
+        "location": "شارع البياع, مدينه طلخا, طلخا, الدقهلية, 35681, مصر",
         "original_label": "Baiae",
         "coordinates": [
             31.05080331991916,
@@ -1586,7 +1583,7 @@
         ]
     },
     {
-        "location": "Bretagne, France m\u00e9tropolitaine, France",
+        "location": "Bretagne, France métropolitaine, France",
         "original_label": "Brittany",
         "coordinates": [
             48.2640845,
@@ -1691,7 +1688,7 @@
         ]
     },
     {
-        "location": "Delphos, Paseo Carlos Era\u00f1a, Los \u00c1ngeles, Ciudad Real, Castilla-La Mancha, 13004, Espa\u00f1a",
+        "location": "Delphos, Paseo Carlos Eraña, Los Ángeles, Ciudad Real, Castilla-La Mancha, 13004, España",
         "original_label": "Delphos",
         "coordinates": [
             38.978684,
@@ -1708,7 +1705,7 @@
         ]
     },
     {
-        "location": "Midleton, Mill Road, Midleton, The Municipal District of East Cork, County Cork, Munster, P25 WK13, \u00c9ire / Ireland",
+        "location": "Midleton, Mill Road, Midleton, The Municipal District of East Cork, County Cork, Munster, P25 WK13, Éire / Ireland",
         "original_label": "Midleton",
         "coordinates": [
             51.9211201,
@@ -1732,21 +1729,22 @@
         ]
     },
     {
+        "original_label": "Norfolk/Norffolke",
         "location": "Norfolk, England, United Kingdom",
-        "original_label": "Norfolk",
         "coordinates": [
             52.666667,
             1.0
         ],
         "titles": [
-            "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
-            "middleton-the-mayor-of-quinborough",
             "anon-the-merry-devil-of-edmonton",
-            "jonson-the-devil-is-an-ass",
             "barry-ram-alley",
-            "rowley-the-birth-of-merlin",
+            "brome-the-english-moor",
+            "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
             "dekker-webster-westward-ho",
-            "brome-the-english-moor"
+            "jonson-the-devil-is-an-ass",
+            "middleton-the-mayor-of-quinborough",
+            "rowley-the-birth-of-merlin",
+            "s-thomas-lord-cromwell"
         ]
     },
     {
@@ -1911,7 +1909,7 @@
         ]
     },
     {
-        "location": "Normandie, France m\u00e9tropolitaine, France",
+        "location": "Normandie, France métropolitaine, France",
         "original_label": "Normandy",
         "coordinates": [
             49.0677708,
@@ -1966,16 +1964,17 @@
         ]
     },
     {
+        "original_label": "Cambria/Cambrick",
         "location": "Wales",
-        "original_label": "Cambria",
         "coordinates": [
-            -33.6658802,
-            24.574292
+            52.2928116,
+            -3.73893
         ],
         "titles": [
-            "peele-edward-the-first",
+            "anon-the-true-chronicle-of-king-leir",
             "dekker-chettle-haughton-patient-grissel",
-            "anon-the-true-chronicle-of-king-leir"
+            "middleton-the-widow",
+            "peele-edward-the-first"
         ]
     },
     {
@@ -2002,58 +2001,61 @@
         ]
     },
     {
+        "original_label": "Britain/BRITANIA",
         "location": "Great Britain, United Kingdom",
-        "original_label": "Britain",
         "coordinates": [
             54.3151594,
             -1.9181532111487878
         ],
         "titles": [
+            "anon-the-true-tragedy-of-richard-the-third",
             "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
             "chapman-the-tragedy-of-charles-duke-of-byron",
-            "rowley-a-shoemaker-a-gentleman",
-            "hughes-the-misfortunes-of-arthur",
-            "marlowe-the-jew-of-malta",
-            "rowley-the-birth-of-merlin",
             "fletcher-massinger-the-prophetess",
-            "anon-the-true-tragedy-of-richard-the-third",
-            "massinger-the-city-madam"
+            "hughes-the-misfortunes-of-arthur",
+            "jonson-the-characters-of-two-royal-masques",
+            "marlowe-the-jew-of-malta",
+            "massinger-the-city-madam",
+            "rowley-a-shoemaker-a-gentleman",
+            "rowley-the-birth-of-merlin"
         ]
     },
     {
+        "original_label": "Oxford/Oxenford",
         "location": "Oxford, Oxfordshire, England, United Kingdom",
-        "original_label": "Oxford",
         "coordinates": [
             51.7520131,
             -1.2578499
         ],
         "titles": [
-            "wilson-the-three-ladies-of-london",
-            "jonson-bartholomew-fair",
-            "shirley-the-witty-fair-one",
-            "dekker-webster-northward-ho",
-            "wilkins-the-miseries-of-enforced-marriage",
-            "greene-friar-bacon-and-friar-bongay",
-            "ford-perkin-warbeck",
-            "drue-the-duchess-of-suffolk",
-            "peele-edward-the-first",
             "anon-the-true-tragedy-of-richard-the-third",
-            "heywood-the-wise-woman-of-hogsdon"
+            "dekker-webster-northward-ho",
+            "drue-the-duchess-of-suffolk",
+            "ford-perkin-warbeck",
+            "greene-friar-bacon-and-friar-bongay",
+            "heywood-the-wise-woman-of-hogsdon",
+            "jonson-bartholomew-fair",
+            "peele-edward-the-first",
+            "porter-the-two-angry-women-of-abingdon",
+            "shirley-the-witty-fair-one",
+            "wilkins-the-miseries-of-enforced-marriage",
+            "wilson-the-three-ladies-of-london"
         ]
     },
     {
+        "original_label": "Northumberland/Northumbria",
         "location": "Northumberland, North East, England, United Kingdom",
-        "original_label": "Northumberland",
         "coordinates": [
             55.25,
             -2.000559
         ],
         "titles": [
+            "anon-the-true-tragedy-of-richard-the-third",
+            "brome-the-queen-s-exchange",
             "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
             "jonson-the-devil-is-an-ass",
             "rowley-the-birth-of-merlin",
-            "w-the-valiant-scot",
-            "anon-the-true-tragedy-of-richard-the-third"
+            "w-the-valiant-scot"
         ]
     },
     {
@@ -2153,8 +2155,8 @@
         "location": "Brentford",
         "original_label": "Brainford",
         "coordinates": [
-			51.48833078583104, 
-			-0.30959676233823713
+            51.48833078583104,
+            -0.30959676233823713
         ],
         "titles": [
             "killigrew-the-parson-s-wedding",
@@ -2189,7 +2191,7 @@
         ]
     },
     {
-        "location": "Wien, \u00d6sterreich",
+        "location": "Wien, Österreich",
         "original_label": "Vienna",
         "coordinates": [
             48.2083537,
@@ -2212,14 +2214,16 @@
         ]
     },
     {
+        "original_label": "Swisserland/Switzerland",
         "location": "Schweiz/Suisse/Svizzera/Svizra",
-        "original_label": "Swisserland",
         "coordinates": [
             46.7985624,
             8.2319736
         ],
         "titles": [
-            "barnes-the-devil-s-charter"
+            "barnes-the-devil-s-charter",
+            "cavendish-the-variety",
+            "chapman-the-tragedy-of-charles-duke-of-byron"
         ]
     },
     {
@@ -2234,15 +2238,16 @@
         ]
     },
     {
+        "original_label": "Mediterranean/Mediterean",
         "location": "Mediterranean Sea",
-        "original_label": "Mediterranean",
         "coordinates": [
             35.0000035,
             19.9999957
         ],
         "titles": [
             "barnes-the-devil-s-charter",
-            "marlowe-the-jew-of-malta"
+            "marlowe-the-jew-of-malta",
+            "webster-rowley-the-thracian-wonder"
         ]
     },
     {
@@ -2278,28 +2283,29 @@
         ]
     },
     {
-        "location": "T\u00fcrkiye",
-        "original_label": "Turkey",
+        "original_label": "Turkey/Turk",
+        "location": "Türkiye",
         "coordinates": [
             38.9597594,
             34.9249653
         ],
         "titles": [
+            "barnes-the-devil-s-charter",
             "beaumont-fletcher-the-coxcomb",
-            "massinger-the-picture",
-            "wilson-the-three-ladies-of-london",
             "chapman-the-tragedy-of-charles-duke-of-byron",
-            "shirley-the-ball",
+            "day-law-tricks",
             "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
-            "mason-the-turk",
+            "fletcher-massinger-a-very-woman",
+            "greene-selimus-1",
+            "heywood-the-four-prentices-of-london",
             "kyd-soliman-and-perseda",
             "marlowe-the-jew-of-malta",
-            "shirley-the-humorous-courtier",
-            "day-law-tricks",
-            "barnes-the-devil-s-charter",
-            "heywood-the-four-prentices-of-london",
+            "mason-the-turk",
+            "massinger-the-picture",
             "peele-the-battle-of-alcazar",
-            "greene-selimus-1"
+            "shirley-the-ball",
+            "shirley-the-humorous-courtier",
+            "wilson-the-three-ladies-of-london"
         ]
     },
     {
@@ -2399,7 +2405,7 @@
         ]
     },
     {
-        "location": "Schis\u00f2, Chianchitta, Giardini-Naxos, Messina, Sicilia, 98035, Italia",
+        "location": "Schisò, Chianchitta, Giardini-Naxos, Messina, Sicilia, 98035, Italia",
         "original_label": "Naxos",
         "coordinates": [
             37.8240743,
@@ -2448,7 +2454,7 @@
         ]
     },
     {
-        "location": "Europ\u00e4ische S\u00fcdsternwarte, 2, Karl-Schwarzschild-Stra\u00dfe, Hochschul- und Forschungszentrum, Garching bei M\u00fcnchen, Landkreis M\u00fcnchen, Bayern, 85748, Deutschland",
+        "location": "Europäische Südsternwarte, 2, Karl-Schwarzschild-Straße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
         "original_label": "Hemisphere",
         "coordinates": [
             48.2600738,
@@ -2459,7 +2465,7 @@
         ]
     },
     {
-        "location": "Castalian Spring, 24, Schulzendorfer Stra\u00dfe, Gesundbrunnen, Mitte, Berlin, 13347, Deutschland",
+        "location": "Castalian Spring, 24, Schulzendorfer Straße, Gesundbrunnen, Mitte, Berlin, 13347, Deutschland",
         "original_label": "Castalian",
         "coordinates": [
             52.5402678,
@@ -2494,7 +2500,7 @@
         ]
     },
     {
-        "location": "Rom\u00e2nia",
+        "location": "România",
         "original_label": "Romania",
         "coordinates": [
             45.9852129,
@@ -2540,19 +2546,20 @@
         ]
     },
     {
-        "location": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
-        "original_label": "Armenia",
+        "original_label": "Armenia/Hermenia",
+        "location": "Հայաստան",
         "coordinates": [
             40.7696272,
             44.6736646
         ],
         "titles": [
             "beaumont-fletcher-a-king-and-no-king",
-            "yarington-two-lamentable-tragedies"
+            "yarington-two-lamentable-tragedies",
+            "zouche-the-sophister"
         ]
     },
     {
-        "location": "Iberia \u0625\u064a\u0628\u0631\u064a\u0627, arrondissement de Tanger-Medina \u0637\u0646\u062c\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629, Tanger \u0637\u0646\u062c\u0629, Pachalik de Tanger \u0628\u0627\u0634\u0648\u064a\u0629 \u0637\u0646\u062c\u0629, Pr\u00e9fecture de Tanger-Assilah \u0639\u0645\u0627\u0644\u0629 \u0637\u0646\u062c\u0629-\u0623\u0635\u064a\u0644\u0629, Tanger-T\u00e9touan-Al Hoce\u00efma \u2d5f\u2d30\u2d4f\u2d4a-\u2d5f\u2d49\u2d5c\u2d30\u2d61\u2d49\u2d4f-\u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30 \u0637\u0646\u062c\u0629 \u062a\u0637\u0648\u0627\u0646 \u0627\u0644\u062d\u0633\u064a\u0645\u0629, 90003, Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+        "location": "Iberia إيبريا, arrondissement de Tanger-Medina طنجة المدينة, Tanger طنجة, Pachalik de Tanger باشوية طنجة, Préfecture de Tanger-Assilah عمالة طنجة-أصيلة, Tanger-Tétouan-Al Hoceïma ⵟⴰⵏⵊ-ⵟⵉⵜⴰⵡⵉⵏ-ⵍⵃⵓⵙⵉⵎⴰ طنجة تطوان الحسيمة, 90003, Maroc ⵍⵎⵖⵔⵉⴱ المغرب",
         "original_label": "Iberia",
         "coordinates": [
             35.7825706,
@@ -2565,7 +2572,7 @@
         ]
     },
     {
-        "location": "Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, Espa\u00f1a",
+        "location": "Barcelona, Barcelonès, Barcelona, Catalunya, España",
         "original_label": "Barcelona",
         "coordinates": [
             41.3828939,
@@ -2576,7 +2583,7 @@
         ]
     },
     {
-        "location": "Madrid, Comunidad de Madrid, Espa\u00f1a",
+        "location": "Madrid, Comunidad de Madrid, España",
         "original_label": "Madrid",
         "coordinates": [
             40.4167047,
@@ -2602,7 +2609,7 @@
         ]
     },
     {
-        "location": "Brugge, West-Vlaanderen, Vlaanderen, Belgi\u00eb / Belgique / Belgien",
+        "location": "Brugge, West-Vlaanderen, Vlaanderen, België / Belgique / Belgien",
         "original_label": "Bruges",
         "coordinates": [
             51.2085526,
@@ -2613,7 +2620,7 @@
         ]
     },
     {
-        "location": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+        "location": "Κύπρος, Κύπρος - Kıbrıs",
         "original_label": "Cyprus",
         "coordinates": [
             34.9174159,
@@ -2631,7 +2638,7 @@
         ]
     },
     {
-        "location": "Arras, Pas-de-Calais, Hauts-de-France, France m\u00e9tropolitaine, 62000, France",
+        "location": "Arras, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62000, France",
         "original_label": "Arras",
         "coordinates": [
             50.291048,
@@ -2661,7 +2668,7 @@
         ]
     },
     {
-        "location": "Oostende, West-Vlaanderen, Vlaanderen, 8400, Belgi\u00eb / Belgique / Belgien",
+        "location": "Oostende, West-Vlaanderen, Vlaanderen, 8400, België / Belgique / Belgien",
         "original_label": "Ostend",
         "coordinates": [
             51.2258565,
@@ -2674,11 +2681,11 @@
         ]
     },
     {
-        "location": "Rhodes, Sarrebourg-Ch\u00e2teau-Salins, Moselle, Grand Est, France m\u00e9tropolitaine, 57810, France",
+        "location": "Rhodes, Greece",
         "original_label": "Rhodes",
         "coordinates": [
-            48.7584377,
-            6.8985177
+			36.1889,
+			27.9437
         ],
         "titles": [
             "marlowe-dr-faustus",
@@ -2714,7 +2721,7 @@
         ]
     },
     {
-        "location": "\u00c9ire / Ireland",
+        "location": "Éire / Ireland",
         "original_label": "Ireland",
         "coordinates": [
             52.865196,
@@ -2748,7 +2755,7 @@
         ]
     },
     {
-        "location": "\u0412\u0430\u0440\u043d\u0430, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+        "location": "Варна, България",
         "original_label": "Varna",
         "coordinates": [
             43.2052135,
@@ -2759,18 +2766,19 @@
         ]
     },
     {
-        "location": "Le Numedia, Place Alphonse Canovas, Saint-Antoine, Marseille 15e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 13015, France",
-        "original_label": "Numedia",
+        "original_label": "Numedia/Numidia",
+        "location": "Numidia, North Africa",
         "coordinates": [
-            43.371152,
-            5.3551448
+            36.03,
+            4.75
         ],
         "titles": [
-            "belchier-hans-beer-pot"
+            "belchier-hans-beer-pot",
+            "nabbes-hannibal-and-scipio"
         ]
     },
     {
-        "location": "\u0645\u0635\u0631",
+        "location": "مصر",
         "original_label": "Aegypt",
         "coordinates": [
             26.2540493,
@@ -2826,15 +2834,15 @@
         "location": "Hyde Park",
         "original_label": "Hide-park",
         "coordinates": [
-            13.0047034,
-            77.6233368
+            51.5074889,
+            -0.1622074056037135
         ],
         "titles": [
             "brome-a-jovial-crew"
         ]
     },
     {
-        "location": "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ac\u03c6\u03bf\u03c5, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03ac\u03c6\u03bf\u03c5, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+        "location": "Δήμος Πάφου, Επαρχία Πάφου, Κύπρος, Κύπρος - Kıbrıs",
         "original_label": "Paphos",
         "coordinates": [
             34.7743988,
@@ -2870,7 +2878,7 @@
         ]
     },
     {
-        "location": "Heliconbuurt, Leeuwarden, Frysl\u00e2n, Nederland",
+        "location": "Heliconbuurt, Leeuwarden, Fryslân, Nederland",
         "original_label": "Helicon",
         "coordinates": [
             53.20176635,
@@ -2902,7 +2910,7 @@
         ]
     },
     {
-        "location": "Olimpos, Kumluca, Antalya, Akdeniz B\u00f6lgesi, 07982, T\u00fcrkiye",
+        "location": "Olimpos, Kumluca, Antalya, Akdeniz Bölgesi, 07982, Türkiye",
         "original_label": "Olympus",
         "coordinates": [
             36.3965579,
@@ -2913,11 +2921,11 @@
         ]
     },
     {
-        "location": "Ousse, Pau, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 64320, France",
+        "location": "Mount Ossa",
         "original_label": "Ossa",
         "coordinates": [
-            43.2831471,
-            -0.2682274
+            39.4747,
+            22.4110
         ],
         "titles": [
             "brome-the-court-beggar",
@@ -2960,11 +2968,11 @@
         ]
     },
     {
-        "location": "Indies, Rue Bonaparte, Quartier de l'Od\u00e9on, Paris 6e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75006, France",
+        "location": "West Indies",
         "original_label": "Indies",
         "coordinates": [
-            48.8517774,
-            2.3330731
+            20.3,
+            -76.3
         ],
         "titles": [
             "massinger-the-picture",
@@ -2981,7 +2989,7 @@
         ]
     },
     {
-        "location": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629, \u0645\u0635\u0631",
+        "location": "القاهرة, مصر",
         "original_label": "Caire",
         "coordinates": [
             30.0332516,
@@ -3025,7 +3033,7 @@
         ]
     },
     {
-        "location": "Aspen, Br\u00e5tan\u00e4sv\u00e4gen, Hulan, Br\u00e5ta, Lerums distrikt, Lerum, Lerums kommun, V\u00e4stra G\u00f6talands l\u00e4n, 443 51, Sverige",
+        "location": "Aspen, Bråtanäsvägen, Hulan, Bråta, Lerums distrikt, Lerum, Lerums kommun, Västra Götalands län, 443 51, Sverige",
         "original_label": "Aspen",
         "coordinates": [
             57.7544361,
@@ -3039,7 +3047,7 @@
         ]
     },
     {
-        "location": "Milford, County Donegal, Ulster, \u00c9ire / Ireland",
+        "location": "Milford, County Donegal, Ulster, Éire / Ireland",
         "original_label": "Milford",
         "coordinates": [
             55.0879227,
@@ -3066,7 +3074,7 @@
         ]
     },
     {
-        "location": "Lane, West-Bruggekwartier, Brugge-Centrum, Brugge, West-Vlaanderen, Vlaanderen, 8000, Belgi\u00eb / Belgique / Belgien",
+        "location": "Lane, West-Bruggekwartier, Brugge-Centrum, Brugge, West-Vlaanderen, Vlaanderen, 8000, België / Belgique / Belgien",
         "original_label": "Lane",
         "coordinates": [
             51.206965287484884,
@@ -3120,7 +3128,7 @@
         ]
     },
     {
-        "location": "Canary Islands, Espa\u00f1a",
+        "location": "Canary Islands, España",
         "original_label": "Canary",
         "coordinates": [
             28.286398900000002,
@@ -3133,11 +3141,11 @@
         ]
     },
     {
-        "location": "Barbary, Saint-Paul-de-Serre, P\u00e9rigueux, Dordogne, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 24380, France",
+        "location": "Barbary",
         "original_label": "Barbary",
         "coordinates": [
-            45.0990693,
-            0.6302445
+            36.7752,
+            3.0611
         ],
         "titles": [
             "heywood-the-fair-maid-of-the-west-1",
@@ -3234,7 +3242,7 @@
         ]
     },
     {
-        "location": "Magyarorsz\u00e1g",
+        "location": "Magyarország",
         "original_label": "Hungary",
         "coordinates": [
             47.1817585,
@@ -3305,27 +3313,28 @@
         ]
     },
     {
+        "original_label": "Sicily/Sisily",
         "location": "Sicilia, Italia",
-        "original_label": "Sicily",
         "coordinates": [
             37.587794,
             14.155048
         ],
         "titles": [
+            "brome-the-queen-and-concubine",
             "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+            "cowley-love-s-riddle",
+            "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+            "fletcher-massinger-a-very-woman",
             "greene-orlando-furioso",
+            "harding-sicily-and-naples",
+            "haughton-englishmen-for-my-money",
+            "killigrew-claricilla",
             "killigrew-the-prisoners",
+            "lyly-sappho-and-phao",
+            "machin-barkstead-marston-the-insatiate-countess",
             "massinger-the-bondman",
             "massinger-the-maid-of-honour",
-            "killigrew-claricilla",
-            "haughton-englishmen-for-my-money",
-            "lyly-sappho-and-phao",
-            "brome-the-queen-and-concubine",
-            "harding-sicily-and-naples",
-            "cowley-love-s-riddle",
-            "fletcher-massinger-a-very-woman",
-            "peele-edward-the-first",
-            "machin-barkstead-marston-the-insatiate-countess"
+            "peele-edward-the-first"
         ]
     },
     {
@@ -3334,17 +3343,6 @@
         "coordinates": [
             41.5082727,
             15.3376465
-        ],
-        "titles": [
-            "brome-the-queen-and-concubine"
-        ]
-    },
-    {
-        "location": "Sainte-Eulalie-d'Ans, Sarlat-la-Can\u00e9da, Dordogne, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 24640, France",
-        "original_label": "Eulalia",
-        "coordinates": [
-            45.2474863,
-            1.0173167
         ],
         "titles": [
             "brome-the-queen-and-concubine"
@@ -3386,7 +3384,7 @@
         ]
     },
     {
-        "location": "Pompe, P\u00e9ronnes-Lez-Antoing, Antoing, Tournai-Mouscron, Hainaut, Wallonie, 7640, Belgi\u00eb / Belgique / Belgien",
+        "location": "Pompe, Péronnes-Lez-Antoing, Antoing, Tournai-Mouscron, Hainaut, Wallonie, 7640, België / Belgique / Belgien",
         "original_label": "Pompe",
         "coordinates": [
             50.558674999999994,
@@ -3397,7 +3395,7 @@
         ]
     },
     {
-        "location": "Venery, 203/1, \u0160koln\u00ed, Olomouc-m\u011bsto, Olomouc, okres Olomouc, Olomouck\u00fd kraj, St\u0159edn\u00ed Morava, 779 00, \u010cesko",
+        "location": "Venery, 203/1, Školní, Olomouc-město, Olomouc, okres Olomouc, Olomoucký kraj, Střední Morava, 779 00, Česko",
         "original_label": "Venery",
         "coordinates": [
             49.5935902,
@@ -3410,7 +3408,7 @@
         ]
     },
     {
-        "location": "Vail, Donaghadee, County Down, Northern Ireland / Tuaisceart \u00c9ireann, BT21 0FG, United Kingdom",
+        "location": "Vail, Donaghadee, County Down, Northern Ireland / Tuaisceart Éireann, BT21 0FG, United Kingdom",
         "original_label": "Vail",
         "coordinates": [
             54.64565656910221,
@@ -3421,29 +3419,18 @@
         ]
     },
     {
-        "location": "Northumberland",
-        "original_label": "Northumbria",
-        "coordinates": [
-            -33.9181792,
-            18.3934678
-        ],
-        "titles": [
-            "brome-the-queen-s-exchange"
-        ]
-    },
-    {
         "location": "Languedoc",
         "original_label": "Languedoc",
         "coordinates": [
-            -33.8988889,
-            18.9658333
+            43.38491737694425,
+            2.5701558345752513
         ],
         "titles": [
             "brome-the-sparagus-garden"
         ]
     },
     {
-        "location": "Bourgogne, France m\u00e9tropolitaine, France",
+        "location": "Bourgogne, France métropolitaine, France",
         "original_label": "Burgundy",
         "coordinates": [
             47.27808725,
@@ -3491,11 +3478,11 @@
         ]
     },
     {
-        "location": "Jordania",
+        "location": "Jordan",
         "original_label": "Jordan",
         "coordinates": [
-            10.6611675,
-            122.5909592
+            31.618423679282632,
+            36.292516538649565
         ],
         "titles": [
             "brome-the-weeding-of-the-covent-garden"
@@ -3533,7 +3520,7 @@
         ]
     },
     {
-        "location": "Ephesus, Marble Street, Atat\u00fcrk Mahallesi, Sel\u00e7uk, \u0130zmir, Ege B\u00f6lgesi, 35920, T\u00fcrkiye",
+        "location": "Ephesus, Marble Street, Atatürk Mahallesi, Selçuk, İzmir, Ege Bölgesi, 35920, Türkiye",
         "original_label": "Ephesus",
         "coordinates": [
             37.9443103,
@@ -3545,20 +3532,8 @@
         ]
     },
     {
-        "location": "Sion, Valais/Wallis, 1950, Schweiz/Suisse/Svizzera/Svizra",
-        "original_label": "Sion",
-        "coordinates": [
-            46.2311749,
-            7.3588795
-        ],
-        "titles": [
-            "markham-sampson-herod-and-antipater",
-            "cary-mariam-the-fair-queen-of-jewry"
-        ]
-    },
-    {
-        "location": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd | \u0627\u0644\u0642\u062f\u0633, \u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05d9\u05e9\u05e8\u05d0\u05dc",
-        "original_label": "Jerusalem",
+        "location": "ירושלים | القدس, נפת ירושלים, מחוז ירושלים, ישראל",
+        "original_label": "Jerusalem/Sion/Syon",
         "coordinates": [
             31.7788242,
             35.2257626
@@ -3577,7 +3552,9 @@
             "heywood-the-four-prentices-of-london",
             "dekker-if-it-be-not-good-the-devil-is-in-it",
             "daborne-a-christian-turned-turk",
-            "jonson-the-case-is-altered"
+            "jonson-the-case-is-altered",
+            "heywood-the-four-prentices-of-london",
+            "markham-sampson-herod-and-antipater"
         ]
     },
     {
@@ -3605,19 +3582,7 @@
         ]
     },
     {
-        "location": "Schweiz/Suisse/Svizzera/Svizra",
-        "original_label": "Switzerland",
-        "coordinates": [
-            46.7985624,
-            8.2319736
-        ],
-        "titles": [
-            "cavendish-the-variety",
-            "chapman-the-tragedy-of-charles-duke-of-byron"
-        ]
-    },
-    {
-        "location": "Thebai, Do\u011fanbey Mahallesi, S\u00f6ke, Ayd\u0131n, Ege B\u00f6lgesi, T\u00fcrkiye",
+        "location": "Thebai, Doğanbey Mahallesi, Söke, Aydın, Ege Bölgesi, Türkiye",
         "original_label": "Thebes",
         "coordinates": [
             37.63611725,
@@ -3636,8 +3601,8 @@
         "location": "Mount Pelion",
         "original_label": "Pelion",
         "coordinates": [
-            14.7815685,
-            122.0116442
+            39.439325293520156,
+            23.047757161744833
         ],
         "titles": [
             "chapman-bussy-d-ambois"
@@ -3656,7 +3621,7 @@
         ]
     },
     {
-        "location": "\u041e\u0432\u0447\u0430 \u043a\u0443\u043f\u0435\u043b, \u0431\u0443\u043b. \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u041b\u0438\u043d\u043a\u044a\u043b\u043d, \u043a\u0432. \u041e\u0432\u0447\u0430 \u043a\u0443\u043f\u0435\u043b, \u0421\u043e\u0444\u0438\u044f, \u041e\u0432\u0447\u0430 \u041a\u0443\u043f\u0435\u043b, \u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430, \u0421\u043e\u0444\u0438\u044f-\u0433\u0440\u0430\u0434, 1618, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+        "location": "Овча купел, бул. Президент Линкълн, кв. Овча купел, София, Овча Купел, Столична, София-град, 1618, България",
         "original_label": "Thrace",
         "coordinates": [
             42.6832194,
@@ -3672,7 +3637,7 @@
         ]
     },
     {
-        "location": "Belgi\u00eb / Belgique / Belgien",
+        "location": "België / Belgique / Belgien",
         "original_label": "Belgia",
         "coordinates": [
             50.6402809,
@@ -3733,7 +3698,7 @@
         ]
     },
     {
-        "location": "Clermont, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60600, France",
+        "location": "Clermont, Oise, Hauts-de-France, France métropolitaine, 60600, France",
         "original_label": "Clermont",
         "coordinates": [
             49.3780921,
@@ -3744,7 +3709,7 @@
         ]
     },
     {
-        "location": "Cambray, Nades, Vichy, Allier, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 03450, France",
+        "location": "Cambray, Nades, Vichy, Allier, Auvergne-Rhône-Alpes, France métropolitaine, 03450, France",
         "original_label": "Cambray",
         "coordinates": [
             46.1512923,
@@ -3777,7 +3742,7 @@
         ]
     },
     {
-        "location": "Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+        "location": "Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France",
         "original_label": "Savoy",
         "coordinates": [
             45.494895150000005,
@@ -3789,7 +3754,7 @@
         ]
     },
     {
-        "location": "Arbanija, Grad Trogir, Splitsko-dalmatinska \u017eupanija, Hrvatska",
+        "location": "Arbanija, Grad Trogir, Splitsko-dalmatinska županija, Hrvatska",
         "original_label": "Albania",
         "coordinates": [
             43.5127714,
@@ -3801,7 +3766,7 @@
         ]
     },
     {
-        "location": "Heidelberg, Baden-W\u00fcrttemberg, Deutschland",
+        "location": "Heidelberg, Baden-Württemberg, Deutschland",
         "original_label": "Heidelberg",
         "coordinates": [
             49.4093582,
@@ -3814,7 +3779,7 @@
         ]
     },
     {
-        "location": "\u00d6sterreich",
+        "location": "Österreich",
         "original_label": "Austria",
         "coordinates": [
             47.59397,
@@ -3832,7 +3797,7 @@
         ]
     },
     {
-        "location": "Belgi\u00eb / Belgique / Belgien",
+        "location": "België / Belgique / Belgien",
         "original_label": "Belgique",
         "coordinates": [
             50.6402809,
@@ -3843,7 +3808,7 @@
         ]
     },
     {
-        "location": "Reiterstandbild Friedrich II. von Preu\u00dfen, Unter den Linden, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "location": "Reiterstandbild Friedrich II. von Preußen, Unter den Linden, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
         "original_label": "Prussia",
         "coordinates": [
             52.517253,
@@ -3854,7 +3819,7 @@
         ]
     },
     {
-        "location": "Reserva Natural do Estu\u00e1rio do Tejo, Lisboa, Portugal",
+        "location": "Reserva Natural do Estuário do Tejo, Lisboa, Portugal",
         "original_label": "Tagus",
         "coordinates": [
             38.84259385,
@@ -3946,7 +3911,7 @@
         ]
     },
     {
-        "location": "\u062a\u0648\u0646\u0633, \u0648\u0644\u0627\u064a\u0629 \u062a\u0648\u0646\u0633, \u062a\u0648\u0646\u0633",
+        "location": "تونس, ولاية تونس, تونس",
         "original_label": "Tunis",
         "coordinates": [
             36.8002068,
@@ -3976,7 +3941,7 @@
         ]
     },
     {
-        "location": "Galateas, 30a, D\u00fcppelstra\u00dfe, Steglitz, Steglitz-Zehlendorf, Berlin, 12163, Deutschland",
+        "location": "Galateas, 30a, Düppelstraße, Steglitz, Steglitz-Zehlendorf, Berlin, 12163, Deutschland",
         "original_label": "Galateas",
         "coordinates": [
             52.4587193,
@@ -3987,7 +3952,7 @@
         ]
     },
     {
-        "location": "\u0391\u03bc\u03cd\u03bd\u03c4\u03b1\u03c2, E4, \u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03ad\u03c1\u03bf\u03b9\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03bc\u03b1\u03b8\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Αμύντας, E4, Δήμος Βέροιας, Περιφερειακή Ενότητα Ημαθίας, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, Ελλάς",
         "original_label": "Amyntas",
         "coordinates": [
             40.5289852,
@@ -3998,7 +3963,7 @@
         ]
     },
     {
-        "location": "\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1, \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1 - Lefko\u015fa, \u0394\u03ae\u03bc\u03bf\u03c2 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2, \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+        "location": "Λευκωσία, Λευκωσία - Lefkoşa, Δήμος Λευκωσίας, Επαρχία Λευκωσίας, Κύπρος, Κύπρος - Kıbrıs",
         "original_label": "Nicosia",
         "coordinates": [
             35.1746503,
@@ -4009,18 +3974,7 @@
         ]
     },
     {
-        "location": "les Catarres, Sant Mateu, el Baix Maestrat, Castell\u00f3 / Castell\u00f3n, Comunitat Valenciana, 12170, Espa\u00f1a",
-        "original_label": "Catarres",
-        "coordinates": [
-            40.4494238,
-            0.192689
-        ],
-        "titles": [
-            "daniel-the-queen-s-arcadia"
-        ]
-    },
-    {
-        "location": "\u03a0\u03ac\u03c4\u03c1\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b1\u03c4\u03c1\u03ad\u03c9\u03bd, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b1\u03c4\u03c1\u03ad\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c7\u03b1\u0390\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 262 21, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Πάτρα, Δημοτική Ενότητα Πατρέων, Δήμος Πατρέων, Περιφερειακή Ενότητα Αχαΐας, Περιφέρεια Δυτικής Ελλάδας, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 262 21, Ελλάς",
         "original_label": "Patras",
         "coordinates": [
             38.246242,
@@ -4031,22 +3985,11 @@
         ]
     },
     {
-        "location": "Les Moques Paniers, Grand Centre, Cergy, Pontoise, Val-d'Oise, \u00cele-de-France, France m\u00e9tropolitaine, 95000, France",
-        "original_label": "Paniers",
-        "coordinates": [
-            49.032091,
-            2.0707009
-        ],
-        "titles": [
-            "davenant-albovine-king-of-the-lombards"
-        ]
-    },
-    {
-        "location": "Golgotha, Selwyn District, Canterbury, New Zealand / Aotearoa",
+        "location": "Golgotha Gardens",
         "original_label": "Golgotha",
         "coordinates": [
-            -43.4634925,
-            171.8345109
+            31.77849013745303,
+            35.23031191891429
         ],
         "titles": [
             "davenant-albovine-king-of-the-lombards",
@@ -4073,7 +4016,7 @@
         ]
     },
     {
-        "location": "\u0420\u043e\u0441\u0441\u0438\u044f",
+        "location": "Россия",
         "original_label": "Russia",
         "coordinates": [
             64.6863136,
@@ -4086,7 +4029,7 @@
         ]
     },
     {
-        "location": "Kalender, Horasan, Erzurum, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+        "location": "Kalender, Horasan, Erzurum, Doğu Anadolu Bölgesi, Türkiye",
         "original_label": "Kalender",
         "coordinates": [
             40.092121,
@@ -4097,30 +4040,7 @@
         ]
     },
     {
-        "location": "RS Elizium, 127, Powsta\u0144c\u00f3w \u015al\u0105skich, Celina, Powsta\u0144c\u00f3w \u015al\u0105skich, Wroc\u0142aw, wojew\u00f3dztwo dolno\u015bl\u0105skie, 53-317, Polska",
-        "original_label": "Elizium",
-        "coordinates": [
-            51.088382,
-            17.013874
-        ],
-        "titles": [
-            "davenant-the-just-italian",
-            "fletcher-valentinian"
-        ]
-    },
-    {
-        "location": "Altamont, Kilbride ED, The Municipal District of Tullow, County Carlow, Leinster, \u00c9ire / Ireland",
-        "original_label": "Altamont",
-        "coordinates": [
-            52.735586,
-            -6.718438202782698
-        ],
-        "titles": [
-            "davenant-the-just-italian"
-        ]
-    },
-    {
-        "location": "Toledo, Castilla-La Mancha, Espa\u00f1a",
+        "location": "Toledo, Castilla-La Mancha, España",
         "original_label": "Toledo",
         "coordinates": [
             39.8560679,
@@ -4134,11 +4054,11 @@
         ]
     },
     {
-        "location": "Tartary, Les Olli\u00e8res-sur-Eyrieux, Privas, Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 07360, France",
+        "location": "Tartary",
         "original_label": "Tartary",
         "coordinates": [
-            44.803584900000004,
-            4.615097228548244
+			55.80,
+			49.22
         ],
         "titles": [
             "jonson-poetaster",
@@ -4149,33 +4069,11 @@
         ]
     },
     {
-        "location": "Rhume, Landkreis Northeim, Niedersachsen, Deutschland",
-        "original_label": "Rhume",
-        "coordinates": [
-            51.6505901,
-            10.1291972
-        ],
-        "titles": [
-            "davenant-the-wits"
-        ]
-    },
-    {
         "location": "Nordrhein-Westfalen, Deutschland",
         "original_label": "Westphalia",
         "coordinates": [
             51.4789205,
             7.5543751
-        ],
-        "titles": [
-            "davenant-the-wits"
-        ]
-    },
-    {
-        "location": "Morglay Lodge, Mordaunt Road, Bevois Valley, Bevois Town, Southampton, England, SO14 6GP, United Kingdom",
-        "original_label": "Morglay",
-        "coordinates": [
-            50.9173215,
-            -1.4003994699560858
         ],
         "titles": [
             "davenant-the-wits"
@@ -4255,7 +4153,7 @@
         ]
     },
     {
-        "location": "Praha, obvod Praha 4, Hlavn\u00ed m\u011bsto Praha, Praha, \u010cesko",
+        "location": "Praha, obvod Praha 4, Hlavní město Praha, Praha, Česko",
         "original_label": "Prague",
         "coordinates": [
             50.0596288,
@@ -4280,53 +4178,7 @@
         ]
     },
     {
-        "location": "Ayasofya-i Kebir C\u00e2mi-i \u015eerifi, So\u011fuk\u00e7e\u015fme Soka\u011f\u0131, Cankurtaran Mahallesi, \u0130stanbul, Fatih, \u0130stanbul, Marmara B\u00f6lgesi, 34122, T\u00fcrkiye",
-        "original_label": "Sancta",
-        "coordinates": [
-            41.00850455,
-            28.98001115466667
-        ],
-        "titles": [
-            "day-law-tricks"
-        ]
-    },
-    {
-        "location": "Manasses, Patio de Reyes, San Lorenzo de El Escorial, Comunidad de Madrid, 28200, Espa\u00f1a",
-        "original_label": "Manasses",
-        "coordinates": [
-            40.5889686,
-            -4.1480368
-        ],
-        "titles": [
-            "day-the-isle-of-gulls"
-        ]
-    },
-    {
-        "location": "Michaelmas, London Road, Hurstpierpoint and Sayers Common, Sayers Common, Mid Sussex, West Sussex, England, BN6 9HX, United Kingdom",
-        "original_label": "Michaelmas",
-        "coordinates": [
-            50.95031415,
-            -0.19720724958368185
-        ],
-        "titles": [
-            "day-the-isle-of-gulls",
-            "dekker-webster-westward-ho"
-        ]
-    },
-    {
-        "location": "Jardin Lac\u00e9d\u00e9mone, Vauban, Marseille 6e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 13006, France",
-        "original_label": "Lacedemon",
-        "coordinates": [
-            43.2816335,
-            5.376052597569091
-        ],
-        "titles": [
-            "heywood-the-iron-age-1",
-            "day-the-isle-of-gulls"
-        ]
-    },
-    {
-        "location": "\u039b\u03b9\u03ac\u03ba\u03bf\u03c5\u03c1\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a4\u03b9\u03b8\u03bf\u03c1\u03ad\u03b1\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03bc\u03c6\u03af\u03ba\u03bb\u03b5\u03b9\u03b1\u03c2 - \u0395\u03bb\u03ac\u03c4\u03b5\u03b9\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Λιάκουρα, Δημοτική Ενότητα Τιθορέας, Δήμος Αμφίκλειας - Ελάτειας, Περιφερειακή Ενότητα Φθιώτιδας, Περιφέρεια Στερεάς Ελλάδας, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος, Ελλάς",
         "original_label": "Parnassus",
         "coordinates": [
             38.5348857,
@@ -4340,7 +4192,7 @@
         ]
     },
     {
-        "location": "\u0395\u03bb\u03b5\u03c5\u03c3\u03af\u03bd\u03b1, \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03bb\u03b5\u03c5\u03c3\u03af\u03bd\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u0395\u03bb\u03b5\u03c5\u03c3\u03af\u03bd\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 192 00, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Ελευσίνα, Δημοτική Ενότητα Ελευσίνος, Δήμος Ελευσίνας, Περιφερειακή Ενότητα Δυτικής Αττικής, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 192 00, Ελλάς",
         "original_label": "Eleusis",
         "coordinates": [
             38.047608,
@@ -4351,7 +4203,7 @@
         ]
     },
     {
-        "location": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c7\u03b1\u0390\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Περιφερειακή Ενότητα Αχαΐας, Περιφέρεια Δυτικής Ελλάδας, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, Ελλάς",
         "original_label": "Achaia",
         "coordinates": [
             38.0692748,
@@ -4363,18 +4215,7 @@
         ]
     },
     {
-        "location": "Sisily, Via Napoli, Noto, Siracusa, Sicilia, 96017, Italia",
-        "original_label": "Sisily",
-        "coordinates": [
-            36.8865508,
-            15.0761879
-        ],
-        "titles": [
-            "day-wilkins-rowley-the-travels-of-the-three-english-brothers"
-        ]
-    },
-    {
-        "location": "Vrine, \u00d6deborg, F\u00e4rgelanda kommun, V\u00e4stra G\u00f6talands l\u00e4n, 458 32, Sverige",
+        "location": "Vrine, Ödeborg, Färgelanda kommun, Västra Götalands län, 458 32, Sverige",
         "original_label": "Vrine",
         "coordinates": [
             58.5511061,
@@ -4396,7 +4237,7 @@
         ]
     },
     {
-        "location": "Castilla y Le\u00f3n, Espa\u00f1a",
+        "location": "Castilla y León, España",
         "original_label": "Castile",
         "coordinates": [
             41.55005,
@@ -4408,17 +4249,6 @@
             "dekker-blurt-master-constable",
             "webster-the-duchess-of-malfi",
             "habington-the-queen-of-aragon"
-        ]
-    },
-    {
-        "location": "Durance, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 47420, France",
-        "original_label": "Durance",
-        "coordinates": [
-            44.1628792,
-            0.1611992
-        ],
-        "titles": [
-            "dekker-blurt-master-constable"
         ]
     },
     {
@@ -4443,7 +4273,7 @@
         ]
     },
     {
-        "location": "Baltazar, J\u00edlov\u00e9, okres D\u011b\u010d\u00edn, \u00dasteck\u00fd kraj, Severoz\u00e1pad, 407 01, \u010cesko",
+        "location": "Baltazar, Jílové, okres Děčín, Ústecký kraj, Severozápad, 407 01, Česko",
         "original_label": "Baltazar",
         "coordinates": [
             50.792555,
@@ -4466,11 +4296,11 @@
         ]
     },
     {
-        "location": "Troy, Auragne, Muret, Haute-Garonne, Occitanie, France m\u00e9tropolitaine, 31190, France",
-        "original_label": "Troy",
+        "location": "Troy",
+        "original_label": "Troy/Illium",
         "coordinates": [
-            43.3951943,
-            1.4863139
+			39.957369,
+			26.237980
         ],
         "titles": [
             "dekker-massinger-the-virgin-martyr",
@@ -4479,17 +4309,6 @@
             "wilmot-hatton-noel-al-stafford-tancred-and-gismund",
             "fletcher-sicelides",
             "heywood-the-iron-age-2"
-        ]
-    },
-    {
-        "location": "Dorothea, Boles\u0142awa Prusa, O\u0142bin, Wroc\u0142aw, wojew\u00f3dztwo dolno\u015bl\u0105skie, 50-325, Polska",
-        "original_label": "Dorothea",
-        "coordinates": [
-            51.1196317,
-            17.0493276
-        ],
-        "titles": [
-            "dekker-massinger-the-virgin-martyr"
         ]
     },
     {
@@ -4537,7 +4356,7 @@
         ]
     },
     {
-        "location": "\u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, \u0421\u0440\u0431\u0438\u0458\u0430",
+        "location": "Београд, Град Београд, Централна Србија, Србија",
         "original_label": "Belgrad",
         "coordinates": [
             44.8178131,
@@ -4549,16 +4368,21 @@
         ]
     },
     {
-        "location": "Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, France",
-        "original_label": "Orleans",
+        "original_label": "Orleans/Orleance",
+        "location": "Orléans, Loiret, Centre-Val de Loire, France métropolitaine, France",
         "coordinates": [
             47.9027336,
             1.9086066
         ],
         "titles": [
+            "cavendish-the-variety",
+            "chapman-the-conspiracy-of-charles-duke-of-byron",
+            "chapman-the-tragedy-of-charles-duke-of-byron",
             "dekker-middleton-the-roaring-girl",
             "dekker-webster-northward-ho",
-            "field-massinger-fletcher-the-honest-man-s-fortune"
+            "field-massinger-fletcher-the-honest-man-s-fortune",
+            "fletcher-beaumont-the-noble-gentleman",
+            "fletcher-the-wild-goose-chase"
         ]
     },
     {
@@ -4575,7 +4399,7 @@
         ]
     },
     {
-        "location": "Smithfield, Arran Quay C ED, Dublin, County Dublin, Leinster, \u00c9ire / Ireland",
+        "location": "Smithfield, Arran Quay C ED, Dublin, County Dublin, Leinster, Éire / Ireland",
         "original_label": "Smithfield",
         "coordinates": [
             53.3484314,
@@ -4649,7 +4473,7 @@
         ]
     },
     {
-        "location": "Li\u00e8ge, Wallonie, Belgi\u00eb / Belgique / Belgien",
+        "location": "Liège, Wallonie, België / Belgique / Belgien",
         "original_label": "Liege",
         "coordinates": [
             50.47081585,
@@ -4808,7 +4632,7 @@
         ]
     },
     {
-        "location": "Amiens, Somme, Hauts-de-France, France m\u00e9tropolitaine, France",
+        "location": "Amiens, Somme, Hauts-de-France, France métropolitaine, France",
         "original_label": "Amiens",
         "coordinates": [
             49.8941708,
@@ -4819,7 +4643,7 @@
         ]
     },
     {
-        "location": "Malicorne, Charny Or\u00e9e de Puisaye, Auxerre, Yonne, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 89120, France",
+        "location": "Malicorne, Charny Orée de Puisaye, Auxerre, Yonne, Bourgogne-Franche-Comté, France métropolitaine, 89120, France",
         "original_label": "Malicorne",
         "coordinates": [
             47.8213885,
@@ -4830,7 +4654,7 @@
         ]
     },
     {
-        "location": "Palatine, Burtonhall Demense, Burtonhall ED, The Municipal District of Carlow, County Carlow, Leinster, \u00c9ire / Ireland",
+        "location": "Palatine, Burtonhall Demense, Burtonhall ED, The Municipal District of Carlow, County Carlow, Leinster, Éire / Ireland",
         "original_label": "Palatine",
         "coordinates": [
             52.8644369,
@@ -4842,7 +4666,7 @@
         ]
     },
     {
-        "location": "Gades, Calle Am\u00edlcar Barca, Asdr\u00fabal, C\u00e1diz, Bah\u00eda de C\u00e1diz, C\u00e1diz, Andaluc\u00eda, 11009, Espa\u00f1a",
+        "location": "Gades, Calle Amílcar Barca, Asdrúbal, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11009, España",
         "original_label": "Gades",
         "coordinates": [
             36.5078106,
@@ -4854,20 +4678,7 @@
         ]
     },
     {
-        "location": "Rhein, Deutschland",
-        "original_label": "Rhine",
-        "coordinates": [
-            50.4677626,
-            7.351989
-        ],
-        "titles": [
-            "marlowe-dr-faustus",
-            "fisher-fuimus-troes",
-            "rowley-a-shoemaker-a-gentleman"
-        ]
-    },
-    {
-        "location": "Gaule, Dittersbach auf dem Eigen, Bernstadt auf dem Eigen, Bernstadt / Sch\u00f6nau-Berzdorf, G\u00f6rlitz, Sachsen, 02748, Deutschland",
+        "location": "Gaule, Dittersbach auf dem Eigen, Bernstadt auf dem Eigen, Bernstadt / Schönau-Berzdorf, Görlitz, Sachsen, 02748, Deutschland",
         "original_label": "Gaule",
         "coordinates": [
             51.0255668,
@@ -4889,7 +4700,7 @@
         ]
     },
     {
-        "location": "Buda, V\u00edziv\u00e1ros, I. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1013, Magyarorsz\u00e1g",
+        "location": "Buda, Víziváros, I. kerület, Budapest, Közép-Magyarország, 1013, Magyarország",
         "original_label": "Buda",
         "coordinates": [
             47.4938673,
@@ -4900,7 +4711,7 @@
         ]
     },
     {
-        "location": "Frankford, Kilcormac ED, Birr, County Offaly, Leinster, \u00c9ire / Ireland",
+        "location": "Frankford, Kilcormac ED, Birr, County Offaly, Leinster, Éire / Ireland",
         "original_label": "Frankford",
         "coordinates": [
             53.1749007,
@@ -4940,7 +4751,7 @@
         ]
     },
     {
-        "location": "Dinant, Namur, Wallonie, Belgi\u00eb / Belgique / Belgien",
+        "location": "Dinant, Namur, Wallonie, België / Belgique / Belgien",
         "original_label": "Dinant",
         "coordinates": [
             50.2591813,
@@ -4968,7 +4779,7 @@
         ]
     },
     {
-        "location": "Gen\u00e8ve, Schweiz/Suisse/Svizzera/Svizra",
+        "location": "Genève, Schweiz/Suisse/Svizzera/Svizra",
         "original_label": "Geneva",
         "coordinates": [
             46.2017559,
@@ -4982,7 +4793,7 @@
         "location": "Mount Oeta",
         "original_label": "Oeta",
         "coordinates": [
-            38.817401374188144, 
+            38.817401374188144,
             22.283333233727316
         ],
         "titles": [
@@ -5061,17 +4872,6 @@
         ]
     },
     {
-        "location": "Bosworth",
-        "original_label": "Bosworth",
-        "coordinates": [
-            -30.89892105,
-            137.48822030917154
-        ],
-        "titles": [
-            "ford-perkin-warbeck"
-        ]
-    },
-    {
         "location": "Yorkish Barber Shop, Cornlands Road, Lowfield, Westfield, York, York and North Yorkshire, England, YO24 3EW, United Kingdom",
         "original_label": "Yorkish",
         "coordinates": [
@@ -5083,7 +4883,7 @@
         ]
     },
     {
-        "location": "La Ligorne, Tournan-en-Brie, Torcy, Seine-et-Marne, \u00cele-de-France, France m\u00e9tropolitaine, 77220, France",
+        "location": "La Ligorne, Tournan-en-Brie, Torcy, Seine-et-Marne, Île-de-France, France métropolitaine, 77220, France",
         "original_label": "Ligorne",
         "coordinates": [
             48.7434766,
@@ -5094,7 +4894,7 @@
         ]
     },
     {
-        "location": "Corse, France m\u00e9tropolitaine, France",
+        "location": "Corse, France métropolitaine, France",
         "original_label": "Corsica",
         "coordinates": [
             42.188089649999995,
@@ -5105,11 +4905,11 @@
         ]
     },
     {
-        "location": "Via Syracusa, Termini Imerese, Palermo, Sicilia, 90018, Italia",
+        "location": "Siracusa",
         "original_label": "Syracusa",
         "coordinates": [
-            37.98830870050612,
-            13.691927858961396
+            37.0624,
+            15.2930
         ],
         "titles": [
             "lyly-sappho-and-phao",
@@ -5118,11 +4918,11 @@
         ]
     },
     {
-        "location": "Mullen Doway, Braddan, Middle, IM4 4LZ, Isle of Man",
+        "location": "Douai, France",
         "original_label": "Doway",
         "coordinates": [
-            54.1688257475836,
-            -4.5184719759939105
+            50.36761,
+            3.08012
         ],
         "titles": [
             "zouche-the-sophister",
@@ -5131,18 +4931,7 @@
         ]
     },
     {
-        "location": "Florida, Avinguda de Catalunya, les Planes, Districte IV, l'Hospitalet de Llobregat, Barcelon\u00e8s, Barcelona, Catalunya, 08905, Espa\u00f1a",
-        "original_label": "Florida",
-        "coordinates": [
-            41.3682996,
-            2.1098325
-        ],
-        "titles": [
-            "glapthorne-argalus-and-parthenia"
-        ]
-    },
-    {
-        "location": "Tarifa, Campo de Gibraltar, C\u00e1diz, Andaluc\u00eda, 11380, Espa\u00f1a",
+        "location": "Tarifa, Campo de Gibraltar, Cádiz, Andalucía, 11380, España",
         "original_label": "Tarifa",
         "coordinates": [
             36.0129082,
@@ -5153,11 +4942,11 @@
         ]
     },
     {
-        "location": "Lepanto, Via Marcantonio Colonna, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia",
+        "location": "Gulf of Lepanto",
         "original_label": "Lepanto",
         "coordinates": [
-            41.9113558,
-            12.4661658
+            38.12,
+            21.18
         ],
         "titles": [
             "glapthorne-the-ladies-privilege",
@@ -5166,7 +4955,7 @@
         ]
     },
     {
-        "location": "Hesperia Bilbao, 28, Paseo Campo Volant\u00edn / Campo Volantin pasealekua, Casta\u00f1os, Uribarri, Bilbao, Bizkaia, Euskadi, 48007, Espa\u00f1a",
+        "location": "Hesperia Bilbao, 28, Paseo Campo Volantín / Campo Volantin pasealekua, Castaños, Uribarri, Bilbao, Bizkaia, Euskadi, 48007, España",
         "original_label": "Hesperia",
         "coordinates": [
             43.26783,
@@ -5192,7 +4981,7 @@
         ]
     },
     {
-        "location": "\u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Ελλάς",
         "original_label": "Grecia",
         "coordinates": [
             38.9953683,
@@ -5204,7 +4993,7 @@
         ]
     },
     {
-        "location": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05d5\u05e9\u05d5\u05de\u05e8\u05d5\u05df, Palestinian Territory",
+        "location": "יהודה ושומרון, Palestinian Territory",
         "original_label": "Iudea",
         "coordinates": [
             31.9471636,
@@ -5215,14 +5004,15 @@
         ]
     },
     {
-        "location": "\u062f\u0645\u0634\u0642, \u0628\u0644\u062f\u064a\u0629 \u062f\u0645\u0634\u0642 \u0627\u0644\u0642\u062f\u064a\u0645\u0629, \u0646\u0627\u062d\u064a\u0629 \u062f\u0645\u0634\u0642, \u0645\u0646\u0637\u0642\u0629 \u062f\u0645\u0634\u0642, \u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0645\u0634\u0642, \u0633\u0648\u0631\u064a\u0627",
-        "original_label": "Damasco",
+        "original_label": "Damasco/Damascus",
+        "location": "دمشق, بلدية دمشق القديمة, ناحية دمشق, منطقة دمشق, محافظة دمشق, سوريا",
         "coordinates": [
             33.5130695,
             36.3095814
         ],
         "titles": [
-            "greene-friar-bacon-and-friar-bongay"
+            "greene-friar-bacon-and-friar-bongay",
+            "lower-the-phoenix-in-her-flames"
         ]
     },
     {
@@ -5259,7 +5049,7 @@
         ]
     },
     {
-        "location": "Ciudad de M\u00e9xico, M\u00e9xico",
+        "location": "Ciudad de México, México",
         "original_label": "Mexico",
         "coordinates": [
             19.4326296,
@@ -5270,7 +5060,7 @@
         ]
     },
     {
-        "location": "Manisa, \u015eehzadeler, Manisa, Ege B\u00f6lgesi, 45020, T\u00fcrkiye",
+        "location": "Manisa, Şehzadeler, Manisa, Ege Bölgesi, 45020, Türkiye",
         "original_label": "Magnesia",
         "coordinates": [
             38.6125793,
@@ -5292,7 +5082,7 @@
         ]
     },
     {
-        "location": "Amasya, Karadeniz B\u00f6lgesi, T\u00fcrkiye",
+        "location": "Amasya, Karadeniz Bölgesi, Türkiye",
         "original_label": "Amasia",
         "coordinates": [
             40.6569451,
@@ -5303,7 +5093,7 @@
         ]
     },
     {
-        "location": "\u0395\u03cd\u03b2\u03bf\u03b9\u03b1, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Εύβοια, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος, Ελλάς",
         "original_label": "Euboea",
         "coordinates": [
             38.49417235,
@@ -5314,7 +5104,7 @@
         ]
     },
     {
-        "location": "Instituto de Biomedicina de Sevilla, Calle Antonio Maura Montaner, Tabladilla-La Estrella, Distrito Sur, Sevilla, Andaluc\u00eda, 41013, Espa\u00f1a",
+        "location": "Instituto de Biomedicina de Sevilla, Calle Antonio Maura Montaner, Tabladilla-La Estrella, Distrito Sur, Sevilla, Andalucía, 41013, España",
         "original_label": "Ibis",
         "coordinates": [
             37.364640300000005,
@@ -5338,7 +5128,7 @@
         ]
     },
     {
-        "location": "Smirna, Grivi\u021ba, Ialomi\u021ba, 927146, Rom\u00e2nia",
+        "location": "Smirna, Grivița, Ialomița, 927146, România",
         "original_label": "Smirna",
         "coordinates": [
             44.7236059,
@@ -5352,7 +5142,7 @@
         "location": "Edinbrugh",
         "original_label": "Edenborough",
         "coordinates": [
-            55.94790992448649, 
+            55.94790992448649,
             -3.1950420775272397
         ],
         "titles": [
@@ -5372,17 +5162,6 @@
         ]
     },
     {
-        "location": "Corn Du, Powys, Cymru / Wales, LD3 8NL, United Kingdom",
-        "original_label": "Corn-Wale",
-        "coordinates": [
-            51.8817685,
-            -3.4437946
-        ],
-        "titles": [
-            "haughton-englishmen-for-my-money"
-        ]
-    },
-    {
         "location": "Leaden Hall, Godshill, New Forest, Hampshire, England, SP5 2PU, United Kingdom",
         "original_label": "Leaden-hall",
         "coordinates": [
@@ -5394,7 +5173,7 @@
         ]
     },
     {
-        "location": "Op\u0107ina Marina, Splitsko-dalmatinska \u017eupanija, Hrvatska",
+        "location": "Općina Marina, Splitsko-dalmatinska županija, Hrvatska",
         "original_label": "Marina",
         "coordinates": [
             43.5139149,
@@ -5416,18 +5195,6 @@
         ]
     },
     {
-        "location": "France",
-        "original_label": "Fraunce",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ],
-        "titles": [
-            "haughton-englishmen-for-my-money",
-            "heywood-if-you-know-not-me-you-know-nobody-2"
-        ]
-    },
-    {
         "location": "Lake Avernus",
         "original_label": "Avernus",
         "coordinates": [
@@ -5440,11 +5207,11 @@
         ]
     },
     {
-        "location": "Calidon, Rue Georges Leclanche, Le Fort, La Chambi\u00e8re de Viriat, Viriat, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 01440, France",
-        "original_label": "Calidon",
+        "original_label": "Calidon/Calidonian",
+        "location": "Caledonia",
         "coordinates": [
-            46.2143843,
-            5.2061371
+            56.75,
+            -4.88
         ],
         "titles": [
             "heywood-the-brazen-age"
@@ -5462,18 +5229,7 @@
         ]
     },
     {
-        "location": "Caledonia",
-        "original_label": "Calidonian",
-        "coordinates": [
-            57.318121612597395,
-            -4.844513345185376
-        ],
-        "titles": [
-            "heywood-the-brazen-age"
-        ]
-    },
-    {
-        "location": "\u039b\u03ae\u03bc\u03bd\u03bf\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03cc\u03c1\u03b5\u03b9\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Λήμνος, Περιφερειακή Ενότητα Λήμνου, Περιφέρεια Βόρειου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, Ελλάς",
         "original_label": "Lemnos",
         "coordinates": [
             39.9088688,
@@ -5484,7 +5240,7 @@
         ]
     },
     {
-        "location": "\u03a0\u03cd\u03bb\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03cd\u03bb\u03bf\u03c5 - \u039d\u03ad\u03c3\u03c4\u03bf\u03c1\u03bf\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 240 01, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Πύλος, Δήμος Πύλου - Νέστορος, Περιφερειακή Ενότητα Μεσσηνίας, Περιφέρεια Πελοποννήσου, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 240 01, Ελλάς",
         "original_label": "Pylos",
         "coordinates": [
             36.9137968,
@@ -5545,8 +5301,8 @@
         "location": "Libya",
         "original_label": "Lybia",
         "coordinates": [
-            -4.9719509,
-            143.4178375
+            26.8234472,
+            18.1236723
         ],
         "titles": [
             "heywood-the-four-prentices-of-london",
@@ -5554,40 +5310,29 @@
         ]
     },
     {
-        "location": "Rua de Calecut, Quinta do Torr\u00e3o, Palhais, Palhais e Coina, Barreiro, Set\u00fabal, 2830-585, Portugal",
+        "location": "Calcutta",
         "original_label": "Calecut",
         "coordinates": [
-            38.627069379352896,
-            -9.048922807514769
+			22.5728,
+			88.3648
         ],
         "titles": [
             "heywood-the-four-prentices-of-london"
         ]
     },
     {
-        "location": "Araby, V\u00e4xj\u00f6, V\u00e4xj\u00f6 kommun, Kronobergs l\u00e4n, 352 44, Sverige",
+        "location": "Arabia",
         "original_label": "Araby",
         "coordinates": [
-            56.8934907,
-            14.7904317
+            22.03,
+            46.80
         ],
         "titles": [
             "heywood-the-four-prentices-of-london"
         ]
     },
     {
-        "location": "Syon, Harrow Park, Harrow on the Hill, Sudbury Hill, London Borough of Harrow, London, Greater London, England, HA1 3JL, United Kingdom",
-        "original_label": "Syon",
-        "coordinates": [
-            51.5696946,
-            -0.3389372923874198
-        ],
-        "titles": [
-            "heywood-the-four-prentices-of-london"
-        ]
-    },
-    {
-        "location": "Troyes, Aube, Grand Est, France m\u00e9tropolitaine, 10000, France",
+        "location": "Troyes, Aube, Grand Est, France métropolitaine, 10000, France",
         "original_label": "Troyes",
         "coordinates": [
             48.2971626,
@@ -5600,7 +5345,7 @@
         ]
     },
     {
-        "location": "Bozcaada, \u00c7anakkale, Marmara B\u00f6lgesi, 17680, T\u00fcrkiye",
+        "location": "Bozcaada, Çanakkale, Marmara Bölgesi, 17680, Türkiye",
         "original_label": "Tenedos",
         "coordinates": [
             39.8347344,
@@ -5612,7 +5357,7 @@
         ]
     },
     {
-        "location": "\u0399\u03b8\u03ac\u03ba\u03b7, \u03a0\u03b5\u03c1\u03b1\u03c7\u03ce\u03c1\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u0399\u03b8\u03ac\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03b8\u03ac\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 283 00, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Ιθάκη, Περαχώρι, Δήμος Ιθάκης, Περιφερειακή Ενότητα Ιθάκης, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 283 00, Ελλάς",
         "original_label": "Ithaca",
         "coordinates": [
             38.401896050000005,
@@ -5623,11 +5368,11 @@
         ]
     },
     {
-        "location": "Aulis, Vazerac, Montauban, Tarn-et-Garonne, Occitanie, France m\u00e9tropolitaine, 82220, France",
+        "location": "Aulis, Greece",
         "original_label": "Aulis",
         "coordinates": [
-            44.2167595,
-            1.2838846
+            38.43315,
+            23.59211
         ],
         "titles": [
             "heywood-the-iron-age-2",
@@ -5635,14 +5380,15 @@
         ]
     },
     {
-        "location": "Mycene, Arenapark, Hilversum, Noord-Holland, Nederland, 1213 NM, Nederland",
-        "original_label": "Mycene",
+        "original_label": "Mycene/Mycoene",
+        "location": "Mycenae",
         "coordinates": [
-            52.21360257468223,
-            5.192871092892165
+            37.73030,
+            22.75434
         ],
         "titles": [
-            "heywood-the-iron-age-2"
+            "heywood-the-iron-age-2",
+            "pikering-horestes"
         ]
     },
     {
@@ -5660,7 +5406,7 @@
         "location": "Hellespontus",
         "original_label": "Hellespont",
         "coordinates": [
-            41.14567611362854, 
+            41.14567611362854,
             29.06808639763423
         ],
         "titles": [
@@ -5683,33 +5429,34 @@
         ]
     },
     {
-        "location": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
-        "original_label": "Mauritania",
+        "original_label": "Mauritania/Mauritans",
+        "location": "موريتانيا",
         "coordinates": [
             20.2540382,
             -9.2399263
         ],
         "titles": [
+            "heywood-the-four-prentices-of-london",
             "jonson-catiline-his-conspiracy"
         ]
     },
     {
-        "location": "Colman Street",
+        "location": "Coleman Street, London",
         "original_label": "Colman-street",
         "coordinates": [
-            -26.28167283968814,
-            27.838992064519577
+            51.51620852515127,
+            -0.08976784665193083
         ],
         "titles": [
             "jonson-every-man-in-his-humour"
         ]
     },
     {
-        "location": "Marseilles",
+        "location": "Marseille",
         "original_label": "Marseilles",
         "coordinates": [
-            -29.1811111,
-            27.2947222
+            43.309810229584265,
+            5.385696526076527
         ],
         "titles": [
             "jonson-every-man-in-his-humour"
@@ -5728,7 +5475,7 @@
         ]
     },
     {
-        "location": "Pontia, Sector de Bolama, Regi\u00e3o de Bolama, Prov\u00edncia Sul, Guin\u00e9-Bissau",
+        "location": "Pontia, Sector de Bolama, Região de Bolama, Província Sul, Guiné-Bissau",
         "original_label": "Pontia",
         "coordinates": [
             11.5354357,
@@ -5753,8 +5500,8 @@
         "location": "Salem",
         "original_label": "Salem",
         "coordinates": [
-            11.64696155,
-            78.21069575456464
+            44.9391565,
+            -123.033121
         ],
         "titles": [
             "jonson-the-alchemist"
@@ -5784,28 +5531,6 @@
         ]
     },
     {
-        "location": "Castella, Agen, Lot-et-Garonne, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 47340, France",
-        "original_label": "Castella",
-        "coordinates": [
-            44.3130643,
-            0.6829665
-        ],
-        "titles": [
-            "jonson-the-case-is-altered"
-        ]
-    },
-    {
-        "location": "Great Britain, United Kingdom",
-        "original_label": "BRITANIA",
-        "coordinates": [
-            54.3151594,
-            -1.9181532111487878
-        ],
-        "titles": [
-            "jonson-the-characters-of-two-royal-masques"
-        ]
-    },
-    {
         "location": "Westminster Hall, New Palace Yard, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 2JR, United Kingdom",
         "original_label": "Westminster-hall",
         "coordinates": [
@@ -5829,11 +5554,11 @@
         ]
     },
     {
-        "location": "Bury, Clermont, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60250, France",
+        "location": "Bury, United Kingdom",
         "original_label": "Bury",
         "coordinates": [
-            49.3132772,
-            2.3439338
+            52.24546,
+            0.71222
         ],
         "titles": [
             "jonson-the-devil-is-an-ass"
@@ -5873,7 +5598,7 @@
         ]
     },
     {
-        "location": "\u03a5\u03bc\u03b7\u03c4\u03c4\u03cc\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03cd\u03c1\u03c9\u03bd\u03b1, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 156 69, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Υμηττός, Δήμος Βύρωνα, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 156 69, Ελλάς",
         "original_label": "Hymettus",
         "coordinates": [
             37.9457841,
@@ -5884,7 +5609,7 @@
         ]
     },
     {
-        "location": "\u0646\u0647\u0631 \u062f\u062c\u0644\u0629, \u0647\u06d5\u0631\u06ce\u0645\u06cc \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646, \u0627\u0644\u0639\u0631\u0627\u0642",
+        "location": "نهر دجلة, هەرێمی کوردستان, العراق",
         "original_label": "Tigris",
         "coordinates": [
             34.9983593,
@@ -5895,25 +5620,16 @@
         ]
     },
     {
+        "original_label": "Lisbon/Lisborne",
         "location": "Lisboa, Portugal",
-        "original_label": "Lisbon",
         "coordinates": [
             38.7077507,
             -9.1365919
         ],
         "titles": [
-            "kyd-the-spanish-tragedy"
-        ]
-    },
-    {
-        "location": "Damascus",
-        "original_label": "Damascus",
-        "coordinates": [
-            33.5130695,
-            36.3095814
-        ],
-        "titles": [
-            "lower-the-phoenix-in-her-flames"
+            "fletcher-massinger-the-custom-of-the-country",
+            "kyd-the-spanish-tragedy",
+            "peele-the-battle-of-alcazar"
         ]
     },
     {
@@ -5942,7 +5658,7 @@
         ]
     },
     {
-        "location": "\u039b\u03ad\u03c3\u03b2\u03bf\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Λέσβος, Αποκεντρωμένη Διοίκηση Αιγαίου, Ελλάς",
         "original_label": "Lesbos",
         "coordinates": [
             39.17584185,
@@ -5953,7 +5669,7 @@
         ]
     },
     {
-        "location": "Yalvac Theatre - Antioch Pisidia, Aziz Paul Yolu, G\u00f6rg\u00fccami, Yalva\u00e7, Isparta, Akdeniz B\u00f6lgesi, 32400, T\u00fcrkiye",
+        "location": "Yalvac Theatre - Antioch Pisidia, Aziz Paul Yolu, Görgücami, Yalvaç, Isparta, Akdeniz Bölgesi, 32400, Türkiye",
         "original_label": "Pisidia",
         "coordinates": [
             38.3049743,
@@ -5964,31 +5680,34 @@
         ]
     },
     {
-        "location": "Laodikeia, Denizli \u00c7evreyolu, Eskihisar Mahallesi, Merkezefendi, Denizli, Ege B\u00f6lgesi, 20020, T\u00fcrkiye",
-        "original_label": "Phrygia",
+        "original_label": "Phrygia/Phrigia",
+        "location": "Phrygia",
         "coordinates": [
             37.8366789,
             29.107162729149344
         ],
         "titles": [
-            "lyly-midas"
+            "alexander-croesus",
+            "lyly-midas",
+            "s-locrine"
         ]
     },
     {
+        "original_label": "Etna/Etnean",
         "location": "Etna, Zafferana Etnea, Catania, Sicilia, 95019, Italia",
-        "original_label": "Etna",
         "coordinates": [
             37.7510251,
             14.9940321
         ],
         "titles": [
+            "machin-barkstead-marston-the-insatiate-countess",
             "marlowe-nashe-dido-queen-of-carthage",
-            "stephens-cynthia-s-revenge",
-            "machin-barkstead-marston-the-insatiate-countess"
+            "mason-the-turk",
+            "stephens-cynthia-s-revenge"
         ]
     },
     {
-        "location": "\u05d9\u05e9\u05e8\u05d0\u05dc",
+        "location": "ישראל",
         "original_label": "Israel",
         "coordinates": [
             30.8124247,
@@ -6000,18 +5719,7 @@
         ]
     },
     {
-        "location": "Zuberoa, Santa Barba, Menditte, Oloron-Sainte-Marie, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 64130, France",
-        "original_label": "Soule",
-        "coordinates": [
-            43.1708565,
-            -0.8775124092783774
-        ],
-        "titles": [
-            "markham-sampson-herod-and-antipater"
-        ]
-    },
-    {
-        "location": "\u0130stanbul, Fatih, \u0130stanbul, Marmara B\u00f6lgesi, 34122, T\u00fcrkiye",
+        "location": "İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Türkiye",
         "original_label": "Constantinople",
         "coordinates": [
             41.006381,
@@ -6044,7 +5752,7 @@
         ]
     },
     {
-        "location": "Paris, \u00cele-de-France, France m\u00e9tropolitaine, France",
+        "location": "Paris, Île-de-France, France métropolitaine, France",
         "original_label": "Lutetia",
         "coordinates": [
             48.8534951,
@@ -6055,7 +5763,7 @@
         ]
     },
     {
-        "location": "\u0130stanbul Bo\u011faz\u0131, \u0130stanbul, Marmara B\u00f6lgesi, T\u00fcrkiye",
+        "location": "İstanbul Boğazı, İstanbul, Marmara Bölgesi, Türkiye",
         "original_label": "Bosphorus",
         "coordinates": [
             41.112525899999994,
@@ -6078,7 +5786,7 @@
         ]
     },
     {
-        "location": "Doma\u010dija Vrbin, 25, Ka\u010di\u010de-Pared, Diva\u010da, Upravna enota Se\u017eana, 6215, Slovenija",
+        "location": "Domačija Vrbin, 25, Kačiče-Pared, Divača, Upravna enota Sežana, 6215, Slovenija",
         "original_label": "Vrbin",
         "coordinates": [
             45.6500434,
@@ -6090,7 +5798,7 @@
         ]
     },
     {
-        "location": "\u0645\u0633\u0642\u0637, \u0639\u0645\u0627\u0646",
+        "location": "مسقط, عمان",
         "original_label": "Muscat",
         "coordinates": [
             23.5882019,
@@ -6101,7 +5809,7 @@
         ]
     },
     {
-        "location": "Gazima\u011fusa, Gazima\u011fusa Belediyesi, Gazima\u011fusa il\u00e7esi, Kuzey K\u0131br\u0131s, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+        "location": "Gazimağusa, Gazimağusa Belediyesi, Gazimağusa ilçesi, Kuzey Kıbrıs, Κύπρος - Kıbrıs",
         "original_label": "Famagusta",
         "coordinates": [
             35.1205261,
@@ -6123,7 +5831,7 @@
         ]
     },
     {
-        "location": "\u123d\u1228 \u12a5\u1295\u12f3 \u1225\u120b\u1234 / Shire, North Western Tigray, \u1275\u130d\u122b\u12ed, \u12a2\u1275\u12ee\u1335\u12eb",
+        "location": "ሽረ እንዳ ሥላሴ / Shire, North Western Tigray, ትግራይ, ኢትዮጵያ",
         "original_label": "Shire",
         "coordinates": [
             14.102432,
@@ -6170,7 +5878,7 @@
         ]
     },
     {
-        "location": "\u062d\u0644\u0628, \u0646\u0627\u062d\u064a\u0629 \u0645\u0631\u0643\u0632 \u062c\u0628\u0644 \u0633\u0645\u0639\u0627\u0646, \u0645\u0646\u0637\u0642\u0629 \u062c\u0628\u0644 \u0633\u0645\u0639\u0627\u0646, \u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0644\u0628, \u0633\u0648\u0631\u064a\u0627",
+        "location": "حلب, ناحية مركز جبل سمعان, منطقة جبل سمعان, محافظة حلب, سوريا",
         "original_label": "Aleppo",
         "coordinates": [
             36.19924,
@@ -6192,7 +5900,7 @@
         ]
     },
     {
-        "location": "Castrum of Pelusium;Pelusium;Pelusium, Zeus-Kasios Temple;Pelusium church;Roman theater;HIppodrome of Pelusium, \u0637\u0631\u064a\u0642 \u0627\u0644\u0642\u0646\u0637\u0631\u0647 \u0634\u0631\u0642, \u0627\u0644\u0639\u0631\u064a\u0634, \u0628\u0648\u0631\u0633\u0639\u064a\u062f, \u0645\u0635\u0631",
+        "location": "Castrum of Pelusium;Pelusium;Pelusium, Zeus-Kasios Temple;Pelusium church;Roman theater;HIppodrome of Pelusium, طريق القنطره شرق, العريش, بورسعيد, مصر",
         "original_label": "Pelusium",
         "coordinates": [
             31.04279605,
@@ -6203,7 +5911,7 @@
         ]
     },
     {
-        "location": "Samos, Sarria, Lugo, Galicia, Espa\u00f1a",
+        "location": "Samos, Sarria, Lugo, Galicia, España",
         "original_label": "Samos",
         "coordinates": [
             42.730661,
@@ -6229,7 +5937,7 @@
         "location": "Toscana, Italia",
         "original_label": "Etruria",
         "coordinates": [
-            43.42346226743928, 
+            43.42346226743928,
             11.154407102832316
         ],
         "titles": [
@@ -6251,8 +5959,8 @@
         "location": "Veii",
         "original_label": "Veii",
         "coordinates": [
-            -22.652337824614975,
-            14.56284491451666
+            42.023435274269744,
+            12.389840208417045
         ],
         "titles": [
             "may-cleopatra-queen-of-egypt"
@@ -6270,7 +5978,7 @@
         ]
     },
     {
-        "location": "Sj\u00e6lland, Danmark",
+        "location": "Sjælland, Danmark",
         "original_label": "Zealand",
         "coordinates": [
             55.545597900000004,
@@ -6293,7 +6001,7 @@
         ]
     },
     {
-        "location": "Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+        "location": "Maroc ⵍⵎⵖⵔⵉⴱ المغرب",
         "original_label": "Morocco",
         "coordinates": [
             28.3347722,
@@ -6305,7 +6013,7 @@
         ]
     },
     {
-        "location": "Grad Dubrovnik, Dubrova\u010dko-neretvanska \u017eupanija, Hrvatska",
+        "location": "Grad Dubrovnik, Dubrovačko-neretvanska županija, Hrvatska",
         "original_label": "Ragusa",
         "coordinates": [
             42.6491029,
@@ -6364,8 +6072,8 @@
         "location": "Severn River",
         "original_label": "Severn",
         "coordinates": [
-            -26.5894444,
-            22.8588889
+            52.57016480662874,
+            -3.262963534701616
         ],
         "titles": [
             "milton-comus"
@@ -6383,7 +6091,7 @@
         ]
     },
     {
-        "location": "Marchland-Stadion, Wiener Stra\u00dfe, Angern an der March, Bezirk G\u00e4nserndorf, Nieder\u00f6sterreich, 2261, \u00d6sterreich",
+        "location": "Marchland-Stadion, Wiener Straße, Angern an der March, Bezirk Gänserndorf, Niederösterreich, 2261, Österreich",
         "original_label": "Marchland",
         "coordinates": [
             48.377106600000005,
@@ -6405,14 +6113,15 @@
         ]
     },
     {
+        "original_label": "Hygate/Hye-gate",
         "location": "Highgate",
-        "original_label": "Hygate",
         "coordinates": [
-            51.57042607401683, 
-            -0.1523585220835441
+            51.5706446,
+            -0.1492397
         ],
         "titles": [
-            "munday-drayton-wilson-hathaway-sir-john-oldcastle-1"
+            "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
+            "rowley-a-new-wonder-a-woman-never-vexed"
         ]
     },
     {
@@ -6483,25 +6192,15 @@
         ]
     },
     {
-        "location": "Numidia, Rue des Panoyaux, Quartier du P\u00e8re-Lachaise, Paris 20e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75020, France",
-        "original_label": "Numidia",
-        "coordinates": [
-            48.8662414,
-            2.3841221
-        ],
-        "titles": [
-            "nabbes-hannibal-and-scipio"
-        ]
-    },
-    {
+        "original_label": "Carmarthen/Carmarden",
         "location": "Carmarthen, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA31 1RT, United Kingdom",
-        "original_label": "Carmarthen",
         "coordinates": [
             51.8591257,
             -4.3115907
         ],
         "titles": [
-            "peele-edward-the-first"
+            "peele-edward-the-first",
+            "rowley-the-birth-of-merlin"
         ]
     },
     {
@@ -6550,7 +6249,7 @@
         ]
     },
     {
-        "location": "\u0627\u0644\u0646\u0627\u0635\u0631\u0629, \u05e0\u05e4\u05ea \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "location": "الناصرة, נפת יזרעאל, מחוז הצפון, ישראל",
         "original_label": "Nazareth",
         "coordinates": [
             32.7066301,
@@ -6561,7 +6260,7 @@
         ]
     },
     {
-        "location": "Tanger \u0637\u0646\u062c\u0629, Pachalik de Tanger \u0628\u0627\u0634\u0648\u064a\u0629 \u0637\u0646\u062c\u0629, Pr\u00e9fecture de Tanger-Assilah \u0639\u0645\u0627\u0644\u0629 \u0637\u0646\u062c\u0629-\u0623\u0635\u064a\u0644\u0629, Tanger-T\u00e9touan-Al Hoce\u00efma \u2d5f\u2d30\u2d4f\u2d4a-\u2d5f\u2d49\u2d5c\u2d30\u2d61\u2d49\u2d4f-\u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30 \u0637\u0646\u062c\u0629 \u062a\u0637\u0648\u0627\u0646 \u0627\u0644\u062d\u0633\u064a\u0645\u0629, Maroc \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+        "location": "Tanger طنجة, Pachalik de Tanger باشوية طنجة, Préfecture de Tanger-Assilah عمالة طنجة-أصيلة, Tanger-Tétouan-Al Hoceïma ⵟⴰⵏⵊ-ⵟⵉⵜⴰⵡⵉⵏ-ⵍⵃⵓⵙⵉⵎⴰ طنجة تطوان الحسيمة, Maroc ⵍⵎⵖⵔⵉⴱ المغرب",
         "original_label": "Tanger",
         "coordinates": [
             35.7696302,
@@ -6572,7 +6271,7 @@
         ]
     },
     {
-        "location": "\u039a\u03c1\u03ae\u03c4\u03b7, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Κρήτη, Αποκεντρωμένη Διοίκηση Κρήτης, Ελλάς",
         "original_label": "Crete",
         "coordinates": [
             35.308495199999996,
@@ -6594,18 +6293,7 @@
         ]
     },
     {
-        "location": "Oxford",
-        "original_label": "Oxenford",
-        "coordinates": [
-            51.75931359294067,
-            -1.2534276728301397
-        ],
-        "titles": [
-            "porter-the-two-angry-women-of-abingdon"
-        ]
-    },
-    {
-        "location": "\u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0394\u03b9\u03b1\u03c0\u03bf\u03bd\u03c4\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 491 00, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Κέρκυρα, Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων, Περιφερειακή Ενότητα Κέρκυρας, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 491 00, Ελλάς",
         "original_label": "Corcyra",
         "coordinates": [
             39.6217347,
@@ -6641,22 +6329,101 @@
         "location": "Sandwich",
         "original_label": "Sandwitch",
         "coordinates": [
-            11.5669994,
-            104.9308688
+            51.2752527,
+            1.3408309
         ],
         "titles": [
             "rowley-a-shoemaker-a-gentleman"
         ]
     },
     {
-        "location": "Roome, D\u00f6rflingen, Schaffhausen, 8239, Schweiz/Suisse/Svizzera/Svizra",
-        "original_label": "Roome",
+        "original_label": "Rome",
+        "location": "Rome",
         "coordinates": [
-            47.70930955,
-            8.713657307048816
+            41.8939,
+            12.4818
         ],
         "titles": [
-            "rowley-when-you-see-me-you-know-me"
+            "alexander-caesar",
+            "anon-caesar-and-pompey",
+            "anon-canterbury-his-change-of-diet",
+            "anon-jeronimo-with-the-wars-of-portugal-1",
+            "anon-nero",
+            "barnes-the-devil-s-charter",
+            "barry-ram-alley",
+            "beaumont-fletcher-love-s-pilgrimage",
+            "beaumont-fletcher-the-scornful-lady",
+            "beaumont-fletcher-the-woman-hater",
+            "brome-the-court-beggar",
+            "cary-mariam-the-fair-queen-of-jewry",
+            "cavendish-the-variety",
+            "chapman-bussy-d-ambois",
+            "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+            "chapman-the-revenge-of-bussy-d-ambois",
+            "chapman-the-tragedy-of-charles-duke-of-byron",
+            "chapman-the-widow-s-tears",
+            "chapman-two-wise-men-and-all-the-rest-fools",
+            "cumber-the-two-merry-milkmaids",
+            "daniel-cleopatra",
+            "day-the-parliament-of-bees",
+            "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+            "dekker-massinger-the-virgin-martyr",
+            "dekker-the-honest-whore-2",
+            "dekker-the-wonder-of-a-kingdom",
+            "drue-the-duchess-of-suffolk",
+            "fisher-fuimus-troes",
+            "fletcher-field-four-plays",
+            "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+            "fletcher-massinger-the-prophetess",
+            "fletcher-valentinian",
+            "fletcher-women-pleased",
+            "ford-love-s-sacrifice",
+            "ford-the-fancies-chaste-and-noble",
+            "garter-the-most-virtuous-and-godly-susanna",
+            "glapthorne-albertus-wallenstein",
+            "glapthorne-the-hollander",
+            "greene-friar-bacon-and-friar-bongay",
+            "heywood-if-you-know-not-me-you-know-nobody-2",
+            "heywood-the-rape-of-lucrece",
+            "hughes-the-misfortunes-of-arthur",
+            "jonson-catiline-his-conspiracy",
+            "jonson-poetaster",
+            "jonson-sejanus-his-fall",
+            "jonson-the-new-inn",
+            "markham-sampson-herod-and-antipater",
+            "marlowe-dr-faustus",
+            "marlowe-the-massacre-at-paris",
+            "marston-the-wonder-of-women",
+            "mason-the-turk",
+            "massinger-the-guardian",
+            "massinger-the-roman-actor",
+            "may-cleopatra-queen-of-egypt",
+            "may-julia-agrippina-empress-of-rome",
+            "middleton-rowley-the-world-tossed-at-tennis",
+            "middleton-women-beware-women",
+            "nabbes-hannibal-and-scipio",
+            "peele-edward-the-first",
+            "peele-the-battle-of-alcazar",
+            "porter-the-two-angry-women-of-abingdon",
+            "richards-messalina-the-roman-empress",
+            "rowley-a-shoemaker-a-gentleman",
+            "rowley-when-you-see-me-you-know-me",
+            "sampson-the-vow-breaker",
+            "shirley-the-ball",
+            "shirley-the-traitor",
+            "shirley-the-witty-fair-one",
+            "shirley-the-young-admiral",
+            "stephens-cynthia-s-revenge",
+            "tomkis-albumazar",
+            "udall-ralph-roister-doister",
+            "webster-rowley-the-thracian-wonder",
+            "webster-the-devil-s-law-case",
+            "webster-the-duchess-of-malfi",
+            "webster-the-white-devil",
+            "wilmot-hatton-noel-al-stafford-tancred-and-gismund",
+            "wilson-the-three-ladies-of-london",
+            "wilson-the-three-lords-and-three-ladies-of-london",
+            "woodes-the-conflict-of-conscience"
         ]
     },
     {
@@ -6760,7 +6527,7 @@
         ]
     },
     {
-        "location": "Rouen, Seine-Maritime, Normandie, France m\u00e9tropolitaine, France",
+        "location": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France",
         "original_label": "Roan",
         "coordinates": [
             49.4404591,
@@ -6849,7 +6616,7 @@
         ]
     },
     {
-        "location": "La Valtoline, Belleville-sur-Meuse, Verdun, Meuse, Grand Est, France m\u00e9tropolitaine, 55430, France",
+        "location": "La Valtoline, Belleville-sur-Meuse, Verdun, Meuse, Grand Est, France métropolitaine, 55430, France",
         "original_label": "Valtoline",
         "coordinates": [
             49.1727007,
@@ -6871,7 +6638,7 @@
         ]
     },
     {
-        "location": "Murcia, \u00c1rea Metropolitana de Murcia, Regi\u00f3n de Murcia, Espa\u00f1a",
+        "location": "Murcia, Área Metropolitana de Murcia, Región de Murcia, España",
         "original_label": "Murcia",
         "coordinates": [
             37.9923795,
@@ -6904,7 +6671,7 @@
         ]
     },
     {
-        "location": "Calais, Pas-de-Calais, Hauts-de-France, France m\u00e9tropolitaine, 62100, France",
+        "location": "Calais, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62100, France",
         "original_label": "Calais",
         "coordinates": [
             50.9524769,
@@ -6915,7 +6682,7 @@
         ]
     },
     {
-        "location": "Mesopotamia / Mezopotamya / \u039c\u03b5\u03c3\u03bf\u03c0\u03bf\u03c4\u03b1\u03bc\u03af\u03b1 / \u0628\u0644\u0627\u062f \u0627\u0644\u0631\u0627\u0641\u062f\u064a\u0646 / \u0712\u071d\u072c \u0722\u0717\u072a\u071d\u0722, \u0627\u0644\u0639\u0631\u0627\u0642",
+        "location": "Mesopotamia / Mezopotamya / Μεσοποταμία / بلاد الرافدين / ܒܝܬ ܢܗܪܝܢ, العراق",
         "original_label": "Mesopotamia",
         "coordinates": [
             34.90348665,
@@ -6929,8 +6696,8 @@
         "location": "Tibet",
         "original_label": "Tibet",
         "coordinates": [
-            31.84753735,
-            87.08580005255963
+            48.8566,
+            2.3522
         ],
         "titles": [
             "udall-ralph-roister-doister"
@@ -6981,7 +6748,7 @@
         ]
     },
     {
-        "location": "\u0394\u03ae\u03bb\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03c2",
+        "location": "Δήλος, Δήμος Μυκόνου, Περιφερειακή Ενότητα Μυκόνου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, Ελλάς",
         "original_label": "Delos",
         "coordinates": [
             37.39089,
@@ -7012,107 +6779,6 @@
         "titles": [
             "alexander-caesar",
             "marlowe-dr-faustus"
-        ]
-    },
-    {
-        "location": "Rome",
-        "original_label": "Rome",
-        "coordinates": [
-            41.8933203,
-            12.4829321
-        ],
-        "titles": [
-            "mason-the-turk",
-            "middleton-rowley-the-world-tossed-at-tennis",
-            "glapthorne-the-hollander",
-            "drue-the-duchess-of-suffolk",
-            "stephens-cynthia-s-revenge",
-            "alexander-caesar",
-            "fisher-fuimus-troes",
-            "shirley-the-witty-fair-one",
-            "massinger-the-guardian",
-            "porter-the-two-angry-women-of-abingdon",
-            "barry-ram-alley",
-            "marlowe-the-massacre-at-paris",
-            "rowley-a-shoemaker-a-gentleman",
-            "tomkis-albumazar",
-            "webster-the-devil-s-law-case",
-            "dekker-the-wonder-of-a-kingdom",
-            "jonson-catiline-his-conspiracy",
-            "chapman-the-revenge-of-bussy-d-ambois",
-            "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
-            "cary-mariam-the-fair-queen-of-jewry",
-            "barnes-the-devil-s-charter",
-            "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
-            "fletcher-valentinian",
-            "dekker-massinger-the-virgin-martyr",
-            "heywood-if-you-know-not-me-you-know-nobody-2",
-            "shirley-the-young-admiral",
-            "marston-the-wonder-of-women",
-            "brome-the-court-beggar",
-            "woodes-the-conflict-of-conscience",
-            "chapman-bussy-d-ambois",
-            "richards-messalina-the-roman-empress",
-            "jonson-poetaster",
-            "chapman-the-widow-s-tears",
-            "markham-sampson-herod-and-antipater",
-            "fletcher-women-pleased",
-            "fletcher-field-four-plays",
-            "marlowe-dr-faustus",
-            "wilmot-hatton-noel-al-stafford-tancred-and-gismund",
-            "anon-caesar-and-pompey",
-            "cumber-the-two-merry-milkmaids",
-            "heywood-the-rape-of-lucrece",
-            "chapman-the-tragedy-of-charles-duke-of-byron",
-            "massinger-the-roman-actor",
-            "hughes-the-misfortunes-of-arthur",
-            "day-the-parliament-of-bees",
-            "shirley-the-ball",
-            "middleton-women-beware-women",
-            "beaumont-fletcher-the-scornful-lady",
-            "may-julia-agrippina-empress-of-rome",
-            "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
-            "jonson-the-new-inn",
-            "jonson-sejanus-his-fall",
-            "peele-edward-the-first",
-            "may-cleopatra-queen-of-egypt",
-            "wilson-the-three-ladies-of-london",
-            "cavendish-the-variety",
-            "fletcher-massinger-the-prophetess",
-            "shirley-the-traitor",
-            "wilson-the-three-lords-and-three-ladies-of-london",
-            "chapman-two-wise-men-and-all-the-rest-fools",
-            "dekker-the-honest-whore-2",
-            "garter-the-most-virtuous-and-godly-susanna",
-            "sampson-the-vow-breaker",
-            "daniel-cleopatra",
-            "greene-friar-bacon-and-friar-bongay",
-            "udall-ralph-roister-doister",
-            "ford-love-s-sacrifice",
-            "beaumont-fletcher-the-woman-hater",
-            "anon-canterbury-his-change-of-diet",
-            "anon-nero",
-            "webster-rowley-the-thracian-wonder",
-            "ford-the-fancies-chaste-and-noble",
-            "nabbes-hannibal-and-scipio",
-            "beaumont-fletcher-love-s-pilgrimage",
-            "glapthorne-albertus-wallenstein",
-            "webster-the-duchess-of-malfi",
-            "anon-jeronimo-with-the-wars-of-portugal-1",
-            "webster-the-white-devil",
-            "peele-the-battle-of-alcazar"
-        ]
-    },
-    {
-        "location": "Phrygia",
-        "original_label": "Phrigia",
-        "coordinates": [
-            37.8366789,
-            29.107162729149344
-        ],
-        "titles": [
-            "alexander-croesus",
-            "s-locrine"
         ]
     },
     {
@@ -7263,7 +6929,7 @@
         ]
     },
     {
-        "location": "Hircania, Carrera 17, Girardota, Valle de Aburr\u00e1, Antioquia, RAP del Agua y la Monta\u00f1a, 051037, Colombia",
+        "location": "Hircania, Carrera 17, Girardota, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, 051037, Colombia",
         "original_label": "Hircania",
         "coordinates": [
             6.3762703,
@@ -7289,8 +6955,8 @@
         "location": "Mount Etna",
         "original_label": "Mongibell",
         "coordinates": [
-            -23.1666667,
-            150.45
+            37.75222425903074,
+            14.994035377195853
         ],
         "titles": [
             "barnes-the-devil-s-charter"
@@ -7308,11 +6974,11 @@
         ]
     },
     {
-        "location": "Galilea",
+        "location": "Galilee",
         "original_label": "Galily",
         "coordinates": [
-            6.3121286,
-            -9.1541114
+            32.93664510545707,
+            35.450992793961426
         ],
         "titles": [
             "barnes-the-devil-s-charter"
@@ -7471,21 +7137,6 @@
         ]
     },
     {
-        "location": "Orleans",
-        "original_label": "Orleance",
-        "coordinates": [
-            47.9027336,
-            1.9086066
-        ],
-        "titles": [
-            "chapman-the-tragedy-of-charles-duke-of-byron",
-            "cavendish-the-variety",
-            "fletcher-the-wild-goose-chase",
-            "chapman-the-conspiracy-of-charles-duke-of-byron",
-            "fletcher-beaumont-the-noble-gentleman"
-        ]
-    },
-    {
         "location": "Mount Cythaeron",
         "original_label": "Cythaeron",
         "coordinates": [
@@ -7497,7 +7148,7 @@
         ]
     },
     {
-        "location": "L\u00fcneburg",
+        "location": "Lüneburg",
         "original_label": "Luningberg",
         "coordinates": [
             53.248706,
@@ -7595,7 +7246,7 @@
     },
     {
         "location": "Watling Street",
-        "original_label": "Watlingstr\u00e9ete",
+        "original_label": "Watlingstréete",
         "coordinates": [
             51.27700459457577,
             1.0789054325651635
@@ -7606,7 +7257,7 @@
     },
     {
         "location": "Tower Street",
-        "original_label": "Towerstr\u00e9et",
+        "original_label": "Towerstréet",
         "coordinates": [
             51.5410272,
             -0.058807899999999996
@@ -7636,17 +7287,6 @@
         ],
         "titles": [
             "heywood-the-four-prentices-of-london",
-            "dekker-the-shoemaker-s-holiday"
-        ]
-    },
-    {
-        "location": "Cornwall",
-        "original_label": "Cornewaile",
-        "coordinates": [
-            50.443348900000004,
-            -4.62465658489158
-        ],
-        "titles": [
             "dekker-the-shoemaker-s-holiday"
         ]
     },
@@ -7698,7 +7338,7 @@
     },
     {
         "location": "Sparta",
-        "original_label": "Sparta",
+        "original_label": "Sparta/Lacedemon",
         "coordinates": [
             37.08114525,
             22.42486178272022
@@ -7708,11 +7348,12 @@
             "tomkis-albumazar",
             "field-fletcher-massinger-the-queen-of-corinth",
             "heywood-the-iron-age-2",
-            "stephens-cynthia-s-revenge"
+            "stephens-cynthia-s-revenge",
+            "day-the-isle-of-gulls"
         ]
     },
     {
-        "location": "Per\u00fa",
+        "location": "Perú",
         "original_label": "Peru",
         "coordinates": [
             -6.8699697,
@@ -7722,29 +7363,6 @@
             "shirley-the-lady-of-pleasure",
             "tomkis-lingua",
             "fletcher-beaumont-the-noble-gentleman"
-        ]
-    },
-    {
-        "location": "Turkey",
-        "original_label": "Turk",
-        "coordinates": [
-            38.9597594,
-            34.9249653
-        ],
-        "titles": [
-            "fletcher-massinger-a-very-woman"
-        ]
-    },
-    {
-        "location": "Lisbon",
-        "original_label": "Lisborne",
-        "coordinates": [
-            38.7077507,
-            -9.1365919
-        ],
-        "titles": [
-            "fletcher-massinger-the-custom-of-the-country",
-            "peele-the-battle-of-alcazar"
         ]
     },
     {
@@ -7783,7 +7401,7 @@
         ]
     },
     {
-        "location": "Danzig (Gda\u0144sk)",
+        "location": "Danzig (Gdańsk)",
         "original_label": "Dansick",
         "coordinates": [
             54.3706858,
@@ -7821,17 +7439,6 @@
         "coordinates": [
             51.75019425,
             -1.2580877770886076
-        ],
-        "titles": [
-            "greene-friar-bacon-and-friar-bongay"
-        ]
-    },
-    {
-        "location": "Azur, Dax, Landes, Nouvelle-Aquitaine, France m\u00e9tropolitaine, 40140, France",
-        "original_label": "Azur",
-        "coordinates": [
-            43.7988816,
-            -1.3030524
         ],
         "titles": [
             "greene-friar-bacon-and-friar-bongay"
@@ -7904,17 +7511,6 @@
         ]
     },
     {
-        "location": "Antwerp",
-        "original_label": "Anwerpe",
-        "coordinates": [
-            51.2211097,
-            4.3997081
-        ],
-        "titles": [
-            "heywood-if-you-know-not-me-you-know-nobody-2"
-        ]
-    },
-    {
         "location": "Dunkirk",
         "original_label": "Dunkerke",
         "coordinates": [
@@ -7948,17 +7544,6 @@
         ]
     },
     {
-        "location": "Troy",
-        "original_label": "Illium",
-        "coordinates": [
-            43.3951943,
-            1.4863139
-        ],
-        "titles": [
-            "heywood-the-brazen-age"
-        ]
-    },
-    {
         "location": "Colchis",
         "original_label": "Colchos",
         "coordinates": [
@@ -7975,17 +7560,6 @@
         "coordinates": [
             51.5113812,
             -0.0903632
-        ],
-        "titles": [
-            "heywood-the-four-prentices-of-london"
-        ]
-    },
-    {
-        "location": "Mauritania",
-        "original_label": "Mauritans",
-        "coordinates": [
-            20.2540382,
-            -9.2399263
         ],
         "titles": [
             "heywood-the-four-prentices-of-london"
@@ -8159,28 +7733,6 @@
         ]
     },
     {
-        "location": "Mount Etna",
-        "original_label": "Etnean",
-        "coordinates": [
-            -23.1666667,
-            150.45
-        ],
-        "titles": [
-            "mason-the-turk"
-        ]
-    },
-    {
-        "location": "Pharsalus",
-        "original_label": "Pharsailaes",
-        "coordinates": [
-            39.3627108,
-            22.2835063
-        ],
-        "titles": [
-            "may-cleopatra-queen-of-egypt"
-        ]
-    },
-    {
         "location": "Oxfordshire",
         "original_label": "Oxfordshiere",
         "coordinates": [
@@ -8225,25 +7777,15 @@
         ]
     },
     {
-        "location": "Cambridge",
-        "original_label": "Cambrick",
-        "coordinates": [
-            -25.7380912,
-            28.1009037
-        ],
-        "titles": [
-            "middleton-the-widow"
-        ]
-    },
-    {
+        "original_label": "Tyrrhenic/Tyrhen",
         "location": "Tyrrhenian",
-        "original_label": "Tyrrhenic",
         "coordinates": [
             39.9999743,
             11.9999826
         ],
         "titles": [
-            "milton-comus"
+            "milton-comus",
+            "richards-messalina-the-roman-empress"
         ]
     },
     {
@@ -8302,17 +7844,6 @@
         ]
     },
     {
-        "location": "Mycenae",
-        "original_label": "Mycoene",
-        "coordinates": [
-            37.72919415,
-            22.754428825393703
-        ],
-        "titles": [
-            "pikering-horestes"
-        ]
-    },
-    {
         "location": "Colnbrook",
         "original_label": "Colbrooke",
         "coordinates": [
@@ -8335,28 +7866,6 @@
         ]
     },
     {
-        "location": "Tyrrhenian",
-        "original_label": "Tyrhen",
-        "coordinates": [
-            39.9999743,
-            11.9999826
-        ],
-        "titles": [
-            "richards-messalina-the-roman-empress"
-        ]
-    },
-    {
-        "location": "Highgate",
-        "original_label": "Hye-gate",
-        "coordinates": [
-            51.5706446,
-            -0.1492397
-        ],
-        "titles": [
-            "rowley-a-new-wonder-a-woman-never-vexed"
-        ]
-    },
-    {
         "location": "Biscay",
         "original_label": "Biscany",
         "coordinates": [
@@ -8365,39 +7874,6 @@
         ],
         "titles": [
             "rowley-all-s-lost-by-lust"
-        ]
-    },
-    {
-        "location": "Carmarthen",
-        "original_label": "Carmarden",
-        "coordinates": [
-            51.8591257,
-            -4.3115907
-        ],
-        "titles": [
-            "rowley-the-birth-of-merlin"
-        ]
-    },
-    {
-        "location": "Norfolk",
-        "original_label": "Norffolke",
-        "coordinates": [
-            52.666667,
-            1.0
-        ],
-        "titles": [
-            "s-thomas-lord-cromwell"
-        ]
-    },
-    {
-        "location": "Antwerp",
-        "original_label": "Antwarpe",
-        "coordinates": [
-            51.2211097,
-            4.3997081
-        ],
-        "titles": [
-            "s-thomas-lord-cromwell"
         ]
     },
     {
@@ -8423,17 +7899,6 @@
         ]
     },
     {
-        "location": "Mediterranean",
-        "original_label": "Mediterean",
-        "coordinates": [
-            35.0000035,
-            19.9999957
-        ],
-        "titles": [
-            "webster-rowley-the-thracian-wonder"
-        ]
-    },
-    {
         "location": "Leicestershire",
         "original_label": "Leystershire",
         "coordinates": [
@@ -8453,17 +7918,6 @@
         ],
         "titles": [
             "wilkins-the-miseries-of-enforced-marriage"
-        ]
-    },
-    {
-        "location": "Armenia",
-        "original_label": "Hermenia",
-        "coordinates": [
-            40.7696272,
-            44.6736646
-        ],
-        "titles": [
-            "zouche-the-sophister"
         ]
     },
     {
