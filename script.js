@@ -4,32 +4,47 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
 }).addTo(map);
 
+// Fetch location types from the loc-types.txt file
+let locationTypes = {};
+fetch('location-types.txt')
+    .then(response => response.text())
+    .then(data => {
+        // Parse the Python-style dictionary into JavaScript object
+        locationTypes = eval('(' + data + ')');
+    })
+    .catch(error => console.error('Error loading location types:', error));
+
+// Fetch locations and plot them on the map
 fetch('database.json')
     .then(response => response.json())
     .then(data => {
         data.forEach(location => {
             let lat = location.coordinates[0];
             let lng = location.coordinates[1];
-            let titles = location.titles.map(title => `<a href="https://dracor.org/eng/${encodeURIComponent(title)}#text" target="_blank">${title}</a>`).join(', ');
+            let titles = location.titles.map(title => 
+                `<a href="https://dracor.org/eng/${encodeURIComponent(title)}#text" target="_blank">${title}</a>`
+            ).join(', ');
             let locationName = location.location;
             let radius = Math.min(15, location.titles.length * 1.1);
 
+            // Determine the color based on the location's type
+            let category = locationTypes[locationName] || 'unknown';
             let color;
-            const continents = ["Africa", "America", "Asia", "Europe"];
-            const countries = ['France/Gallia', 'England', 'Italia', 'Greece', 'Spain', 'Deutschland', 'Eire / Ireland',
-    'Persia', 'Alba/Scotland', 'Netherlands', 'Peru', 'Normandy', 'Tartary','Suffolk', 'Libya', 'Lazio', 'Macedonia', 'Sardinia', 
-    'West Indies', 'Brabant', 'Flanders', 'Bavaria', 'Castile', 'Galicia', 'Catalonia', "Iberia", "Cymru/Wales",
-    'Champagne', 'Transylvania', 'Frisia', 'Gelderland', 'Saxony', 'Morocco', 'Corsica',"Turkiye/Anatolia","Barbary, approx. Algiers","Arabia","Scythia","Normandie","Lorraine","Bourgogne","Campania","Sicilia","Malta","Austria","Hungary","Cornwall","United Kingdom","Sachsen",
-    "Egypt","Ethiopia","Magyarország","Polska","Sverige","Norway","Eire/Ireland","Portugal","Lapland","Virginia, United States","Russia","Tartaria"]
-
-            const locationtring = location.location[0];
-
-            if (continents.some(continent => locationtring.includes(continent))) {
-                color = 'green';
-            } else if (countries.some(country => locationtring.startsWith(country))) {
-                color = 'blue';
-            } else {
-                color = 'red';
+            switch (category) {
+                case 'continent':
+                    color = 'green';
+                    break;
+                case 'country/region':
+                    color = 'blue';
+                    break;
+                case 'city':
+                    color = 'purple';
+                    break;
+                case 'natural features':
+                    color = 'brown';
+                    break;
+                default:
+                    color = 'red';
             }
 
             var circleMarker = L.circleMarker([lat, lng], {
