@@ -24,7 +24,7 @@ fetch('database.json')
             let titles = location.titles.map(title => 
                 `<a href="https://dracor.org/eng/${encodeURIComponent(title)}#text" target="_blank">${title}</a>`
             ).join(', ');
-            let locationName = location.location;
+            let locationName = location.original_label;
             let locationNameFull = location.original_label + " (" + location.location + ")";
             let radius = Math.min(15, location.titles.length * 1.1);
 
