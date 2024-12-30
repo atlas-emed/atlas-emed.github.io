@@ -13,7 +13,6 @@
             "denham-the-sophy",
             "cary-mariam-the-fair-queen-of-jewry",
             "heywood-a-challenge-for-beauty",
- 	    "wilkins-the-miseries-of-enforced-marriage",
             "heywood-the-iron-age-2",
             "alexander-caesar",
             "fisher-fuimus-troes",
@@ -22,6 +21,7 @@
             "greene-selimus-1",
             "alexander-darius",
             "heywood-the-iron-age-1",
+            "wilkins-the-miseries-of-enforced-marriage",
             "randolph-aristippus-or-the-jovial-philosopher",
             "may-julia-agrippina-empress-of-rome",
             "daniel-philotas",
@@ -467,7 +467,8 @@
             "cowley-love-s-riddle",
             "lyly-endymion",
             "lower-the-phoenix-in-her-flames",
-            "alexander-the-alexandraean-tragedy"
+            "alexander-the-alexandraean-tragedy",
+            "heywood-the-four-prentices-of-london"
         ]
     },
     {
@@ -1245,11 +1246,11 @@
         ]
     },
     {
-        "location": "Lake of Lerna",
+        "location": "Lerna",
         "original_label": "Lerna",
         "coordinates": [
-            14.2526397,
-            121.3796956
+            37.55,
+            22.716667
         ],
         "titles": [
             "anon-caesar-and-pompey"
@@ -1318,7 +1319,7 @@
         ]
     },
     {
-        "location": "Memphis, Greece",
+        "location": "Memphis, Egypt",
         "original_label": "Memphis",
         "coordinates": [
             29.8544582,
@@ -4134,17 +4135,6 @@
         ]
     },
     {
-        "location": "Roma, Roma Capitale, Lazio, Italia",
-        "original_label": "Roma",
-        "coordinates": [
-            41.8933203,
-            12.4829321
-        ],
-        "titles": [
-            "dekker-middleton-the-roaring-girl"
-        ]
-    },
-    {
         "location": "Pimlico, London, Greater London, England, SW1V 4BX, United Kingdom",
         "original_label": "Pimlico",
         "coordinates": [
@@ -4928,17 +4918,6 @@
         ]
     },
     {
-        "location": "Arabia",
-        "original_label": "Araby",
-        "coordinates": [
-            22.03,
-            46.80
-        ],
-        "titles": [
-            "heywood-the-four-prentices-of-london"
-        ]
-    },
-    {
         "location": "Troyes, Aube, Grand Est, France métropolitaine, 10000, France",
         "original_label": "Troyes",
         "coordinates": [
@@ -5115,11 +5094,11 @@
         ]
     },
     {
-        "location": "Westchester",
+        "location": "Cheshire West and Chester",
         "original_label": "Westchester",
         "coordinates": [
-            15.057018854717008,
-            120.69325417668132
+            53.2216,
+            -2.4527
         ],
         "titles": [
             "jonson-the-alchemist",
@@ -5911,7 +5890,7 @@
         ]
     },
     {
-        "original_label": "Rome",
+        "original_label": "Rome/Roma",
         "location": "Rome",
         "coordinates": [
             41.8939,
@@ -5942,6 +5921,7 @@
             "day-the-parliament-of-bees",
             "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
             "dekker-massinger-the-virgin-martyr",
+            "dekker-middleton-the-roaring-girl",
             "dekker-the-honest-whore-2",
             "dekker-the-wonder-of-a-kingdom",
             "drue-the-duchess-of-suffolk",
@@ -7214,11 +7194,11 @@
         ]
     },
     {
-        "location": "Saba, Nederland",
+        "location": "Sheba",
         "original_label": "Saba",
         "coordinates": [
-            17.631999999999998,
-            -63.27327578658874
+            15.4423,
+            45.014
         ],
         "titles": [
             "marlowe-dr-faustus"
