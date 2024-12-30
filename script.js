@@ -29,6 +29,8 @@ fetch('database.json')
             let radius = Math.min(15, location.titles.length * 1.1);
 
             // Determine the color based on the location's type
+            console.log('locationName:', locationName, 'category:', locationTypes[locationName]);
+        
             let category = locationTypes[locationName] || 'unknown';
             let color;
             switch (category) {
