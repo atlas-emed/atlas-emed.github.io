@@ -25,7 +25,7 @@ fetch('database.json')
                 `<a href="https://dracor.org/eng/${encodeURIComponent(title)}#text" target="_blank">${title}</a>`
             ).join(', ');
             let locationName = location.location;
-            let locationName = location.original_label + " (" + location.location + ")";
+            let locationNameFull = location.original_label + " (" + location.location + ")";
             let radius = Math.min(15, location.titles.length * 1.1);
 
             // Determine the color based on the location's type
@@ -58,7 +58,7 @@ fetch('database.json')
             circleMarker.bindPopup(function (layer) {
                 let popupContent = `
                     <div class="popup-content">
-                        <div class="popup-title"><b>${locationName}</b> is mentioned in:</div>
+                        <div class="popup-title"><b>${locationNameFull}</b> is mentioned in:</div>
                         <div class="popup-sidebar">
                             ${titles}
                         </div>
