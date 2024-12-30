@@ -6,16 +6,17 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Fetch location types from the loc-types.txt file
 let locationTypes = {};
+
+// Fetch location types first
 fetch('location-types.txt')
     .then(response => response.text())
     .then(data => {
-        // Parse the Python-style dictionary into JavaScript object
+        // Parse the Python-style dictionary into a JavaScript object
         locationTypes = eval('(' + data + ')');
+        
+        // Once locationTypes is loaded, fetch the locations and plot them
+        return fetch('database.json');
     })
-    .catch(error => console.error('Error loading location types:', error));
-
-// Fetch locations and plot them on the map
-fetch('database.json')
     .then(response => response.json())
     .then(data => {
         data.forEach(location => {
