@@ -3815,7 +3815,7 @@
     },
     {
         "location": "Россия",
-        "original_label": "Russia",
+        "original_label": "Russia/Muscovia",
         "coordinates": [
             64.6863136,
             97.7453061
@@ -3823,7 +3823,9 @@
         "titles": [
             "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
             "davenant-the-cruel-brother",
-            "webster-the-white-devil"
+            "webster-the-white-devil",
+            "marston-the-malcontent",
+            "machin-barkstead-marston-the-insatiate-countess"
         ]
     },
     {
@@ -5360,17 +5362,6 @@
         "titles": [
             "marston-parasitaster",
             "massinger-the-great-duke-of-florence"
-        ]
-    },
-    {
-        "location": "مسقط, عمان",
-        "original_label": "Muscat",
-        "coordinates": [
-            23.5882019,
-            58.3829448
-        ],
-        "titles": [
-            "marston-what-you-will"
         ]
     },
     {
@@ -7172,18 +7163,6 @@
         ]
     },
     {
-        "location": "Russia",
-        "original_label": "Muscouia",
-        "coordinates": [
-            64.6863136,
-            97.7453061
-        ],
-        "titles": [
-            "marston-the-malcontent",
-            "machin-barkstead-marston-the-insatiate-countess"
-        ]
-    },
-    {
         "location": "Sheba",
         "original_label": "Saba",
         "coordinates": [
@@ -7387,8 +7366,8 @@
         "location": "Transylvania",
         "original_label": "Transilvania",
         "coordinates": [
-            55.7032915,
-            13.1937737
+	    45.52673301647909,
+	    25.335684310870562
         ],
         "titles": [
             "shirley-the-impostor"
