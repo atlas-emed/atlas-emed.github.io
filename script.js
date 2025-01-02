@@ -36,7 +36,7 @@ fetch('location-types.txt')
             let color;
             switch (category) {
                 case 'continent':
-                    color = 'green';
+                    color = 'brown';
                     break;
                 case 'country/region':
                     color = 'blue';
@@ -45,7 +45,7 @@ fetch('location-types.txt')
                     color = 'purple';
                     break;
                 case 'natural features':
-                    color = 'brown';
+                    color = 'green';
                     break;
                 default:
                     color = 'red';
