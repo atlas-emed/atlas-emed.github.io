@@ -3407,6 +3407,7 @@
             "dekker-if-it-be-not-good-the-devil-is-in-it",
             "daborne-a-christian-turned-turk",
             "jonson-the-case-is-altered",
+	    "jonson-the-alchemist",
             "heywood-the-four-prentices-of-london",
             "markham-sampson-herod-and-antipater"
         ]
@@ -5077,17 +5078,6 @@
         "coordinates": [
             53.565614,
             -0.5539235
-        ],
-        "titles": [
-            "jonson-the-alchemist"
-        ]
-    },
-    {
-        "location": "Salem",
-        "original_label": "Salem",
-        "coordinates": [
-            44.9391565,
-            -123.033121
         ],
         "titles": [
             "jonson-the-alchemist"
