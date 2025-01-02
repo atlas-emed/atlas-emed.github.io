@@ -5471,8 +5471,8 @@
         "location": "Pharos",
         "original_label": "Pharos",
         "coordinates": [
-            32.9130929,
-            75.563151
+            31.20507446498173,
+	    29.79177099136226
         ],
         "titles": [
             "may-cleopatra-queen-of-egypt"
@@ -5538,8 +5538,8 @@
         "location": "Chyos",
         "original_label": "Chyos",
         "coordinates": [
-            31.815449818134738,
-            77.61259346228496
+            38.37849153193034,
+	    26.037191339584638
         ],
         "titles": [
             "middleton-a-game-at-chess"
