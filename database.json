@@ -3039,19 +3039,6 @@
         ]
     },
     {
-        "location": "Canary Islands, España",
-        "original_label": "Canary",
-        "coordinates": [
-            28.286398900000002,
-            -16.796011808910734
-        ],
-        "titles": [
-            "shirley-the-witty-fair-one",
-            "shirley-the-ball",
-            "brome-the-english-moor"
-        ]
-    },
-    {
         "location": "Barbary",
         "original_label": "Barbary",
         "coordinates": [
@@ -3198,7 +3185,7 @@
     },
     {
         "location": "Polska",
-        "original_label": "Poland",
+        "original_label": "Poland/Polonia",
         "coordinates": [
             52.215933,
             19.134422
@@ -3209,7 +3196,10 @@
             "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
             "suckling-brennoralt",
             "drue-the-duchess-of-suffolk",
-            "webster-the-white-devil"
+            "webster-the-white-devil",
+	    "kyd-soliman-and-perseda",
+            "drue-the-duchess-of-suffolk",
+            "cowley-love-s-riddle"
         ]
     },
     {
@@ -3677,19 +3667,6 @@
         ]
     },
     {
-        "location": "Polska",
-        "original_label": "Polonia",
-        "coordinates": [
-            52.215933,
-            19.134422
-        ],
-        "titles": [
-            "kyd-soliman-and-perseda",
-            "drue-the-duchess-of-suffolk",
-            "cowley-love-s-riddle"
-        ]
-    },
-    {
         "location": "Wittenberg, Sachsen-Anhalt, Deutschland",
         "original_label": "Wittenberg",
         "coordinates": [
@@ -4014,7 +3991,10 @@
             "marlowe-the-jew-of-malta",
             "fletcher-massinger-a-very-woman",
             "fletcher-massinger-the-custom-of-the-country",
-            "peele-the-battle-of-alcazar"
+            "peele-the-battle-of-alcazar",
+	    "anon-jeronimo-with-the-wars-of-portugal-1",
+            "dekker-webster-northward-ho",
+            "kyd-the-spanish-tragedy"
         ]
     },
     {
@@ -4875,18 +4855,6 @@
         ]
     },
     {
-        "location": "Forset, Gausdal, Innlandet, Norge",
-        "original_label": "Forset",
-        "coordinates": [
-            61.2020862,
-            10.1442065
-        ],
-        "titles": [
-            "heywood-the-fair-maid-of-the-west-1",
-            "heywood-the-fair-maid-of-the-west-2"
-        ]
-    },
-    {
         "location": "Somerset, England, United Kingdom",
         "original_label": "Somersetshire",
         "coordinates": [
@@ -5456,11 +5424,11 @@
         ]
     },
     {
-        "location": "Samos, Sarria, Lugo, Galicia, España",
+        "location": "Samos, Greece",
         "original_label": "Samos",
         "coordinates": [
-            42.730661,
-            -7.3265903
+            37.72857157509608, 
+	    26.814418481932027
         ],
         "titles": [
             "nashe-summer-s-last-will-and-testament",
@@ -6367,19 +6335,6 @@
         ],
         "titles": [
             "anon-fair-em"
-        ]
-    },
-    {
-        "location": "Portugal",
-        "original_label": "Portingale",
-        "coordinates": [
-            39.6621648,
-            -8.1353519
-        ],
-        "titles": [
-            "anon-jeronimo-with-the-wars-of-portugal-1",
-            "dekker-webster-northward-ho",
-            "kyd-the-spanish-tragedy"
         ]
     },
     {
