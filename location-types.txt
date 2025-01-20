@@ -205,7 +205,7 @@
     'Patras': 'city',
     'Golgotha': 'natural features',
     'Genoa': 'city',
-    'Russia': 'country/region',
+    'Russia/Muscovia': 'country/region',
     'Toledo': 'city',
     'Tartary': 'country/region',
     'Westphalia': 'country/region',
