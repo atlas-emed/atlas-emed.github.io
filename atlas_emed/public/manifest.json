@@ -1,0 +1,12 @@
+{
+  "short_name": "Drama Map",
+  "name": "Drama Map",
+  "description": "A web application to visualize drama locations.",
+  "icons": [
+
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

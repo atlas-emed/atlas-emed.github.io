@@ -1,0 +1,157 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-main {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: center;
+  height: 85vh;
+}
+
+.column {
+  height: 100%;
+  width: 50%;
+}
+
+.metadata {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  padding-left: 10%;
+}
+
+.titles{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: start;
+  justify-content: start;
+  padding-left: 10%;
+  height: 60vh;
+  overflow-y: auto;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px;
+  min-height: 350px;
+}
+
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+
+.card:hover {
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+#map-container {
+  height: 90vh;
+  width: 100%;
+  /* temporarily set the background color so we can tell where the map container is positioned */
+  background-color: lightgrey;
+}
+
+/* add a mediaquery for the map container */
+@media (max-width: 768px) {
+  #map-container {
+    height: 50vh;
+    width: 100%;
+  }
+}
+
+.Tragedy{
+  background-color: #ffcccc !important;
+}
+.Comedy{
+  background-color: #ccffcc !important;
+}
+.History{
+  background-color: #ccccff !important;
+}
+.Tragicomedy{
+  background-color: #ffffcc !important;
+}
+.Tragedy:hover{
+  background-color: #ff9999;
+}
+.Comedy:hover{
+  background-color: #99ff99;
+}
+.History:hover{
+  background-color: #9999ff;
+}
+.Tragicomedy:hover{
+  background-color: #ffff99;
+}
+
+
+.legend{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  padding-left: 10%;
+}
+
+.legend-item{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  margin-bottom: 5px;
+}
+.legend-color{
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 50px;
+  border: 1px solid #ffffff;
+}
+.legend-label{
+  margin-right: 10px;
+  font-size: 14px;
+}
+.legend-item:hover{
+  cursor: pointer;
+}
+
+.continent{
+  background-color: "#8945ae";
+}
+
+.naturalfeature{
+  background-color: "#f9c74f";
+}
+
+.country{
+  background-color: "#90be6d";
+}
+.city{
+  background-color: "#f3722c";
+} 
