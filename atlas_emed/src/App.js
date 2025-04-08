@@ -267,14 +267,11 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header" style={{ height: "10vh" }}>
-        <Row md={12} lg={12} >
-          <Col xs={12} md={4} lg={4} >
-            <h1>Atlas-EMED</h1>
-          </Col>
-          <Col xs={12} md={8} lg={8} >
-            <p>A Little Atlas of Early Modern English Drama.</p>
-          </Col>
+    <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
+      <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
+      <p style={{ fontSize: "1.2rem", margin: 0 }}>
+        This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the related plays and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms(<span style="color:blue";>cities</span>, <span style="color:brown";>countries and regions</span>, <span style="color:purple";>continents</span>, and <span style="color:green";>natural features</span>) have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br>To be presented at AIUCD Verona 2025.
+      </p>
 
         </Row>
       </header>
