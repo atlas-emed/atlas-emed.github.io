@@ -3,7 +3,7 @@ import "./App.css"
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/esm/Row';
-import Col from 'react-bootstrap/Col';
+
 
 import DraCor from "./data/dracor-hexagon.svg"
 
