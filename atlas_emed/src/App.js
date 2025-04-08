@@ -18,7 +18,7 @@ import DramaCard from './dramaCard';
 
 
 function App() {
-  
+
 
 
   const mapRef = useRef(null);
@@ -270,13 +270,11 @@ function App() {
 
   return (
     <div className="App">
-    <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
-      <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
-      <p style={{ fontSize: "1.2rem", margin: 0 }}>
-        This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the related plays and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms(<span style="color:blue";>cities</span>, <span style="color:brown";>countries and regions</span>, <span style="color:purple";>continents</span>, and <span style="color:green";>natural features</span>) have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br>To be presented at AIUCD Verona 2025.
-      </p>
+      
+      <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
+        <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
 
-        </Row>
+
       </header>
       <Container fluid>
         <Row md={12} lg={12} >
@@ -286,31 +284,31 @@ function App() {
           <Col xs={12} md={5} lg={5} >
             <Row md={12} lg={12} >
               <h2>Legend</h2>
-              <Col xs={12} md={4} lg={4} >
-              <div className="legend">
-                <div className="legend-item">
-                  <span className="legend-color" style={{ backgroundColor: "#007cbf" }}></span>
-                  <span className="legend-label">City</span>
-                  <input type="checkbox" checked={visibleLayers.city} onChange={() => handleLayerToggle('city')} />
+              <Col xs={12} md={12} lg={12} >
+                <div className="legend">
+                  <div className="legend-item">
+                    <span className="legend-color" style={{ backgroundColor: "#007cbf" }}></span>
+                    <span className="legend-label">City</span>
+                    <input type="checkbox" checked={visibleLayers.city} onChange={() => handleLayerToggle('city')} />
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color" style={{ backgroundColor: "#955e00" }}></span>
+                    <span className="legend-label">Country/Region</span>
+                    <input type="checkbox" checked={visibleLayers.country_region} onChange={() => handleLayerToggle('country_region')} />
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color" style={{ backgroundColor: "#30bf00" }}></span>
+                    <span className="legend-label">Natural Feature</span>
+                    <input type="checkbox" checked={visibleLayers.naturalfeatures} onChange={() => handleLayerToggle('naturalfeatures')} />
+                  </div>
+                  <div className="legend-item">
+                    <span className="legend-color" style={{ backgroundColor: "#8945ae" }}></span>
+                    <span className="legend-label">Continent</span>
+                    <input type="checkbox" checked={visibleLayers.continent} onChange={() => handleLayerToggle('continent')} />
+                  </div>
                 </div>
-                <div className="legend-item">
-                  <span className="legend-color" style={{ backgroundColor: "#955e00" }}></span>
-                  <span className="legend-label">Country/Region</span>
-                  <input type="checkbox" checked={visibleLayers.country_region} onChange={() => handleLayerToggle('country_region')} />
-                </div>
-                <div className="legend-item">
-                  <span className="legend-color" style={{ backgroundColor: "#30bf00" }}></span>
-                  <span className="legend-label">Natural Feature</span>
-                  <input type="checkbox" checked={visibleLayers.naturalfeatures} onChange={() => handleLayerToggle('naturalfeatures')} />
-                </div>
-                <div className="legend-item">
-                  <span className="legend-color" style={{ backgroundColor: "#8945ae" }}></span>
-                  <span className="legend-label">Continent</span>
-                  <input type="checkbox" checked={visibleLayers.continent} onChange={() => handleLayerToggle('continent')} />
-                </div>
-              </div>
               </Col>
-             
+
               <hr></hr>
             </Row>
             <Row md={12} lg={12} >
@@ -362,7 +360,17 @@ function App() {
 
                     </>
                   ) : (
-                    <h3>Select a point on the map</h3>
+                    <>
+                      <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
+                        This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the related plays and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms <span style={{ "color": "blue" }}>cities</span>, <span style={{ "color": "brown" }}>countries and regions</span>, <span style={{ "color": "purple" }}>continents</span>, and <span style={{ "color": "green" }}>natural features</span> have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br />To be presented at AIUCD Verona 2025.
+                      </p>
+                      {/* <h3>Select a point on the map</h3> */}
+                      <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
+                        Click on a point on the map to see the related plays.
+                      </p>
+
+                    </>
+
                   )}
                 </>
 
