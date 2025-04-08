@@ -1,5 +1,5 @@
 import { useRef, useEffect, useState } from 'react'
-import mapboxgl, { Marker } from 'mapbox-gl'
+import mapboxgl from 'mapbox-gl'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
@@ -8,7 +8,6 @@ import Button from 'react-bootstrap/Button';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './App.css';
 
-import data from "./data/database.json"
 import city from "./data/city.geojson"
 import country_region from "./data/country_region.geojson"
 import naturalfeatures from "./data/naturalfeatures.geojson"
@@ -107,7 +106,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
         },
 
@@ -128,7 +128,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
         }
       });
@@ -143,7 +144,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
           'circle-color': '#30bf00',
           'circle-stroke-width': 1,
@@ -163,7 +165,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
           'circle-color': '#8945ae',
           'circle-stroke-width': 1,
