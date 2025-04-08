@@ -1,0 +1,3877 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1236723,
+                    26.8234472
+                ]
+            },
+            "properties": {
+                "name": "ليبيا",
+                "type": "country/region",
+                "titles": [
+                    "alexander-caesar",
+                    "marlowe-nashe-dido-queen-of-carthage"
+                ],
+                "original_label": "Libya",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.8379791,
+                    39.3260685
+                ]
+            },
+            "properties": {
+                "name": "España",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-court-secret",
+                    "chapman-the-revenge-of-bussy-d-ambois",
+                    "wilson-the-three-lords-and-three-ladies-of-london",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "shirley-the-opportunity",
+                    "s-thomas-lord-cromwell",
+                    "dekker-haughton-day-lust-s-dominion",
+                    "kirke-the-seven-champions-of-christendom",
+                    "massinger-the-maid-of-honour",
+                    "heywood-a-challenge-for-beauty",
+                    "heywood-rowley-fortune-by-land-and-sea",
+                    "barnes-the-devil-s-charter",
+                    "chapman-the-conspiracy-of-charles-duke-of-byron",
+                    "fletcher-massinger-a-very-woman",
+                    "middleton-anything-for-a-quiet-life",
+                    "dekker-match-me-in-london",
+                    "shirley-the-maid-s-revenge",
+                    "alexander-caesar",
+                    "shirley-the-ball",
+                    "jonson-the-devil-is-an-ass",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "brome-the-northern-lass",
+                    "fletcher-rule-a-wife-and-have-a-wife",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "rowley-all-s-lost-by-lust",
+                    "ford-love-s-sacrifice",
+                    "shirley-the-brothers",
+                    "anon-alphonsus-emperor-of-germany",
+                    "beaumont-fletcher-the-coxcomb",
+                    "brome-the-cunning-lovers",
+                    "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+                    "heywood-the-brazen-age",
+                    "kyd-the-spanish-tragedy",
+                    "ford-the-fancies-chaste-and-noble",
+                    "heywood-the-four-prentices-of-london",
+                    "nabbes-hannibal-and-scipio",
+                    "peele-edward-the-first",
+                    "anon-a-larum-for-london",
+                    "glapthorne-the-ladies-privilege",
+                    "may-cleopatra-queen-of-egypt",
+                    "glapthorne-revenge-for-honor",
+                    "beaumont-fletcher-love-s-pilgrimage",
+                    "webster-the-devil-s-law-case",
+                    "rowley-when-you-see-me-you-know-me",
+                    "jonson-catiline-his-conspiracy",
+                    "munday-chettle-the-death-of-robert-earl-of-huntingdon",
+                    "anon-jeronimo-with-the-wars-of-portugal-1",
+                    "heywood-the-wise-woman-of-hogsdon",
+                    "peele-the-battle-of-alcazar",
+                    "fletcher-the-chances"
+                ],
+                "original_label": "Spain",
+                "count": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.5643516,
+                    32.6475314
+                ]
+            },
+            "properties": {
+                "name": "ایران",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-antipodes",
+                    "randolph-aristippus-or-the-jovial-philosopher",
+                    "chettle-hoffman",
+                    "alexander-croesus",
+                    "anon-the-wars-of-cyrus",
+                    "cartwright-the-royal-slave",
+                    "daniel-philotas",
+                    "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+                    "denham-the-sophy",
+                    "fletcher-massinger-the-prophetess",
+                    "kirke-the-seven-champions-of-christendom",
+                    "kyd-soliman-and-perseda",
+                    "lyly-campaspe",
+                    "cowley-love-s-riddle",
+                    "lower-the-phoenix-in-her-flames",
+                    "alexander-the-alexandraean-tragedy",
+                    "massinger-the-city-madam"
+                ],
+                "original_label": "Persia",
+                "count": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9877132,
+                    38.9953683
+                ]
+            },
+            "properties": {
+                "name": "Ελλάς",
+                "type": "country/region",
+                "titles": [
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "alexander-croesus",
+                    "armin-the-two-maids-of-more-clacke",
+                    "middleton-rowley-the-world-tossed-at-tennis",
+                    "berkeley-the-lost-lady",
+                    "heywood-the-english-traveller",
+                    "heywood-a-challenge-for-beauty",
+                    "barnes-the-devil-s-charter",
+                    "middleton-rowley-heywood-the-old-law",
+                    "heywood-the-iron-age-2",
+                    "fletcher-valentinian",
+                    "stephens-cynthia-s-revenge",
+                    "dekker-massinger-the-virgin-martyr",
+                    "marston-jack-drum-s-entertainment",
+                    "fisher-fuimus-troes",
+                    "fletcher-massinger-the-elder-brother",
+                    "jonson-the-devil-is-an-ass",
+                    "massinger-the-bondman",
+                    "knevet-rhodon-and-iris",
+                    "milton-comus",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "goffe-orestes",
+                    "jonson-epicoene-or-the-silent-woman-A04645",
+                    "alexander-darius",
+                    "heywood-the-iron-age-1",
+                    "freeman-imperiale",
+                    "chapman-bussy-d-ambois",
+                    "daniel-philotas",
+                    "anon-nero",
+                    "heywood-the-brazen-age",
+                    "kyd-the-spanish-tragedy",
+                    "markham-sampson-herod-and-antipater",
+                    "marlowe-nashe-dido-queen-of-carthage",
+                    "shirley-the-royal-master",
+                    "shirley-the-school-of-compliment",
+                    "brome-the-weeding-of-the-covent-garden",
+                    "middleton-rowley-the-changeling",
+                    "heywood-the-fair-maid-of-the-west-2",
+                    "may-cleopatra-queen-of-egypt",
+                    "heywood-the-rape-of-lucrece",
+                    "greene-orlando-furioso",
+                    "belchier-hans-beer-pot",
+                    "cartwright-the-royal-slave",
+                    "heywood-the-golden-age",
+                    "marlowe-dr-faustus",
+                    "middleton-the-puritan",
+                    "wilmot-hatton-noel-al-stafford-tancred-and-gismund",
+                    "anon-caesar-and-pompey",
+                    "daniel-the-vision-of-the-twelve-goddesses",
+                    "field-fletcher-massinger-the-queen-of-corinth",
+                    "tomkis-lingua",
+                    "fletcher-massinger-the-prophetess",
+                    "brome-the-lovesick-court",
+                    "lyly-endymion",
+                    "alexander-the-alexandraean-tragedy",
+                    "marmion-holland-s-leaguer"
+                ],
+                "original_label": "Greece",
+                "count": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7453,
+                    41.6086
+                ]
+            },
+            "properties": {
+                "name": "Macedonia",
+                "type": "country/region",
+                "titles": [
+                    "alexander-darius",
+                    "dekker-massinger-the-virgin-martyr",
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "anon-caesar-and-pompey",
+                    "shirley-the-arcadia",
+                    "alexander-the-alexandraean-tragedy",
+                    "peele-clyomon-and-clamydes"
+                ],
+                "original_label": "Macedonia",
+                "count": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.7961015,
+                    38.5713434
+                ]
+            },
+            "properties": {
+                "name": "Bactriana",
+                "type": "country/region",
+                "titles": [
+                    "alexander-darius"
+                ],
+                "original_label": "Bactria",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.477089111818884,
+                    22.3742506
+                ]
+            },
+            "properties": {
+                "name": "جزيرة العرب, السعودية",
+                "type": "country/region",
+                "titles": [
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "cary-mariam-the-fair-queen-of-jewry",
+                    "heywood-a-challenge-for-beauty",
+                    "shirley-the-maid-s-revenge",
+                    "lyly-gallathea",
+                    "nashe-summer-s-last-will-and-testament",
+                    "greene-alphonsus-king-of-aragon",
+                    "daborne-a-christian-turned-turk",
+                    "greene-selimus-1",
+                    "markham-sampson-herod-and-antipater",
+                    "marlowe-the-jew-of-malta",
+                    "glapthorne-revenge-for-honor",
+                    "tomkis-albumazar",
+                    "anon-caesar-and-pompey",
+                    "shirley-the-duke-s-mistress",
+                    "tomkis-lingua",
+                    "cowley-love-s-riddle",
+                    "lyly-endymion",
+                    "lower-the-phoenix-in-her-flames",
+                    "alexander-the-alexandraean-tragedy",
+                    "heywood-the-four-prentices-of-london"
+                ],
+                "original_label": "Arabia",
+                "count": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.73893,
+                    52.2928116
+                ]
+            },
+            "properties": {
+                "name": "Cymru / Wales, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "middleton-the-mayor-of-quinborough",
+                    "heywood-the-royal-king-and-the-loyal-subject",
+                    "anon-the-reign-of-king-edward-the-third",
+                    "kirke-the-seven-champions-of-christendom",
+                    "harding-sicily-and-naples",
+                    "fletcher-shirley-the-night-walker",
+                    "anon-the-true-tragedy-of-richard-the-third",
+                    "fletcher-the-wild-goose-chase",
+                    "rowley-a-match-at-midnight",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "anon-the-london-prodigal",
+                    "anon-alphonsus-emperor-of-germany",
+                    "anon-a-knack-to-know-a-knave",
+                    "middleton-rowley-wit-at-several-weapons",
+                    "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
+                    "shirley-the-school-of-compliment",
+                    "heywood-the-four-prentices-of-london",
+                    "peele-edward-the-first",
+                    "rowley-a-shoemaker-a-gentleman",
+                    "dekker-webster-northward-ho",
+                    "rowley-when-you-see-me-you-know-me",
+                    "dekker-chettle-haughton-patient-grissel",
+                    "rowley-the-birth-of-merlin",
+                    "middleton-a-chaste-maid-in-cheapside",
+                    "massinger-the-city-madam"
+                ],
+                "original_label": "Wales",
+                "count": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2649062,
+                    52.5310214
+                ]
+            },
+            "properties": {
+                "name": "England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-reign-of-king-edward-the-third",
+                    "drue-the-duchess-of-suffolk",
+                    "hawkins-apollo-shroving",
+                    "massinger-the-guardian",
+                    "porter-the-two-angry-women-of-abingdon",
+                    "dekker-middleton-the-roaring-girl",
+                    "brome-the-english-moor",
+                    "anon-alphonsus-emperor-of-germany",
+                    "anon-a-knack-to-know-a-knave",
+                    "brome-the-new-academy",
+                    "kyd-the-spanish-tragedy",
+                    "marlowe-the-massacre-at-paris",
+                    "anon-fair-em",
+                    "middleton-rowley-wit-at-several-weapons",
+                    "brome-the-weeding-of-the-covent-garden",
+                    "heywood-the-four-prentices-of-london",
+                    "smith-smith-the-hector-of-germany",
+                    "webster-the-devil-s-law-case",
+                    "heywood-a-woman-killed-with-kindness",
+                    "chapman-jonson-marston-eastward-ho",
+                    "fletcher-the-chances",
+                    "marmion-holland-s-leaguer",
+                    "dekker-the-shoemaker-s-holiday",
+                    "heywood-the-royal-king-and-the-loyal-subject",
+                    "s-the-honest-lawyer",
+                    "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+                    "ford-perkin-warbeck",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "w-the-valiant-scot",
+                    "anon-the-london-prodigal",
+                    "beaumont-the-knight-of-the-burning-pestle",
+                    "brome-the-cunning-lovers",
+                    "shirley-hyde-park",
+                    "heywood-brome-the-late-lancashire-witches",
+                    "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
+                    "greene-the-scottish-history-of-james-the-fourth",
+                    "anon-a-larum-for-london",
+                    "greene-george-a-green-the-pinner-of-wakefield",
+                    "rowley-when-you-see-me-you-know-me",
+                    "tomkis-lingua",
+                    "massinger-the-renegado",
+                    "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
+                    "heywood-the-fair-maid-of-the-west-1",
+                    "anon-the-merry-devil-of-edmonton",
+                    "brome-the-damoiselle-or-the-new-ordinary",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "anon-the-trial-of-chivalry",
+                    "dekker-satiromastix",
+                    "heywood-a-challenge-for-beauty",
+                    "heywood-rowley-fortune-by-land-and-sea",
+                    "middleton-anything-for-a-quiet-life",
+                    "anon-the-true-tragedy-of-richard-the-third",
+                    "shirley-the-ball",
+                    "fletcher-the-wild-goose-chase",
+                    "rowley-a-match-at-midnight",
+                    "shirley-the-sisters",
+                    "shirley-the-wedding",
+                    "randolph-aristippus-or-the-jovial-philosopher",
+                    "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+                    "jonson-the-new-inn",
+                    "field-amends-for-ladies",
+                    "dekker-ford-the-sun-s-darling",
+                    "peele-edward-the-first",
+                    "heywood-the-fair-maid-of-the-west-2",
+                    "peele-the-old-wives-tale",
+                    "brome-the-antipodes",
+                    "wilson-the-three-ladies-of-london",
+                    "marston-histriomastix",
+                    "munday-chettle-the-death-of-robert-earl-of-huntingdon",
+                    "massinger-the-city-madam",
+                    "wilson-the-three-lords-and-three-ladies-of-london",
+                    "chapman-two-wise-men-and-all-the-rest-fools",
+                    "dekker-the-honest-whore-2",
+                    "s-thomas-lord-cromwell",
+                    "kyd-soliman-and-perseda",
+                    "kirke-the-seven-champions-of-christendom",
+                    "chapman-the-conspiracy-of-charles-duke-of-byron",
+                    "fletcher-beaumont-the-noble-gentleman",
+                    "sampson-the-vow-breaker",
+                    "jonson-the-devil-is-an-ass",
+                    "fletcher-rule-a-wife-and-have-a-wife",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "middleton-a-game-at-chess",
+                    "anon-canterbury-his-change-of-diet",
+                    "haughton-englishmen-for-my-money",
+                    "anon-nobody-and-somebody",
+                    "belchier-hans-beer-pot",
+                    "dekker-webster-northward-ho",
+                    "middleton-the-puritan",
+                    "webster-the-white-devil",
+                    "peele-the-battle-of-alcazar",
+                    "fletcher-massinger-the-bloody-brother-rollo-duke-of-normandy"
+                ],
+                "original_label": "England",
+                "count": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.178629103169916,
+                    51.096246199999996
+                ]
+            },
+            "properties": {
+                "name": "Vlaanderen, België / Belgique / Belgien",
+                "type": "country/region",
+                "titles": [
+                    "massinger-the-picture",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "anon-a-knack-to-know-a-knave",
+                    "beaumont-fletcher-the-scornful-lady",
+                    "s-the-honest-lawyer",
+                    "anon-the-reign-of-king-edward-the-third",
+                    "ford-love-s-sacrifice",
+                    "rawlins-the-rebellion",
+                    "anon-the-trial-of-chivalry",
+                    "heywood-rowley-fortune-by-land-and-sea",
+                    "fletcher-rule-a-wife-and-have-a-wife",
+                    "chapman-the-conspiracy-of-charles-duke-of-byron",
+                    "beaumont-fletcher-massinger-beggars-bush",
+                    "anon-a-larum-for-london",
+                    "anon-the-true-tragedy-of-richard-the-third"
+                ],
+                "original_label": "Flanders",
+                "count": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1140518,
+                    56.7861112
+                ]
+            },
+            "properties": {
+                "name": "Alba / Scotland, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "marston-jack-drum-s-entertainment",
+                    "middleton-anything-for-a-quiet-life",
+                    "greene-george-a-green-the-pinner-of-wakefield",
+                    "sampson-the-vow-breaker",
+                    "anon-a-knack-to-know-a-knave",
+                    "cavendish-the-variety",
+                    "jonson-bartholomew-fair",
+                    "kyd-soliman-and-perseda",
+                    "kirke-the-seven-champions-of-christendom",
+                    "anon-the-reign-of-king-edward-the-third",
+                    "w-the-valiant-scot",
+                    "shirley-saint-patrick-for-ireland-1",
+                    "ford-perkin-warbeck",
+                    "greene-the-scottish-history-of-james-the-fourth",
+                    "heywood-the-four-prentices-of-london",
+                    "peele-edward-the-first",
+                    "shirley-the-impostor",
+                    "anon-the-true-tragedy-of-richard-the-third"
+                ],
+                "original_label": "Scotland",
+                "count": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8883335,
+                    46.603354
+                ]
+            },
+            "properties": {
+                "name": "France",
+                "type": "country/region",
+                "titles": [
+                    "anon-a-knack-to-know-a-knave",
+                    "anon-caesar-and-pompey",
+                    "anon-nero",
+                    "anon-the-reign-of-king-edward-the-third",
+                    "anon-the-trial-of-chivalry",
+                    "anon-the-true-chronicle-of-king-leir",
+                    "anon-the-true-tragedy-of-richard-the-third",
+                    "armin-the-two-maids-of-more-clacke",
+                    "barnes-the-devil-s-charter",
+                    "beaumont-fletcher-massinger-thierry-and-theodoret",
+                    "beaumont-fletcher-the-coxcomb",
+                    "belchier-hans-beer-pot",
+                    "brathwait-mercurius-britannicus",
+                    "brome-the-antipodes",
+                    "brome-the-cunning-lovers",
+                    "brome-the-damoiselle-or-the-new-ordinary",
+                    "brome-the-english-moor",
+                    "brome-the-new-academy",
+                    "brome-the-northern-lass",
+                    "brome-the-sparagus-garden",
+                    "brome-the-weeding-of-the-covent-garden",
+                    "cavendish-the-variety",
+                    "chapman-all-fools",
+                    "chapman-an-humorous-day-s-mirth",
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "chapman-jonson-marston-eastward-ho",
+                    "chapman-monsieur-d-olive",
+                    "chapman-the-conspiracy-of-charles-duke-of-byron",
+                    "chapman-the-revenge-of-bussy-d-ambois",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "daborne-a-christian-turned-turk",
+                    "davenant-albovine-king-of-the-lombards",
+                    "davenport-a-new-trick-to-cheat-the-devil",
+                    "dekker-blurt-master-constable",
+                    "dekker-ford-the-sun-s-darling",
+                    "dekker-haughton-day-lust-s-dominion",
+                    "dekker-middleton-the-roaring-girl",
+                    "dekker-the-honest-whore-2",
+                    "dekker-the-shoemaker-s-holiday",
+                    "dekker-the-wonder-of-a-kingdom",
+                    "dekker-webster-northward-ho",
+                    "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
+                    "dekker-webster-westward-ho",
+                    "field-amends-for-ladies",
+                    "field-massinger-fletcher-the-honest-man-s-fortune",
+                    "fletcher-beaumont-the-noble-gentleman",
+                    "fletcher-massinger-a-very-woman",
+                    "fletcher-massinger-the-elder-brother",
+                    "fletcher-massinger-the-prophetess",
+                    "fletcher-massinger-the-sea-voyage",
+                    "fletcher-the-woman-s-prize",
+                    "ford-love-s-sacrifice",
+                    "ford-the-fancies-chaste-and-noble",
+                    "glapthorne-the-ladies-privilege",
+                    "greene-orlando-furioso",
+                    "greene-the-scottish-history-of-james-the-fourth",
+                    "harding-sicily-and-naples",
+                    "haughton-englishmen-for-my-money",
+                    "hawkins-apollo-shroving",
+                    "heywood-a-challenge-for-beauty",
+                    "heywood-a-woman-killed-with-kindness",
+                    "heywood-brome-the-late-lancashire-witches",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "heywood-rowley-fortune-by-land-and-sea",
+                    "heywood-the-english-traveller",
+                    "heywood-the-four-prentices-of-london",
+                    "heywood-the-wise-woman-of-hogsdon",
+                    "jonson-the-case-is-altered",
+                    "jonson-the-devil-is-an-ass",
+                    "jonson-volpone",
+                    "killigrew-the-parson-s-wedding",
+                    "kyd-soliman-and-perseda",
+                    "marlowe-the-jew-of-malta",
+                    "marlowe-the-massacre-at-paris",
+                    "massinger-the-guardian",
+                    "massinger-the-maid-of-honour",
+                    "massinger-the-unnatural-combat",
+                    "may-cleopatra-queen-of-egypt",
+                    "middleton-a-game-at-chess",
+                    "munday-chettle-the-death-of-robert-earl-of-huntingdon",
+                    "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
+                    "peele-edward-the-first",
+                    "porter-the-two-angry-women-of-abingdon",
+                    "rawlins-the-rebellion",
+                    "rowley-a-shoemaker-a-gentleman",
+                    "rowley-the-birth-of-merlin",
+                    "rowley-when-you-see-me-you-know-me",
+                    "s-thomas-lord-cromwell",
+                    "sampson-the-vow-breaker",
+                    "shirley-love-s-cruelty",
+                    "shirley-the-ball",
+                    "shirley-the-humorous-courtier",
+                    "shirley-the-sisters",
+                    "shirley-the-witty-fair-one",
+                    "smith-smith-the-hector-of-germany",
+                    "tourneur-the-atheist-s-tragedy",
+                    "w-the-valiant-scot",
+                    "webster-the-devil-s-law-case",
+                    "webster-the-duchess-of-malfi"
+                ],
+                "original_label": "France/Fraunce",
+                "count": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6677428,
+                    22.3511148
+                ]
+            },
+            "properties": {
+                "name": "India",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-antipodes",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "fletcher-field-four-plays",
+                    "greene-orlando-furioso",
+                    "marston-histriomastix",
+                    "marlowe-dr-faustus",
+                    "marlowe-nashe-dido-queen-of-carthage",
+                    "kirke-the-seven-champions-of-christendom",
+                    "heywood-a-challenge-for-beauty",
+                    "anon-caesar-and-pompey",
+                    "tomkis-lingua",
+                    "daniel-the-queen-s-arcadia",
+                    "middleton-anything-for-a-quiet-life",
+                    "anon-a-larum-for-london"
+                ],
+                "original_label": "India",
+                "count": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4441391,
+                    51.6017723
+                ]
+            },
+            "properties": {
+                "name": "Noord-Brabant, Nederland",
+                "type": "country/region",
+                "titles": [
+                    "marston-jack-drum-s-entertainment",
+                    "chapman-the-revenge-of-bussy-d-ambois",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "sharpham-cupid-s-whirligig",
+                    "jonson-the-new-inn",
+                    "rowley-when-you-see-me-you-know-me",
+                    "gascoigne-the-glass-of-government",
+                    "anon-a-larum-for-london"
+                ],
+                "original_label": "Brabant",
+                "count": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4585052,
+                    50.9295798
+                ]
+            },
+            "properties": {
+                "name": "Sachsen, Deutschland",
+                "type": "country/region",
+                "titles": [
+                    "chettle-hoffman",
+                    "rowley-the-birth-of-merlin",
+                    "cumber-the-two-merry-milkmaids",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "smith-smith-the-hector-of-germany",
+                    "anon-alphonsus-emperor-of-germany"
+                ],
+                "original_label": "Saxony",
+                "count": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.62465658489158,
+                    50.443348900000004
+                ]
+            },
+            "properties": {
+                "name": "Cornwall, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "anon-alphonsus-emperor-of-germany",
+                    "anon-the-true-chronicle-of-king-leir",
+                    "brome-the-antipodes",
+                    "brome-the-court-beggar",
+                    "brome-the-northern-lass",
+                    "ford-perkin-warbeck",
+                    "haughton-englishmen-for-my-money",
+                    "heywood-the-fair-maid-of-the-west-1",
+                    "hughes-the-misfortunes-of-arthur",
+                    "s-locrine"
+                ],
+                "original_label": "Cornwall/Corn-Wale",
+                "count": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2461296,
+                    52.8455492
+                ]
+            },
+            "properties": {
+                "name": "Brandenburg, Deutschland",
+                "type": "country/region",
+                "titles": [
+                    "anon-alphonsus-emperor-of-germany"
+                ],
+                "original_label": "Brandenburg",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4478313,
+                    51.1638175
+                ]
+            },
+            "properties": {
+                "name": "Deutschland",
+                "type": "country/region",
+                "titles": [
+                    "middleton-the-mayor-of-quinborough",
+                    "chettle-hoffman",
+                    "dekker-rowley-ford-the-witch-of-edmonton",
+                    "davenport-a-new-trick-to-cheat-the-devil",
+                    "kyd-soliman-and-perseda",
+                    "massinger-the-maid-of-honour",
+                    "s-thomas-lord-cromwell",
+                    "barnes-the-devil-s-charter",
+                    "fisher-fuimus-troes",
+                    "brome-the-northern-lass",
+                    "fletcher-the-wild-goose-chase",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "middleton-a-game-at-chess",
+                    "brome-the-sparagus-garden",
+                    "anon-alphonsus-emperor-of-germany",
+                    "beaumont-fletcher-the-coxcomb",
+                    "anon-nero",
+                    "jonson-sejanus-his-fall",
+                    "marlowe-the-massacre-at-paris",
+                    "marlowe-the-jew-of-malta",
+                    "smith-smith-the-hector-of-germany",
+                    "rowley-a-shoemaker-a-gentleman",
+                    "may-cleopatra-queen-of-egypt",
+                    "tomkis-albumazar",
+                    "marlowe-dr-faustus",
+                    "rowley-when-you-see-me-you-know-me",
+                    "dekker-chettle-haughton-patient-grissel",
+                    "heywood-a-woman-killed-with-kindness",
+                    "cumber-the-two-merry-milkmaids",
+                    "rowley-the-birth-of-merlin",
+                    "webster-the-duchess-of-malfi"
+                ],
+                "original_label": "Germany",
+                "count": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8883335,
+                    46.603354
+                ]
+            },
+            "properties": {
+                "name": "France",
+                "type": "country/region",
+                "titles": [
+                    "jonson-sejanus-his-fall",
+                    "kyd-soliman-and-perseda",
+                    "jonson-catiline-his-conspiracy",
+                    "anon-the-true-chronicle-of-king-leir",
+                    "rowley-a-shoemaker-a-gentleman",
+                    "anon-alphonsus-emperor-of-germany"
+                ],
+                "original_label": "Gallia",
+                "count": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6343227,
+                    52.2434979
+                ]
+            },
+            "properties": {
+                "name": "Nederland",
+                "type": "country/region",
+                "titles": [
+                    "dekker-the-honest-whore-2",
+                    "s-thomas-lord-cromwell",
+                    "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+                    "middleton-anything-for-a-quiet-life",
+                    "jonson-the-alchemist",
+                    "sharpham-cupid-s-whirligig",
+                    "brome-the-northern-lass",
+                    "middleton-a-game-at-chess",
+                    "randolph-aristippus-or-the-jovial-philosopher",
+                    "d-the-knave-in-grain-new-vamped",
+                    "brome-the-new-academy",
+                    "dekker-middleton-the-honest-whore-1",
+                    "shirley-the-school-of-compliment",
+                    "beaumont-fletcher-love-s-pilgrimage",
+                    "tomkis-albumazar",
+                    "cavendish-the-variety",
+                    "dekker-webster-northward-ho",
+                    "anon-band-cuff-and-ruff",
+                    "shirley-the-impostor",
+                    "wilson-the-three-lords-and-three-ladies-of-london",
+                    "marmion-holland-s-leaguer"
+                ],
+                "original_label": "Holland",
+                "count": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9181532111487878,
+                    54.3151594
+                ]
+            },
+            "properties": {
+                "name": "Great Britain, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "kyd-the-spanish-tragedy",
+                    "heywood-a-challenge-for-beauty",
+                    "anon-caesar-and-pompey",
+                    "s-locrine",
+                    "anon-the-true-chronicle-of-king-leir",
+                    "heywood-the-four-prentices-of-london",
+                    "peele-the-old-wives-tale"
+                ],
+                "original_label": "Albion",
+                "count": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.42317811509885,
+                    34.8147886
+                ]
+            },
+            "properties": {
+                "name": "سورية, سوريا",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-antipodes",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "ford-the-lover-s-melancholy",
+                    "anon-caesar-and-pompey",
+                    "daniel-cleopatra"
+                ],
+                "original_label": "Syria",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.163444947273042,
+                    39.575592900000004
+                ]
+            },
+            "properties": {
+                "name": "Περιφέρεια Θεσσαλίας, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος, Ελλάς",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-antipodes",
+                    "marmion-a-fine-companion",
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "heywood-the-brazen-age",
+                    "mason-the-turk",
+                    "knevet-rhodon-and-iris",
+                    "anon-caesar-and-pompey",
+                    "day-the-parliament-of-bees",
+                    "shirley-the-arcadia",
+                    "brome-the-lovesick-court",
+                    "peele-the-old-wives-tale",
+                    "marlowe-nashe-dido-queen-of-carthage"
+                ],
+                "original_label": "Thessaly/Aeolia",
+                "count": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.58508519210361,
+                    50.79674520884046
+                ]
+            },
+            "properties": {
+                "name": "Scythia",
+                "type": "country/region",
+                "titles": [
+                    "anon-caesar-and-pompey"
+                ],
+                "original_label": "Scythia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3333283,
+                    55.670249
+                ]
+            },
+            "properties": {
+                "name": "Danmark",
+                "type": "country/region",
+                "titles": [
+                    "nashe-summer-s-last-will-and-testament",
+                    "rowley-when-you-see-me-you-know-me",
+                    "peele-clyomon-and-clamydes",
+                    "anon-fair-em"
+                ],
+                "original_label": "Denmark",
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3763353,
+                    39.4697065
+                ]
+            },
+            "properties": {
+                "name": "València, Comarca de València, València / Valencia, Comunitat Valenciana, España",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-doubtful-heir",
+                    "anon-mucedorus-and-amadine",
+                    "middleton-rowley-the-changeling",
+                    "brome-the-cunning-lovers"
+                ],
+                "original_label": "Valentia",
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.84388554962737,
+                    9.599316574118777
+                ]
+            },
+            "properties": {
+                "name": "Ethiopia",
+                "type": "country/region",
+                "titles": [
+                    "anon-nero"
+                ],
+                "original_label": "Ethiope",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3852499932684972,
+                    53.9825271
+                ]
+            },
+            "properties": {
+                "name": "Yorkshire, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "wilkins-the-miseries-of-enforced-marriage",
+                    "anon-nobody-and-somebody"
+                ],
+                "original_label": "Yorkshire",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9202408,
+                    48.2640845
+                ]
+            },
+            "properties": {
+                "name": "Bretagne, France métropolitaine, France",
+                "type": "country/region",
+                "titles": [
+                    "rowley-a-shoemaker-a-gentleman",
+                    "anon-nobody-and-somebody"
+                ],
+                "original_label": "Brittany",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7210361813401444,
+                    51.20707485
+                ]
+            },
+            "properties": {
+                "name": "Kent, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
+                    "chapman-two-wise-men-and-all-the-rest-fools",
+                    "middleton-the-mayor-of-quinborough",
+                    "fisher-fuimus-troes",
+                    "anon-the-london-prodigal",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "kyd-the-spanish-tragedy",
+                    "hughes-the-misfortunes-of-arthur",
+                    "s-locrine",
+                    "chapman-jonson-marston-eastward-ho",
+                    "ford-perkin-warbeck",
+                    "middleton-michaelmas-term",
+                    "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
+                    "daborne-a-christian-turned-turk",
+                    "rowley-a-shoemaker-a-gentleman",
+                    "wilson-the-three-lords-and-three-ladies-of-london",
+                    "munday-chettle-the-death-of-robert-earl-of-huntingdon"
+                ],
+                "original_label": "Kent",
+                "count": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0,
+                    52.666667
+                ]
+            },
+            "properties": {
+                "name": "Norfolk, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-merry-devil-of-edmonton",
+                    "barry-ram-alley",
+                    "brome-the-english-moor",
+                    "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
+                    "dekker-webster-westward-ho",
+                    "jonson-the-devil-is-an-ass",
+                    "middleton-the-mayor-of-quinborough",
+                    "rowley-the-birth-of-merlin",
+                    "s-thomas-lord-cromwell"
+                ],
+                "original_label": "Norfolk/Norffolke",
+                "count": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.46466977412300386,
+                    51.77046785
+                ]
+            },
+            "properties": {
+                "name": "Essex, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "jonson-the-alchemist",
+                    "anon-the-merry-devil-of-edmonton",
+                    "dekker-the-shoemaker-s-holiday",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "belchier-hans-beer-pot",
+                    "jonson-the-characters-of-two-royal-masques",
+                    "chapman-jonson-marston-eastward-ho",
+                    "drue-the-duchess-of-suffolk",
+                    "middleton-michaelmas-term",
+                    "killigrew-the-parson-s-wedding"
+                ],
+                "original_label": "Essex",
+                "count": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6343227,
+                    52.2434979
+                ]
+            },
+            "properties": {
+                "name": "Nederlands",
+                "type": "country/region",
+                "titles": [
+                    "belchier-hans-beer-pot",
+                    "anon-the-reign-of-king-edward-the-third",
+                    "glapthorne-the-hollander",
+                    "middleton-a-game-at-chess",
+                    "brome-the-sparagus-garden",
+                    "anon-alphonsus-emperor-of-germany"
+                ],
+                "original_label": "Netherlands/Dutch-Land",
+                "count": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3138532,
+                    49.0677708
+                ]
+            },
+            "properties": {
+                "name": "Normandie, France métropolitaine, France",
+                "type": "country/region",
+                "titles": [
+                    "marston-parasitaster",
+                    "dekker-the-shoemaker-s-holiday",
+                    "kirke-the-seven-champions-of-christendom",
+                    "anon-the-reign-of-king-edward-the-third",
+                    "rowley-when-you-see-me-you-know-me",
+                    "heywood-the-four-prentices-of-london",
+                    "daborne-a-christian-turned-turk",
+                    "fletcher-massinger-the-bloody-brother-rollo-duke-of-normandy"
+                ],
+                "original_label": "Normandy",
+                "count": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.73893,
+                    52.2928116
+                ]
+            },
+            "properties": {
+                "name": "Wales",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-true-chronicle-of-king-leir",
+                    "dekker-chettle-haughton-patient-grissel",
+                    "middleton-the-widow",
+                    "peele-edward-the-first"
+                ],
+                "original_label": "Cambria/Cambrick",
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9181532111487878,
+                    54.3151594
+                ]
+            },
+            "properties": {
+                "name": "Great Britain, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-true-tragedy-of-richard-the-third",
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "fletcher-massinger-the-prophetess",
+                    "hughes-the-misfortunes-of-arthur",
+                    "jonson-the-characters-of-two-royal-masques",
+                    "marlowe-the-jew-of-malta",
+                    "massinger-the-city-madam",
+                    "rowley-a-shoemaker-a-gentleman",
+                    "rowley-the-birth-of-merlin"
+                ],
+                "original_label": "Britain/BRITANIA",
+                "count": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.000559,
+                    55.25
+                ]
+            },
+            "properties": {
+                "name": "Northumberland, North East, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-true-tragedy-of-richard-the-third",
+                    "brome-the-queen-s-exchange",
+                    "dekker-webster-the-famous-history-of-sir-thomas-wyatt",
+                    "jonson-the-devil-is-an-ass",
+                    "rowley-the-birth-of-merlin",
+                    "w-the-valiant-scot"
+                ],
+                "original_label": "Northumberland/Northumbria",
+                "count": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.471770086071205,
+                    53.2141028
+                ]
+            },
+            "properties": {
+                "name": "Cheshire, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-true-tragedy-of-richard-the-third"
+                ],
+                "original_label": "Cheshire",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5650944730209586,
+                    53.861171150000004
+                ]
+            },
+            "properties": {
+                "name": "Lancashire, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "jonson-the-new-inn",
+                    "kirke-the-seven-champions-of-christendom",
+                    "wilkins-the-miseries-of-enforced-marriage",
+                    "heywood-brome-the-late-lancashire-witches",
+                    "munday-drayton-wilson-hathaway-sir-john-oldcastle-1",
+                    "dekker-webster-westward-ho",
+                    "anon-the-true-tragedy-of-richard-the-third"
+                ],
+                "original_label": "Lancashire",
+                "count": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.36173312178764,
+                    33.3316042
+                ]
+            },
+            "properties": {
+                "name": "Assyria",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-wars-of-cyrus"
+                ],
+                "original_label": "Assyria",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.292879121335639,
+                    49.92034085
+                ]
+            },
+            "properties": {
+                "name": "Isles of Scilly, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "armin-the-two-maids-of-more-clacke"
+                ],
+                "original_label": "Scilly",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2319736,
+                    46.7985624
+                ]
+            },
+            "properties": {
+                "name": "Schweiz/Suisse/Svizzera/Svizra",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter",
+                    "cavendish-the-variety",
+                    "chapman-the-tragedy-of-charles-duke-of-byron"
+                ],
+                "original_label": "Swisserland/Switzerland",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4476911,
+                    35.8885993
+                ]
+            },
+            "properties": {
+                "name": "Malta",
+                "type": "country/region",
+                "titles": [
+                    "webster-the-devil-s-law-case",
+                    "massinger-the-maid-of-honour",
+                    "marlowe-the-jew-of-malta",
+                    "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+                    "barnes-the-devil-s-charter",
+                    "massinger-the-renegado",
+                    "fletcher-massinger-a-very-woman",
+                    "smith-smith-the-hector-of-germany",
+                    "webster-the-white-devil"
+                ],
+                "original_label": "Malta",
+                "count": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9249653,
+                    38.9597594
+                ]
+            },
+            "properties": {
+                "name": "Türkiye",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter",
+                    "beaumont-fletcher-the-coxcomb",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "day-law-tricks",
+                    "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+                    "fletcher-massinger-a-very-woman",
+                    "greene-selimus-1",
+                    "heywood-the-four-prentices-of-london",
+                    "kyd-soliman-and-perseda",
+                    "marlowe-the-jew-of-malta",
+                    "mason-the-turk",
+                    "massinger-the-picture",
+                    "peele-the-battle-of-alcazar",
+                    "shirley-the-ball",
+                    "shirley-the-humorous-courtier",
+                    "wilson-the-three-ladies-of-london",
+                    "greville-mustapha",
+                    "munday-chettle-the-death-of-robert-earl-of-huntingdon"
+                ],
+                "original_label": "Turkey/Turk/Anatolia",
+                "count": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5249864,
+                    39.0565974
+                ]
+            },
+            "properties": {
+                "name": "Calabria, Italia",
+                "type": "country/region",
+                "titles": [
+                    "dekker-if-it-be-not-good-the-devil-is-in-it",
+                    "barnes-the-devil-s-charter",
+                    "marlowe-the-jew-of-malta"
+                ],
+                "original_label": "Calabria",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.674297,
+                    42.6384261
+                ]
+            },
+            "properties": {
+                "name": "Italia",
+                "type": "country/region",
+                "titles": [
+                    "chapman-two-wise-men-and-all-the-rest-fools",
+                    "dekker-the-shoemaker-s-holiday",
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "dekker-rowley-ford-the-witch-of-edmonton",
+                    "s-thomas-lord-cromwell",
+                    "kyd-soliman-and-perseda",
+                    "davenant-the-just-italian",
+                    "ford-the-lover-s-melancholy",
+                    "heywood-the-english-traveller",
+                    "heywood-a-challenge-for-beauty",
+                    "barnes-the-devil-s-charter",
+                    "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+                    "chapman-the-conspiracy-of-charles-duke-of-byron",
+                    "middleton-anything-for-a-quiet-life",
+                    "davenant-the-cruel-brother",
+                    "brome-the-city-wit",
+                    "fisher-fuimus-troes",
+                    "sampson-the-vow-breaker",
+                    "shirley-the-ball",
+                    "nashe-summer-s-last-will-and-testament",
+                    "jonson-the-devil-is-an-ass",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "middleton-women-beware-women",
+                    "brome-the-northern-lass",
+                    "fletcher-the-wild-goose-chase",
+                    "marston-the-wonder-of-women",
+                    "dekker-blurt-master-constable",
+                    "fletcher-massinger-the-little-french-lawyer",
+                    "zouche-the-sophister",
+                    "dekker-middleton-the-roaring-girl",
+                    "middleton-a-game-at-chess",
+                    "brome-the-sparagus-garden",
+                    "ford-love-s-sacrifice",
+                    "beaumont-fletcher-the-coxcomb",
+                    "freeman-imperiale",
+                    "d-the-knave-in-grain-new-vamped",
+                    "may-julia-agrippina-empress-of-rome",
+                    "middleton-the-revenger-s-tragedy",
+                    "brome-the-new-academy",
+                    "kyd-the-spanish-tragedy",
+                    "marlowe-nashe-dido-queen-of-carthage",
+                    "shirley-the-cardinal",
+                    "marlowe-the-jew-of-malta",
+                    "haughton-englishmen-for-my-money",
+                    "s-locrine",
+                    "shirley-the-royal-master",
+                    "brome-the-weeding-of-the-covent-garden",
+                    "heywood-the-four-prentices-of-london",
+                    "fletcher-massinger-the-custom-of-the-country",
+                    "massinger-the-great-duke-of-florence",
+                    "chapman-an-humorous-day-s-mirth",
+                    "nabbes-hannibal-and-scipio",
+                    "glapthorne-the-ladies-privilege",
+                    "shirley-the-doubtful-heir",
+                    "machin-barkstead-marston-the-insatiate-countess",
+                    "may-cleopatra-queen-of-egypt",
+                    "fletcher-field-four-plays",
+                    "marston-histriomastix",
+                    "tomkis-albumazar",
+                    "chapman-all-fools",
+                    "webster-the-devil-s-law-case",
+                    "dekker-webster-northward-ho",
+                    "chapman-the-gentleman-usher",
+                    "heywood-the-golden-age",
+                    "rowley-when-you-see-me-you-know-me",
+                    "dekker-chettle-haughton-patient-grissel",
+                    "jonson-volpone",
+                    "field-fletcher-massinger-the-queen-of-corinth",
+                    "jonson-catiline-his-conspiracy",
+                    "shirley-the-duke-s-mistress",
+                    "dekker-webster-westward-ho",
+                    "fletcher-valentinian",
+                    "peele-the-battle-of-alcazar"
+                ],
+                "original_label": "Italy",
+                "count": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.461330236000304,
+                    37.07376037068982
+                ]
+            },
+            "properties": {
+                "name": "Naxos",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter"
+                ],
+                "original_label": "Naxos",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7732524,
+                    45.5703694
+                ]
+            },
+            "properties": {
+                "name": "Lombardia, Italia",
+                "type": "country/region",
+                "titles": [
+                    "davenant-albovine-king-of-the-lombards",
+                    "barnes-the-devil-s-charter",
+                    "fletcher-massinger-the-prophetess"
+                ],
+                "original_label": "Lombardy",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6859225,
+                    45.9852129
+                ]
+            },
+            "properties": {
+                "name": "România",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter"
+                ],
+                "original_label": "Romania",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.21105297451381,
+                    43.55612466272661
+                ]
+            },
+            "properties": {
+                "name": "Toscana",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter"
+                ],
+                "original_label": "Tuskany",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.6736646,
+                    40.7696272
+                ]
+            },
+            "properties": {
+                "name": "Հայաստան",
+                "type": "country/region",
+                "titles": [
+                    "beaumont-fletcher-a-king-and-no-king",
+                    "yarington-two-lamentable-tragedies",
+                    "zouche-the-sophister"
+                ],
+                "original_label": "Armenia/Hermenia",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44831607390655,
+                    40.298160961740436
+                ]
+            },
+            "properties": {
+                "name": "Iberian Peninsula",
+                "type": "country/region",
+                "titles": [
+                    "smith-smith-the-hector-of-germany",
+                    "beaumont-fletcher-a-king-and-no-king",
+                    "shirley-the-arcadia"
+                ],
+                "original_label": "Iberia",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.889902651331866,
+                    34.9174159
+                ]
+            },
+            "properties": {
+                "name": "Κύπρος, Κύπρος - Kıbrıs",
+                "type": "country/region",
+                "titles": [
+                    "marston-parasitaster",
+                    "ford-the-laws-of-candy",
+                    "mason-the-turk",
+                    "ford-the-lover-s-melancholy",
+                    "shirley-the-school-of-compliment",
+                    "heywood-the-four-prentices-of-london",
+                    "beaumont-fletcher-massinger-beggars-bush",
+                    "may-cleopatra-queen-of-egypt"
+                ],
+                "original_label": "Cyprus",
+                "count": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9437,
+                    36.1889
+                ]
+            },
+            "properties": {
+                "name": "Rhodes, Greece",
+                "type": "country/region",
+                "titles": [
+                    "marlowe-dr-faustus",
+                    "jonson-sejanus-his-fall",
+                    "kyd-soliman-and-perseda",
+                    "markham-sampson-herod-and-antipater",
+                    "killigrew-claricilla",
+                    "middleton-a-game-at-chess",
+                    "beaumont-fletcher-the-maid-s-tragedy"
+                ],
+                "original_label": "Rhodes",
+                "count": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9794599,
+                    52.865196
+                ]
+            },
+            "properties": {
+                "name": "Éire / Ireland",
+                "type": "country/region",
+                "titles": [
+                    "chapman-two-wise-men-and-all-the-rest-fools",
+                    "dekker-the-honest-whore-2",
+                    "kyd-soliman-and-perseda",
+                    "middleton-a-mad-world-my-masters",
+                    "ford-perkin-warbeck",
+                    "middleton-anything-for-a-quiet-life",
+                    "marston-jack-drum-s-entertainment",
+                    "sampson-the-vow-breaker",
+                    "sharpham-cupid-s-whirligig",
+                    "nashe-summer-s-last-will-and-testament",
+                    "rowley-a-match-at-midnight",
+                    "dekker-blurt-master-constable",
+                    "randolph-the-jealous-lovers",
+                    "jonson-epicoene-or-the-silent-woman-A04645",
+                    "jonson-the-new-inn",
+                    "brome-the-queen-and-concubine",
+                    "heywood-the-four-prentices-of-london",
+                    "belchier-hans-beer-pot",
+                    "dekker-webster-northward-ho",
+                    "rowley-when-you-see-me-you-know-me",
+                    "rowley-the-birth-of-merlin",
+                    "dekker-webster-westward-ho",
+                    "webster-the-white-devil",
+                    "peele-the-battle-of-alcazar"
+                ],
+                "original_label": "Ireland",
+                "count": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.75,
+                    36.03
+                ]
+            },
+            "properties": {
+                "name": "Numidia, North Africa",
+                "type": "country/region",
+                "titles": [
+                    "belchier-hans-beer-pot",
+                    "nabbes-hannibal-and-scipio"
+                ],
+                "original_label": "Numedia/Numidia",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2675469,
+                    26.2540493
+                ]
+            },
+            "properties": {
+                "name": "مصر",
+                "type": "country/region",
+                "titles": [
+                    "berkeley-the-lost-lady",
+                    "middleton-the-widow",
+                    "stephens-cynthia-s-revenge",
+                    "jonson-the-alchemist",
+                    "nashe-summer-s-last-will-and-testament",
+                    "chapman-the-blind-beggar-of-alexandria",
+                    "daniel-cleopatra",
+                    "milton-comus",
+                    "middleton-a-game-at-chess",
+                    "gascoigne-the-glass-of-government",
+                    "woodes-the-conflict-of-conscience",
+                    "marston-parasitaster",
+                    "d-the-knave-in-grain-new-vamped",
+                    "heywood-the-brazen-age",
+                    "marlowe-nashe-dido-queen-of-carthage",
+                    "marlowe-the-jew-of-malta",
+                    "may-cleopatra-queen-of-egypt",
+                    "glapthorne-revenge-for-honor",
+                    "greene-orlando-furioso",
+                    "lower-the-phoenix-in-her-flames"
+                ],
+                "original_label": "Aegypt",
+                "count": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.999955,
+                    35.0000663
+                ]
+            },
+            "properties": {
+                "name": "China",
+                "type": "country/region",
+                "titles": [
+                    "marston-parasitaster",
+                    "fletcher-the-chances",
+                    "field-massinger-fletcher-the-honest-man-s-fortune",
+                    "jonson-volpone",
+                    "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+                    "ford-perkin-warbeck",
+                    "massinger-the-renegado",
+                    "davenant-albovine-king-of-the-lombards",
+                    "brome-the-sparagus-garden",
+                    "brome-the-city-wit",
+                    "jonson-epicoene-or-the-silent-woman-A04645"
+                ],
+                "original_label": "China",
+                "count": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3,
+                    20.3
+                ]
+            },
+            "properties": {
+                "name": "West Indies",
+                "type": "country/region",
+                "titles": [
+                    "massinger-the-picture",
+                    "brome-the-cunning-lovers",
+                    "webster-the-devil-s-law-case",
+                    "dekker-blurt-master-constable",
+                    "heywood-a-challenge-for-beauty",
+                    "shirley-the-duke-s-mistress",
+                    "dekker-ford-the-sun-s-darling",
+                    "cumber-the-two-merry-milkmaids",
+                    "jonson-every-man-in-his-humour",
+                    "shirley-love-s-cruelty",
+                    "nabbes-covent-garden"
+                ],
+                "original_label": "Indies",
+                "count": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0465716091328372,
+                    52.241001350000005
+                ]
+            },
+            "properties": {
+                "name": "Suffolk, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "middleton-the-mayor-of-quinborough",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "middleton-anything-for-a-quiet-life",
+                    "killigrew-the-parson-s-wedding",
+                    "brome-the-english-moor"
+                ],
+                "original_label": "Suffolk",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0611,
+                    36.7752
+                ]
+            },
+            "properties": {
+                "name": "Barbary",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-fair-maid-of-the-west-1",
+                    "wilson-the-three-ladies-of-london",
+                    "tomkis-albumazar",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "dekker-webster-northward-ho",
+                    "dekker-haughton-day-lust-s-dominion",
+                    "shirley-the-humorous-courtier",
+                    "haughton-englishmen-for-my-money",
+                    "middleton-rowley-wit-at-several-weapons",
+                    "webster-the-white-devil",
+                    "peele-the-battle-of-alcazar",
+                    "heywood-the-fair-maid-of-the-west-2",
+                    "brome-the-english-moor"
+                ],
+                "original_label": "Barbary",
+                "count": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5060937,
+                    47.1817585
+                ]
+            },
+            "properties": {
+                "name": "Magyarország",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-northern-lass",
+                    "field-fletcher-massinger-the-queen-of-corinth",
+                    "davenant-albovine-king-of-the-lombards",
+                    "dekker-middleton-the-roaring-girl",
+                    "greene-selimus-1"
+                ],
+                "original_label": "Hungary",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2031208542548153,
+                    53.1823034
+                ]
+            },
+            "properties": {
+                "name": "Lincolnshire, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "lyly-gallathea",
+                    "brome-the-northern-lass"
+                ],
+                "original_label": "Lincolnshire",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2537791389340719,
+                    51.546055800000005
+                ]
+            },
+            "properties": {
+                "name": "Middlesex, Windsor and Maidenhead, Greater London, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "dekker-rowley-ford-the-witch-of-edmonton",
+                    "jonson-the-devil-is-an-ass",
+                    "brome-the-northern-lass",
+                    "heywood-the-english-traveller",
+                    "jonson-every-man-in-his-humour",
+                    "middleton-a-chaste-maid-in-cheapside",
+                    "drue-the-duchess-of-suffolk"
+                ],
+                "original_label": "Middlesex",
+                "count": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.134422,
+                    52.215933
+                ]
+            },
+            "properties": {
+                "name": "Polska",
+                "type": "country/region",
+                "titles": [
+                    "marlowe-the-massacre-at-paris",
+                    "brome-the-northern-lass",
+                    "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+                    "suckling-brennoralt",
+                    "drue-the-duchess-of-suffolk",
+                    "webster-the-white-devil",
+                    "kyd-soliman-and-perseda",
+                    "drue-the-duchess-of-suffolk",
+                    "cowley-love-s-riddle"
+                ],
+                "original_label": "Poland/Polonia",
+                "count": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5208584,
+                    59.6749712
+                ]
+            },
+            "properties": {
+                "name": "Sverige",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-northern-lass"
+                ],
+                "original_label": "Sweden",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.155048,
+                    37.587794
+                ]
+            },
+            "properties": {
+                "name": "Sicilia, Italia",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-queen-and-concubine",
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "cowley-love-s-riddle",
+                    "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+                    "fletcher-massinger-a-very-woman",
+                    "greene-orlando-furioso",
+                    "harding-sicily-and-naples",
+                    "haughton-englishmen-for-my-money",
+                    "killigrew-claricilla",
+                    "killigrew-the-prisoners",
+                    "lyly-sappho-and-phao",
+                    "machin-barkstead-marston-the-insatiate-countess",
+                    "massinger-the-bondman",
+                    "massinger-the-maid-of-honour",
+                    "peele-edward-the-first"
+                ],
+                "original_label": "Sicily/Sisily",
+                "count": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5701558345752513,
+                    43.38491737694425
+                ]
+            },
+            "properties": {
+                "name": "Languedoc",
+                "type": "country/region",
+                "titles": [
+                    "brome-the-sparagus-garden"
+                ],
+                "original_label": "Languedoc",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.222486304306048,
+                    47.27808725
+                ]
+            },
+            "properties": {
+                "name": "Bourgogne, France métropolitaine, France",
+                "type": "country/region",
+                "titles": [
+                    "chapman-the-tragedy-of-charles-duke-of-byron",
+                    "field-massinger-the-fatal-dowry",
+                    "chapman-the-conspiracy-of-charles-duke-of-byron",
+                    "brome-the-sparagus-garden",
+                    "fletcher-beaumont-the-noble-gentleman"
+                ],
+                "original_label": "Burgundy",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.832295485387064,
+                    37.285495114683954
+                ]
+            },
+            "properties": {
+                "name": "Cilicia",
+                "type": "country/region",
+                "titles": [
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "may-cleopatra-queen-of-egypt"
+                ],
+                "original_label": "Cilicia",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.183217783803713,
+                    41.13558343046024
+                ]
+            },
+            "properties": {
+                "name": "Thracia",
+                "type": "country/region",
+                "titles": [
+                    "massinger-the-picture",
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey",
+                    "heywood-the-brazen-age",
+                    "massinger-the-roman-actor",
+                    "marlowe-the-jew-of-malta",
+                    "webster-rowley-the-thracian-wonder"
+                ],
+                "original_label": "Thrace",
+                "count": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6667145,
+                    50.6402809
+                ]
+            },
+            "properties": {
+                "name": "België / Belgique / Belgien",
+                "type": "country/region",
+                "titles": [
+                    "s-locrine",
+                    "kyd-soliman-and-perseda",
+                    "chapman-caesar-and-pompey-the-wars-of-caesar-and-pompey"
+                ],
+                "original_label": "Belgia",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.53553147113954,
+                    37.71362291413056
+                ]
+            },
+            "properties": {
+                "name": "Virginia",
+                "type": "country/region",
+                "titles": [
+                    "tailor-the-hog-hath-lost-his-pearl",
+                    "shirley-the-constant-maid",
+                    "dekker-blurt-master-constable",
+                    "massinger-the-city-madam",
+                    "chapman-jonson-marston-eastward-ho",
+                    "dekker-middleton-the-roaring-girl",
+                    "dekker-match-me-in-london",
+                    "fletcher-beaumont-the-noble-gentleman"
+                ],
+                "original_label": "Virginia",
+                "count": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.843409,
+                    33.8750629
+                ]
+            },
+            "properties": {
+                "name": "Lebanon",
+                "type": "country/region",
+                "titles": [
+                    "chapman-the-tragedy-of-charles-duke-of-byron"
+                ],
+                "original_label": "Lebanon",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.384660381375652,
+                    45.494895150000005
+                ]
+            },
+            "properties": {
+                "name": "Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France",
+                "type": "country/region",
+                "titles": [
+                    "dekker-the-shoemaker-s-holiday",
+                    "chapman-the-tragedy-of-charles-duke-of-byron"
+                ],
+                "original_label": "Savoy",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.99906937060065,
+                    41.4581623137777
+                ]
+            },
+            "properties": {
+                "name": "Albania",
+                "type": "country/region",
+                "titles": [
+                    "peele-edward-the-first",
+                    "chapman-the-tragedy-of-charles-duke-of-byron"
+                ],
+                "original_label": "Albania",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12456,
+                    47.59397
+                ]
+            },
+            "properties": {
+                "name": "Österreich",
+                "type": "country/region",
+                "titles": [
+                    "randolph-aristippus-or-the-jovial-philosopher",
+                    "sampson-the-vow-breaker",
+                    "chettle-hoffman",
+                    "nashe-summer-s-last-will-and-testament",
+                    "webster-the-devil-s-law-case",
+                    "munday-chettle-the-death-of-robert-earl-of-huntingdon",
+                    "lower-the-phoenix-in-her-flames",
+                    "peele-the-battle-of-alcazar"
+                ],
+                "original_label": "Austria",
+                "count": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6667145,
+                    50.6402809
+                ]
+            },
+            "properties": {
+                "name": "België / Belgique / Belgien",
+                "type": "country/region",
+                "titles": [
+                    "chettle-hoffman"
+                ],
+                "original_label": "Belgique",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3927431,
+                    52.517253
+                ]
+            },
+            "properties": {
+                "name": "Reiterstandbild Friedrich II. von Preußen, Unter den Linden, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+                "type": "country/region",
+                "titles": [
+                    "chettle-hoffman"
+                ],
+                "original_label": "Prussia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.225751764528123,
+                    37.56048516617311
+                ]
+            },
+            "properties": {
+                "name": "Arcadia",
+                "type": "country/region",
+                "titles": [
+                    "lyly-midas",
+                    "daniel-hymen-s-triumph",
+                    "glapthorne-argalus-and-parthenia",
+                    "shirley-the-arcadia",
+                    "daniel-the-queen-s-arcadia",
+                    "day-the-isle-of-gulls"
+                ],
+                "original_label": "Arcadia",
+                "count": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.7453061,
+                    64.6863136
+                ]
+            },
+            "properties": {
+                "name": "Россия",
+                "type": "country/region",
+                "titles": [
+                    "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+                    "davenant-the-cruel-brother",
+                    "webster-the-white-devil",
+                    "marston-the-malcontent",
+                    "machin-barkstead-marston-the-insatiate-countess"
+                ],
+                "original_label": "Russia/Muscovia",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.22,
+                    55.8
+                ]
+            },
+            "properties": {
+                "name": "Tartary",
+                "type": "country/region",
+                "titles": [
+                    "jonson-poetaster",
+                    "heywood-the-golden-age",
+                    "davenant-the-just-italian",
+                    "kirke-the-seven-champions-of-christendom",
+                    "greene-selimus-1"
+                ],
+                "original_label": "Tartary",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5543751,
+                    51.4789205
+                ]
+            },
+            "properties": {
+                "name": "Nordrhein-Westfalen, Deutschland",
+                "type": "country/region",
+                "titles": [
+                    "davenant-the-wits"
+                ],
+                "original_label": "Westphalia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52803643954819,
+                    64.5731537
+                ]
+            },
+            "properties": {
+                "name": "Norge",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-politician",
+                    "hughes-the-misfortunes-of-arthur",
+                    "davenant-the-wits",
+                    "peele-clyomon-and-clamydes"
+                ],
+                "original_label": "Norway",
+                "count": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.062267328417847545,
+                    50.94451385000001
+                ]
+            },
+            "properties": {
+                "name": "Sussex, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "davenant-the-wits",
+                    "greene-friar-bacon-and-friar-bongay",
+                    "drue-the-duchess-of-suffolk",
+                    "peele-edward-the-first"
+                ],
+                "original_label": "Sussex",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0305773,
+                    40.0912813
+                ]
+            },
+            "properties": {
+                "name": "Sardigna/Sardegna, Italia",
+                "type": "country/region",
+                "titles": [
+                    "ford-the-lady-s-trial",
+                    "killigrew-the-prisoners",
+                    "day-law-tricks"
+                ],
+                "original_label": "Sardinia",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.87273042232539,
+                    38.0692748
+                ]
+            },
+            "properties": {
+                "name": "Περιφερειακή Ενότητα Αχαΐας, Περιφέρεια Δυτικής Ελλάδας, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, Ελλάς",
+                "type": "country/region",
+                "titles": [
+                    "day-wilkins-rowley-the-travels-of-the-three-english-brothers",
+                    "field-fletcher-massinger-the-queen-of-corinth"
+                ],
+                "original_label": "Achaia",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1387401,
+                    41.55005
+                ]
+            },
+            "properties": {
+                "name": "Castilla y León, España",
+                "type": "country/region",
+                "titles": [
+                    "fletcher-field-four-plays",
+                    "dekker-haughton-day-lust-s-dominion",
+                    "dekker-blurt-master-constable",
+                    "webster-the-duchess-of-malfi",
+                    "habington-the-queen-of-aragon"
+                ],
+                "original_label": "Castile",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1353519,
+                    39.6621648
+                ]
+            },
+            "properties": {
+                "name": "Portugal",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-court-secret",
+                    "fletcher-field-four-plays",
+                    "fletcher-massinger-the-sea-voyage",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "dekker-haughton-day-lust-s-dominion",
+                    "massinger-the-maid-of-honour",
+                    "rowley-when-you-see-me-you-know-me",
+                    "marlowe-the-jew-of-malta",
+                    "fletcher-massinger-a-very-woman",
+                    "fletcher-massinger-the-custom-of-the-country",
+                    "peele-the-battle-of-alcazar",
+                    "anon-jeronimo-with-the-wars-of-portugal-1",
+                    "dekker-webster-northward-ho",
+                    "kyd-the-spanish-tragedy"
+                ],
+                "original_label": "Portugal",
+                "count": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1389204,
+                    43.4586541
+                ]
+            },
+            "properties": {
+                "name": "Toscana, Italia",
+                "type": "country/region",
+                "titles": [
+                    "dekker-middleton-the-roaring-girl"
+                ],
+                "original_label": "Tuscana",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0074546723348115,
+                    52.824694199999996
+                ]
+            },
+            "properties": {
+                "name": "Staffordshire, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "dekker-webster-northward-ho"
+                ],
+                "original_label": "Staffordshire",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3327111133199459,
+                    50.6710482
+                ]
+            },
+            "properties": {
+                "name": "Isle of Wight, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "dekker-webster-westward-ho"
+                ],
+                "original_label": "Wight",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2798666,
+                    36.5078106
+                ]
+            },
+            "properties": {
+                "name": "Gades, Calle Amílcar Barca, Asdrúbal, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11009, España",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-brazen-age",
+                    "fisher-fuimus-troes"
+                ],
+                "original_label": "Gades",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8659317,
+                    51.0255668
+                ]
+            },
+            "properties": {
+                "name": "Gaule, Dittersbach auf dem Eigen, Bernstadt auf dem Eigen, Bernstadt / Schönau-Berzdorf, Görlitz, Sachsen, 02748, Deutschland",
+                "type": "country/region",
+                "titles": [
+                    "fisher-fuimus-troes"
+                ],
+                "original_label": "Gaule",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7662312,
+                    41.9808038
+                ]
+            },
+            "properties": {
+                "name": "Lazio, Italia",
+                "type": "country/region",
+                "titles": [
+                    "fisher-fuimus-troes"
+                ],
+                "original_label": "Latium",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.729968325939534,
+                    67.6923521
+                ]
+            },
+            "properties": {
+                "name": "Lappi, Manner-Suomi, Suomi / Finland",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-ball",
+                    "shirley-the-young-admiral",
+                    "fletcher-ford-massinger-webster-the-fair-maid-of-the-inn",
+                    "glapthorne-the-hollander",
+                    "heywood-brome-the-late-lancashire-witches",
+                    "habington-the-queen-of-aragon",
+                    "fletcher-the-chances"
+                ],
+                "original_label": "Lapland",
+                "count": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.6855882,
+                    22.9964948
+                ]
+            },
+            "properties": {
+                "name": "Bengal",
+                "type": "country/region",
+                "titles": [
+                    "fletcher-women-pleased"
+                ],
+                "original_label": "Bengala",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3414523511290909,
+                    51.2715316
+                ]
+            },
+            "properties": {
+                "name": "Surrey, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "jonson-bartholomew-fair",
+                    "ford-perkin-warbeck"
+                ],
+                "original_label": "Surrey",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5669819,
+                    50.8614454
+                ]
+            },
+            "properties": {
+                "name": "Bohemia, St Leonards, Hastings, East Sussex, England, TN34 1BX, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "smith-smith-the-hector-of-germany",
+                    "randolph-aristippus-or-the-jovial-philosopher",
+                    "ford-perkin-warbeck"
+                ],
+                "original_label": "Bohemia",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1333908,
+                    53.9477298
+                ]
+            },
+            "properties": {
+                "name": "Yorkish Barber Shop, Cornlands Road, Lowfield, Westfield, York, York and North Yorkshire, England, YO24 3EW, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "ford-perkin-warbeck"
+                ],
+                "original_label": "Yorkish",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.068413771427695,
+                    42.188089649999995
+                ]
+            },
+            "properties": {
+                "name": "Corse, France métropolitaine, France",
+                "type": "country/region",
+                "titles": [
+                    "ford-the-lady-s-trial"
+                ],
+                "original_label": "Corsica",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9877132,
+                    38.9953683
+                ]
+            },
+            "properties": {
+                "name": "Ελλάς",
+                "type": "country/region",
+                "titles": [
+                    "s-locrine",
+                    "greene-friar-bacon-and-friar-bongay"
+                ],
+                "original_label": "Grecia",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.38157137271088,
+                    31.9471636
+                ]
+            },
+            "properties": {
+                "name": "יהודה ושומרון, Palestinian Territory",
+                "type": "country/region",
+                "titles": [
+                    "greene-friar-bacon-and-friar-bongay"
+                ],
+                "original_label": "Iudea",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1331785,
+                    19.4326296
+                ]
+            },
+            "properties": {
+                "name": "Ciudad de México, México",
+                "type": "country/region",
+                "titles": [
+                    "greene-orlando-furioso"
+                ],
+                "original_label": "Mexico",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4333969,
+                    38.6125793
+                ]
+            },
+            "properties": {
+                "name": "Manisa, Şehzadeler, Manisa, Ege Bölgesi, 45020, Türkiye",
+                "type": "country/region",
+                "titles": [
+                    "greene-selimus-1"
+                ],
+                "original_label": "Magnesia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.88,
+                    56.75
+                ]
+            },
+            "properties": {
+                "name": "Caledonia",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-brazen-age"
+                ],
+                "original_label": "Calidon/Calidonian",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.26272151195113,
+                    31.462420950000002
+                ]
+            },
+            "properties": {
+                "name": "Palestine",
+                "type": "country/region",
+                "titles": [
+                    "w-the-valiant-scot",
+                    "peele-edward-the-first",
+                    "heywood-the-english-traveller"
+                ],
+                "original_label": "Palestine",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0,
+                    51.083333
+                ]
+            },
+            "properties": {
+                "name": "Somerset, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-fair-maid-of-the-west-1"
+                ],
+                "original_label": "Somersetshire",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1236723,
+                    26.8234472
+                ]
+            },
+            "properties": {
+                "name": "Libya",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-four-prentices-of-london",
+                    "may-julia-agrippina-empress-of-rome"
+                ],
+                "original_label": "Lybia",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6210027,
+                    40.9842539
+                ]
+            },
+            "properties": {
+                "name": "Puglia, Italia",
+                "type": "country/region",
+                "titles": [
+                    "jonson-catiline-his-conspiracy"
+                ],
+                "original_label": "Apulia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2399263,
+                    20.2540382
+                ]
+            },
+            "properties": {
+                "name": "موريتانيا",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-four-prentices-of-london",
+                    "jonson-catiline-his-conspiracy"
+                ],
+                "original_label": "Mauritania/Mauritans",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.843984,
+                    40.860672
+                ]
+            },
+            "properties": {
+                "name": "Campania, Italia",
+                "type": "country/region",
+                "titles": [
+                    "jonson-poetaster",
+                    "may-julia-agrippina-empress-of-rome"
+                ],
+                "original_label": "Campania",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.18847497755026,
+                    38.3049743
+                ]
+            },
+            "properties": {
+                "name": "Yalvac Theatre - Antioch Pisidia, Aziz Paul Yolu, Görgücami, Yalvaç, Isparta, Akdeniz Bölgesi, 32400, Türkiye",
+                "type": "country/region",
+                "titles": [
+                    "lyly-midas"
+                ],
+                "original_label": "Pisidia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.107162729149344,
+                    37.8366789
+                ]
+            },
+            "properties": {
+                "name": "Phrygia",
+                "type": "country/region",
+                "titles": [
+                    "alexander-croesus",
+                    "lyly-midas",
+                    "s-locrine"
+                ],
+                "original_label": "Phrygia/Phrigia",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8594762,
+                    30.8124247
+                ]
+            },
+            "properties": {
+                "name": "ישראל",
+                "type": "country/region",
+                "titles": [
+                    "markham-sampson-herod-and-antipater",
+                    "marlowe-the-jew-of-malta"
+                ],
+                "original_label": "Israel",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.154407102832316,
+                    43.42346226743928
+                ]
+            },
+            "properties": {
+                "name": "Toscana, Italia",
+                "type": "country/region",
+                "titles": [
+                    "may-cleopatra-queen-of-egypt"
+                ],
+                "original_label": "Etruria",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.16124333103519,
+                    39.84051329449917
+                ]
+            },
+            "properties": {
+                "name": "Galatia",
+                "type": "country/region",
+                "titles": [
+                    "may-cleopatra-queen-of-egypt"
+                ],
+                "original_label": "Galatia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7053739966218058,
+                    51.53855888763024
+                ]
+            },
+            "properties": {
+                "name": "Zealand, Netherlands",
+                "type": "country/region",
+                "titles": [
+                    "middleton-a-game-at-chess",
+                    "sharpham-cupid-s-whirligig"
+                ],
+                "original_label": "Zealand",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.371337908392647,
+                    28.3347722
+                ]
+            },
+            "properties": {
+                "name": "Maroc ⵍⵎⵖⵔⵉⴱ المغرب",
+                "type": "country/region",
+                "titles": [
+                    "middleton-a-game-at-chess",
+                    "peele-the-battle-of-alcazar"
+                ],
+                "original_label": "Morocco",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6632643077026672,
+                    52.6423036
+                ]
+            },
+            "properties": {
+                "name": "Rutland, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "middleton-rowley-wit-at-several-weapons"
+                ],
+                "original_label": "Rutland",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.23118,
+                    52.48838
+                ]
+            },
+            "properties": {
+                "name": "The Fens, UK",
+                "type": "country/region",
+                "titles": [
+                    "munday-chettle-the-death-of-robert-earl-of-huntingdon"
+                ],
+                "original_label": "Marchland",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.746891134727892,
+                    44.79553401976192
+                ]
+            },
+            "properties": {
+                "name": "Aquitaine",
+                "type": "country/region",
+                "titles": [
+                    "s-locrine"
+                ],
+                "original_label": "Aquitane",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5629095780012927,
+                    52.76034337204435
+                ]
+            },
+            "properties": {
+                "name": "Mercia",
+                "type": "country/region",
+                "titles": [
+                    "s-locrine"
+                ],
+                "original_label": "Mertia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.62465658489158,
+                    50.443348900000004
+                ]
+            },
+            "properties": {
+                "name": "Cornwall, England, United Kingdom",
+                "type": "country/region",
+                "titles": [
+                    "s-locrine"
+                ],
+                "original_label": "Cornubia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9515701,
+                    52.1014041
+                ]
+            },
+            "properties": {
+                "name": "Gelderland, Nederland",
+                "type": "country/region",
+                "titles": [
+                    "sharpham-cupid-s-whirligig"
+                ],
+                "original_label": "Gelderland",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0221914,
+                    53.467993
+                ]
+            },
+            "properties": {
+                "name": "Landkreis Friesland, Niedersachsen, Deutschland",
+                "type": "country/region",
+                "titles": [
+                    "sharpham-cupid-s-whirligig"
+                ],
+                "original_label": "Friesland",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4241684,
+                    49.1727007
+                ]
+            },
+            "properties": {
+                "name": "La Valtoline, Belleville-sur-Meuse, Verdun, Meuse, Grand Est, France métropolitaine, 55430, France",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-ball"
+                ],
+                "original_label": "Valtoline",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2394179,
+                    36.5748441
+                ]
+            },
+            "properties": {
+                "name": "Japan",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-court-secret"
+                ],
+                "original_label": "Iapan",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.05888055600657,
+                    34.90348665
+                ]
+            },
+            "properties": {
+                "name": "Mesopotamia / Mezopotamya / Μεσοποταμία / بلاد الرافدين / ܒܝܬ ܢܗܪܝܢ, العراق",
+                "type": "country/region",
+                "titles": [
+                    "udall-jacob-and-esau"
+                ],
+                "original_label": "Mesopotamia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3522,
+                    48.8566
+                ]
+            },
+            "properties": {
+                "name": "Tibet",
+                "type": "country/region",
+                "titles": [
+                    "udall-ralph-roister-doister"
+                ],
+                "original_label": "Tibet",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5208584,
+                    59.6749712
+                ]
+            },
+            "properties": {
+                "name": "Sweden",
+                "type": "country/region",
+                "titles": [
+                    "anon-fair-em"
+                ],
+                "original_label": "Swethia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7639373,
+                    41.3787291
+                ]
+            },
+            "properties": {
+                "name": "Aragon",
+                "type": "country/region",
+                "titles": [
+                    "dekker-haughton-day-lust-s-dominion",
+                    "webster-the-duchess-of-malfi",
+                    "greene-alphonsus-king-of-aragon",
+                    "anon-mucedorus-and-amadine",
+                    "dekker-match-me-in-london"
+                ],
+                "original_label": "Aragon",
+                "count": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1880661838719386,
+                    51.7643786
+                ]
+            },
+            "properties": {
+                "name": "Gloucestershire",
+                "type": "country/region",
+                "titles": [
+                    "anon-the-london-prodigal"
+                ],
+                "original_label": "Gloster-shyre",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.033,
+                    36.3338
+                ]
+            },
+            "properties": {
+                "name": "Hircania",
+                "type": "country/region",
+                "titles": [
+                    "freeman-imperiale",
+                    "anon-the-wars-of-cyrus"
+                ],
+                "original_label": "Hircania",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.830787673361753,
+                    42.61254875
+                ]
+            },
+            "properties": {
+                "name": "Navarre",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter"
+                ],
+                "original_label": "Nauarre",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.450992793961426,
+                    32.93664510545707
+                ]
+            },
+            "properties": {
+                "name": "Galilee",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter"
+                ],
+                "original_label": "Galily",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.923549,
+                    45.060735
+                ]
+            },
+            "properties": {
+                "name": "Piedmont",
+                "type": "country/region",
+                "titles": [
+                    "barnes-the-devil-s-charter"
+                ],
+                "original_label": "Peadmont",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5811614,
+                    37.3399964
+                ]
+            },
+            "properties": {
+                "name": "Andalusia",
+                "type": "country/region",
+                "titles": [
+                    "beaumont-fletcher-love-s-pilgrimage"
+                ],
+                "original_label": "Andoluzia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5670941,
+                    47.2879608
+                ]
+            },
+            "properties": {
+                "name": "Moldavia",
+                "type": "country/region",
+                "titles": [
+                    "beaumont-the-knight-of-the-burning-pestle"
+                ],
+                "original_label": "Meldauia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0753867062227487,
+                    51.161750850000004
+                ]
+            },
+            "properties": {
+                "name": "Somerset",
+                "type": "country/region",
+                "titles": [
+                    "cumber-the-two-merry-milkmaids",
+                    "heywood-if-you-know-not-me-you-know-nobody-2",
+                    "brome-the-sparagus-garden"
+                ],
+                "original_label": "Somerset",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09785519224523963,
+                    51.840052299999996
+                ]
+            },
+            "properties": {
+                "name": "Hertfordshire",
+                "type": "country/region",
+                "titles": [
+                    "wilson-the-three-ladies-of-london",
+                    "dekker-the-shoemaker-s-holiday"
+                ],
+                "original_label": "Hartfordshire",
+                "count": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0458515,
+                    -6.8699697
+                ]
+            },
+            "properties": {
+                "name": "Perú",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-lady-of-pleasure",
+                    "tomkis-lingua",
+                    "fletcher-beaumont-the-noble-gentleman"
+                ],
+                "original_label": "Peru",
+                "count": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8328748,
+                    23.0131338
+                ]
+            },
+            "properties": {
+                "name": "Cuba",
+                "type": "country/region",
+                "titles": [
+                    "greene-orlando-furioso"
+                ],
+                "original_label": "Cuba",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.5723112,
+                    41.5733215
+                ]
+            },
+            "properties": {
+                "name": "Colchis",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-brazen-age"
+                ],
+                "original_label": "Colchian",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.5723112,
+                    41.5733215
+                ]
+            },
+            "properties": {
+                "name": "Colchis",
+                "type": "country/region",
+                "titles": [
+                    "heywood-the-brazen-age"
+                ],
+                "original_label": "Colchos",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.014,
+                    15.4423
+                ]
+            },
+            "properties": {
+                "name": "Sheba",
+                "type": "country/region",
+                "titles": [
+                    "marlowe-dr-faustus"
+                ],
+                "original_label": "Saba",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9877132,
+                    38.9953683
+                ]
+            },
+            "properties": {
+                "name": "Greece",
+                "type": "country/region",
+                "titles": [
+                    "marlowe-nashe-dido-queen-of-carthage"
+                ],
+                "original_label": "Greekish",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.155048,
+                    37.587794
+                ]
+            },
+            "properties": {
+                "name": "Sicily",
+                "type": "country/region",
+                "titles": [
+                    "marston-what-you-will"
+                ],
+                "original_label": "Cycily",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.25,
+                    51.833333
+                ]
+            },
+            "properties": {
+                "name": "Oxfordshire",
+                "type": "country/region",
+                "titles": [
+                    "middleton-a-chaste-maid-in-cheapside"
+                ],
+                "original_label": "Oxfordshiere",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.948159941337819,
+                    54.574243249999995
+                ]
+            },
+            "properties": {
+                "name": "Ulster",
+                "type": "country/region",
+                "titles": [
+                    "munday-drayton-wilson-hathaway-sir-john-oldcastle-1"
+                ],
+                "original_label": "Vlster",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47129100603846,
+                    48.15313125
+                ]
+            },
+            "properties": {
+                "name": "Swabia",
+                "type": "country/region",
+                "titles": [
+                    "peele-clyomon-and-clamydes"
+                ],
+                "original_label": "Swauia",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0318729593399247,
+                    51.453488899999996
+                ]
+            },
+            "properties": {
+                "name": "Berkshire",
+                "type": "country/region",
+                "titles": [
+                    "porter-the-two-angry-women-of-abingdon"
+                ],
+                "original_label": "Barkeshire",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0579614,
+                    43.4024585
+                ]
+            },
+            "properties": {
+                "name": "Biscay",
+                "type": "country/region",
+                "titles": [
+                    "rowley-all-s-lost-by-lust"
+                ],
+                "original_label": "Biscany",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.335684310870562,
+                    45.52673301647909
+                ]
+            },
+            "properties": {
+                "name": "Transylvania",
+                "type": "country/region",
+                "titles": [
+                    "shirley-the-impostor"
+                ],
+                "original_label": "Transilvania",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1847653085946246,
+                    52.68491375
+                ]
+            },
+            "properties": {
+                "name": "Leicestershire",
+                "type": "country/region",
+                "titles": [
+                    "wilkins-the-miseries-of-enforced-marriage"
+                ],
+                "original_label": "Leystershire",
+                "count": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9727473503229872,
+                    51.45051813131935
+                ]
+            },
+            "properties": {
+                "name": "Parthia",
+                "type": "country/region",
+                "titles": [
+                    "zouche-the-sophister"
+                ],
+                "original_label": "Parthesia",
+                "count": 1
+            }
+        }
+    ]
+}

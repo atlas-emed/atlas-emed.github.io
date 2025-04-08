@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/atlas_emed/static/css/main.021880c5.css",
+    "main.js": "/atlas_emed/static/js/main.9cf9473c.js",
+    "static/js/453.0e20661f.chunk.js": "/atlas_emed/static/js/453.0e20661f.chunk.js",
+    "static/media/city.geojson": "/atlas_emed/static/media/city.98ed02c764d37e79b97c.geojson",
+    "static/media/country_region.geojson": "/atlas_emed/static/media/country_region.317d7bde51024b3e444a.geojson",
+    "static/media/naturalfeatures.geojson": "/atlas_emed/static/media/naturalfeatures.96224586a6ca201242ee.geojson",
+    "static/media/continent.geojson": "/atlas_emed/static/media/continent.260a6deed6e9d4a20afd.geojson",
+    "static/media/dracor-hexagon.svg": "/atlas_emed/static/media/dracor-hexagon.db39ad8afb9969992e96255e7be855ce.svg",
+    "index.html": "/atlas_emed/index.html",
+    "main.021880c5.css.map": "/atlas_emed/static/css/main.021880c5.css.map",
+    "main.9cf9473c.js.map": "/atlas_emed/static/js/main.9cf9473c.js.map",
+    "453.0e20661f.chunk.js.map": "/atlas_emed/static/js/453.0e20661f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021880c5.css",
+    "static/js/main.9cf9473c.js"
+  ]
+}
