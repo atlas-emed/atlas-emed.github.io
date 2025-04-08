@@ -823,7 +823,7 @@
         ]
     },
     {
-        "original_label": "France/Fraunce",
+        "original_label": "France/Fraunce/Gaule/Gallia",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -875,6 +875,7 @@
             "dekker-webster-westward-ho",
             "field-amends-for-ladies",
             "field-massinger-fletcher-the-honest-man-s-fortune",
+			"fisher-fuimus-troes",
             "fletcher-beaumont-the-noble-gentleman",
             "fletcher-massinger-a-very-woman",
             "fletcher-massinger-the-elder-brother",
@@ -4331,17 +4332,6 @@
         ],
         "titles": [
             "heywood-the-brazen-age",
-            "fisher-fuimus-troes"
-        ]
-    },
-    {
-        "location": "Gaule, Dittersbach auf dem Eigen, Bernstadt auf dem Eigen, Bernstadt / Schönau-Berzdorf, Görlitz, Sachsen, 02748, Deutschland",
-        "original_label": "Gaule",
-        "coordinates": [
-            51.0255668,
-            14.8659317
-        ],
-        "titles": [
             "fisher-fuimus-troes"
         ]
     },
