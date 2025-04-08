@@ -106,7 +106,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
         },
 
@@ -127,7 +128,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
         }
       });
@@ -142,7 +144,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
           'circle-color': '#30bf00',
           'circle-stroke-width': 1,
@@ -162,7 +165,8 @@ function App() {
             ['linear'],
             ['get', 'count'],
             0, 4,
-            10, 12
+            10, 12,
+            50, 18
           ],
           'circle-color': '#8945ae',
           'circle-stroke-width': 1,
