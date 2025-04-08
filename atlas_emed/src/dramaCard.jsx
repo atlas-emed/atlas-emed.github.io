@@ -23,6 +23,7 @@ function DramaCard({
             .then(response => response.json())
             .then(data => {
                 setDrama(data);
+                console.log("Drama data:", data);
             })
             .catch(error => {
                 console.error('Error fetching data:', error);
@@ -39,7 +40,16 @@ function DramaCard({
 
                     <Card.Body>
                         <span>{drama.description}</span>
-                        <span>Authors: {drama.author}</span>
+                        <span>Authors: {drama.authors.map((author)=>{
+                            return (
+                                <>
+                                <span key={author.id}>{author.fullname}</span>
+
+                                {author !== drama.authors[drama.authors.length - 1] && <span>, </span>}
+                                </>
+                            )
+
+                        })}</span>
                         <span>Genre: {drama.normalizedGenre}</span>
                         {drama.yearWritten && <span>Year written: {drama.yearWritten}</span>}
                         {drama.yearPrinted && <span>Year printed: {drama.yearPrinted}</span>}
