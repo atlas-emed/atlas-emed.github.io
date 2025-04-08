@@ -23,7 +23,6 @@ function DramaCard({
             .then(response => response.json())
             .then(data => {
                 setDrama(data);
-                console.log("Drama data:", data);
             })
             .catch(error => {
                 console.error('Error fetching data:', error);
