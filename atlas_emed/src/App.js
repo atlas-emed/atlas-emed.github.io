@@ -264,25 +264,42 @@ function App() {
   }, [selectedDrama]);
 
 
+  const resetMap = () => {
+    setSelectedPoint(null);
+    setSelectedDama(null);
+    mapboxMap.flyTo({
+      center: [13.404954, 52.520008], // Berlin
+      zoom: 1,
+      speed: 1,
+      pitch: 0,
+      bearing: 0,
+      
+    });
+    // set all layers to visible
+    setVisibleLayers({
+      city: true,
+      country_region: true,
+      naturalfeatures: true,
+      continent: true
+    });
+    mapboxMap.setLayoutProperty('city-layer', 'visibility', 'visible');
+    mapboxMap.setLayoutProperty('country_region-layer', 'visibility', 'visible');
+    mapboxMap.setLayoutProperty('naturalfeatures-layer', 'visibility', 'visible');
+    mapboxMap.setLayoutProperty('continent-layer', 'visibility', 'visible');
 
+    mapboxMap.setFilter('city-layer', null);
+    mapboxMap.setFilter('country_region-layer', null);
+    mapboxMap.setFilter('naturalfeatures-layer', null);
+    mapboxMap.setFilter('continent-layer', null);
+
+  }
 
 
   return (
     <div className="App">
-<<<<<<< Updated upstream
-      
-      <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
-        <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
-
-=======
     <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
       <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
-      <p style={{ fontSize: "1.2rem", margin: 0 }}>
-        This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the plays related to it and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms ( <span style="color:blue";>cities</span>, <span style="color:brown";>countries and regions</span>, <span style="color:purple";>continents</span>, and <span style="color:green";>natural features</span> ) have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br/><br/>
-		Credits: Luca Giovannini (conceptualization, data curation, supervision), Andreas Wagner (software, visualisation).<br/><br/>
-		Paper: Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. 
-      </p>
->>>>>>> Stashed changes
+      
 
       </header>
       <Container fluid>
@@ -292,9 +309,8 @@ function App() {
           </Col>
           <Col xs={12} md={5} lg={5} >
             <Row md={12} lg={12} >
-<<<<<<< Updated upstream
               <h2>Legend</h2>
-              <Col xs={12} md={12} lg={12} >
+              <Col xs={12} md={8} lg={8} >
                 <div className="legend">
                   <div className="legend-item">
                     <span className="legend-color" style={{ backgroundColor: "#007cbf" }}></span>
@@ -316,15 +332,12 @@ function App() {
                     <span className="legend-label">Continent</span>
                     <input type="checkbox" checked={visibleLayers.continent} onChange={() => handleLayerToggle('continent')} />
                   </div>
-=======
-              <Col xs={12} md={4} lg={4} >
-              <div className="legend">
-                <div className="legend-item">
-                  <span className="legend-color" style={{ backgroundColor: "#007cbf" }}></span>
-                  <span className="legend-label">City</span>
-                  <input type="checkbox" checked={visibleLayers.city} onChange={() => handleLayerToggle('city')} />
->>>>>>> Stashed changes
                 </div>
+              </Col>
+              <Col xs={12} md={4} lg={4} >
+              <Button className="btn btn-light" onClick={() => resetMap()}>
+                Reload Map
+              </Button>
               </Col>
 
               <hr></hr>
@@ -381,6 +394,14 @@ function App() {
                     <>
                       <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
                         This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the related plays and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms <span style={{ "color": "blue" }}>cities</span>, <span style={{ "color": "brown" }}>countries and regions</span>, <span style={{ "color": "purple" }}>continents</span>, and <span style={{ "color": "green" }}>natural features</span> have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br />To be presented at AIUCD Verona 2025.
+                        <br /><br />
+                        Credits: 
+                        <br/>Luca Giovannini (conceptualization, data curation, supervision) 
+                        <br />
+                        Andreas Wagner (software, visualisation)
+                        <br/><br/>
+		                    Paper: 
+                          <br/>Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. 
                       </p>
                       {/* <h3>Select a point on the map</h3> */}
                       <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
