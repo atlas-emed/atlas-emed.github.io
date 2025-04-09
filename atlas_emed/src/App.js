@@ -268,12 +268,12 @@ function App() {
     setSelectedPoint(null);
     setSelectedDama(null);
     mapboxMap.flyTo({
-      center: [13.404954, 52.520008], // Berlin
+      center: [0,0], // Berlin
       zoom: 1,
       speed: 1,
       pitch: 0,
       bearing: 0,
-      
+
     });
     // set all layers to visible
     setVisibleLayers({
