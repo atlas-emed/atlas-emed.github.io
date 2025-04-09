@@ -5,6 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 
+// eslint-disable-next-line 
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './App.css';
 
@@ -45,12 +46,9 @@ function App() {
     mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
     const map = new mapboxgl.Map({
       container: mapRef.current,
-      // style: "mapbox://styles/mapbox/light-v11",
       style: "mapbox://styles/andreaswagner/clhafhr30011701qu5t4e72iw",
-      // use osm tiles 
       center: [13.404954, 52.520008], // Berlin
       zoom: 1,
-
 
     });
 
