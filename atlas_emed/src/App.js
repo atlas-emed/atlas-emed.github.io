@@ -1,5 +1,5 @@
 import { useRef, useEffect, useState } from 'react'
-import mapboxgl from 'mapbox-gl'
+import mapboxgl, { Marker } from 'mapbox-gl'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
@@ -9,6 +9,7 @@ import Button from 'react-bootstrap/Button';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './App.css';
 
+import data from "./data/database.json"
 import city from "./data/city.geojson"
 import country_region from "./data/country_region.geojson"
 import naturalfeatures from "./data/naturalfeatures.geojson"
@@ -268,10 +269,20 @@ function App() {
 
   return (
     <div className="App">
+<<<<<<< Updated upstream
       
       <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
         <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
 
+=======
+    <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
+      <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
+      <p style={{ fontSize: "1.2rem", margin: 0 }}>
+        This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the plays related to it and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms ( <span style="color:blue";>cities</span>, <span style="color:brown";>countries and regions</span>, <span style="color:purple";>continents</span>, and <span style="color:green";>natural features</span> ) have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br/><br/>
+		Credits: Luca Giovannini (conceptualization, data curation, supervision), Andreas Wagner (software, visualisation).<br/><br/>
+		Paper: Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. 
+      </p>
+>>>>>>> Stashed changes
 
       </header>
       <Container fluid>
@@ -281,6 +292,7 @@ function App() {
           </Col>
           <Col xs={12} md={5} lg={5} >
             <Row md={12} lg={12} >
+<<<<<<< Updated upstream
               <h2>Legend</h2>
               <Col xs={12} md={12} lg={12} >
                 <div className="legend">
@@ -304,6 +316,14 @@ function App() {
                     <span className="legend-label">Continent</span>
                     <input type="checkbox" checked={visibleLayers.continent} onChange={() => handleLayerToggle('continent')} />
                   </div>
+=======
+              <Col xs={12} md={4} lg={4} >
+              <div className="legend">
+                <div className="legend-item">
+                  <span className="legend-color" style={{ backgroundColor: "#007cbf" }}></span>
+                  <span className="legend-label">City</span>
+                  <input type="checkbox" checked={visibleLayers.city} onChange={() => handleLayerToggle('city')} />
+>>>>>>> Stashed changes
                 </div>
               </Col>
 
@@ -317,7 +337,7 @@ function App() {
                   {selectedPoint.properties.titles && (
                     <>
                       <Row>
-                        <h4>Dramas</h4>
+                        <h4>Plays</h4>
 
                       </Row>
                       <div className="titles">
@@ -339,7 +359,7 @@ function App() {
                     <>
                       <Row>
                         <Col>
-                          <h4>Dramas:</h4>
+                          <h4>Plays:</h4>
                         </Col>
                         <Col>
                           <Button className="btn btn-light" onClick={() => setSelectedDama(null)}>
