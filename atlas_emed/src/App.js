@@ -15,7 +15,7 @@ import country_region from "./data/country_region.geojson"
 import naturalfeatures from "./data/naturalfeatures.geojson"
 import continent from "./data/continent.geojson"
 import DramaCard from './dramaCard';
-
+import githubLogo from "./data/github-mark.png"
 
 
 
@@ -268,7 +268,7 @@ function App() {
     setSelectedPoint(null);
     setSelectedDama(null);
     mapboxMap.flyTo({
-      center: [0,0], // Berlin
+      center: [0, 0], // Berlin
       zoom: 1,
       speed: 1,
       pitch: 0,
@@ -297,9 +297,25 @@ function App() {
 
   return (
     <div className="App">
-    <header className="App-header" style={{ height: "10vh", textAlign: "center" }}>
-      <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
-      
+      <header className="App-header" style={{textAlign: "center" }}>
+        <Row md={12} lg={12} className='justify-content-end' style={{ margin: "0", padding: "0", width: "100%" }}>
+          <Col xs={12} md={11} lg={11} >
+            <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
+          </Col>
+
+          <Col xs={12} md={1} lg={1} >
+            <Button
+              className="btn btn-light"
+              onClick={() => window.open('https://github.com/atlas-emed/atlas-emed.github.io/tree/react_app', '_blank')}
+              style={{ margin: "0", padding: "5px" }}
+
+            >
+              <img src={githubLogo} alt="GitHub" style={{ width: '20px', height: '20px' }} />
+            </Button>
+
+          </Col>
+        </Row>
+
 
       </header>
       <Container fluid>
@@ -335,9 +351,9 @@ function App() {
                 </div>
               </Col>
               <Col xs={12} md={4} lg={4} >
-              <Button className="btn btn-light" onClick={() => resetMap()}>
-                Reload Map
-              </Button>
+                <Button className="btn btn-secondary" onClick={() => resetMap()}>
+                  Reload Map
+                </Button>
               </Col>
 
               <hr></hr>
@@ -394,13 +410,13 @@ function App() {
                     <>
                       <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
                         This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the plays related to it and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms (<span style={{ "color": "blue" }}>cities</span>, <span style={{ "color": "brown" }}>countries and regions</span>, <span style={{ "color": "purple" }}>continents</span>, and <span style={{ "color": "green" }}>natural features</span>) have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br />
-						</p>
-						<p><small>
-                        <b>Credits</b>: 
-                        <br/>Luca Giovannini (conceptualization, data curation, supervision), Andreas Wagner (software, visualisation)
-                        <br/><br/>
-		                <b>Paper</b>: 
-						<br/>Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. </small>
+                      </p>
+                      <p><small>
+                        <b>Credits</b>:
+                        <br />Luca Giovannini (conceptualization, data curation, supervision), Andreas Wagner (software, visualisation)
+                        <br /><br />
+                        <b>Paper</b>:
+                        <br />Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. </small>
                       </p>
                     </>
 

@@ -10,6 +10,7 @@ header {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  height: 10vh;
 }
 
 .App-main {
@@ -82,6 +83,9 @@ header {
   #map-container {
     height: 50vh;
     width: 100%;
+  }
+  header {
+    height: 23vh;
   }
 }
 
