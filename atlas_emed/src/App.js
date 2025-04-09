@@ -393,21 +393,15 @@ function App() {
                   ) : (
                     <>
                       <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
-                        This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the related plays and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms <span style={{ "color": "blue" }}>cities</span>, <span style={{ "color": "brown" }}>countries and regions</span>, <span style={{ "color": "purple" }}>continents</span>, and <span style={{ "color": "green" }}>natural features</span> have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br />To be presented at AIUCD Verona 2025.
-                        <br /><br />
-                        Credits: 
-                        <br/>Luca Giovannini (conceptualization, data curation, supervision) 
-                        <br />
-                        Andreas Wagner (software, visualisation)
+                        This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the plays related to it and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms (<span style={{ "color": "blue" }}>cities</span>, <span style={{ "color": "brown" }}>countries and regions</span>, <span style={{ "color": "purple" }}>continents</span>, and <span style={{ "color": "green" }}>natural features</span>) have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br />
+						</p>
+						<p><small>
+                        <b>Credits</b>: 
+                        <br/>Luca Giovannini (conceptualization, data curation, supervision), Andreas Wagner (software, visualisation)
                         <br/><br/>
-		                    Paper: 
-                          <br/>Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. 
+		                <b>Paper</b>: 
+						<br/>Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. </small>
                       </p>
-                      {/* <h3>Select a point on the map</h3> */}
-                      <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
-                        Click on a point on the map to see the related plays.
-                      </p>
-
                     </>
 
                   )}
