@@ -268,7 +268,7 @@ function App() {
     setSelectedPoint(null);
     setSelectedDama(null);
     mapboxMap.flyTo({
-      center: [0, 0], // Berlin
+      center: [13.404954, 52.520008], // Berlin
       zoom: 1,
       speed: 1,
       pitch: 0,
@@ -411,12 +411,10 @@ function App() {
                       <p style={{ fontSize: "1.2rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
                         This map charts most geographical items mentioned in about 400 early modern English plays. Move around, zoom, and click on any location to see the plays related to it and access them in the <a href="https://dracor.org/eng">English Drama Corpus (EngDraCor)</a>. Several types of toponyms (<span style={{ "color": "blue" }}>cities</span>, <span style={{ "color": "brown" }}>countries and regions</span>, <span style={{ "color": "purple" }}>continents</span>, and <span style={{ "color": "green" }}>natural features</span>) have been extracted through NLP methods and geocoded with <a href="https://nominatim.org"><i>Nominatim</i></a>, with extensive rounds of manual and LLM-assisted post-correction.<br />
                       </p>
-                      <p><small>
-                        <b>Credits</b>:
-                        <br />Luca Giovannini (conceptualization, data curation, supervision), Andreas Wagner (software, visualisation)
+                      <p style={{ fontSize: "1.1rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
+                        <b>Credits</b>: <a href="https://lucagiovannini7.github.io/index.html">Luca Giovannini</a> (conceptualization, data curation, supervision), <a href="https://www.dhss.phil.fau.de/person/andreas-wagner/">Andreas Wagner</a> (software, visualisation)
                         <br /><br />
-                        <b>Paper</b>:
-                        <br />Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. </small>
+                        <b>Paper</b>: Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. 
                       </p>
                     </>
 
