@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c53e7d1.css",
-    "main.js": "/static/js/main.92bef021.js",
+    "main.js": "/static/js/main.699178f2.js",
     "static/js/453.0e20661f.chunk.js": "/static/js/453.0e20661f.chunk.js",
     "static/media/city.geojson": "/static/media/city.423367bb4f9e0ea612a7.geojson",
     "static/media/country_region.geojson": "/static/media/country_region.11a8f536b92b10d1a218.geojson",
@@ -10,11 +10,11 @@
     "static/media/dracor-hexagon.svg": "/static/media/dracor-hexagon.db39ad8afb9969992e96255e7be855ce.svg",
     "index.html": "/index.html",
     "main.0c53e7d1.css.map": "/static/css/main.0c53e7d1.css.map",
-    "main.92bef021.js.map": "/static/js/main.92bef021.js.map",
+    "main.699178f2.js.map": "/static/js/main.699178f2.js.map",
     "453.0e20661f.chunk.js.map": "/static/js/453.0e20661f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c53e7d1.css",
-    "static/js/main.92bef021.js"
+    "static/js/main.699178f2.js"
   ]
 }
