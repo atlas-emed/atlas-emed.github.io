@@ -413,7 +413,7 @@ function App() {
                       <p style={{ fontSize: "1.1rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
                         <b>Credits</b>: <a href="https://lucagiovannini7.github.io/index.html">Luca Giovannini</a> (conceptualization, data curation, supervision), <a href="https://www.dhss.phil.fau.de/person/andreas-wagner/">Andreas Wagner</a> (software, visualisation)
                         <br /><br />
-                        <b>Paper</b>: Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data ". In: AIUCD 2025 Book of Abstracts. Università di Verona, 2025, forthcoming. 
+                        <b>Paper</b>: Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data". In: <i>AIUCD 2025 Book of Abstracts</i>. Università di Verona, 2025, forthcoming. 
                       </p>
                     </>
 
