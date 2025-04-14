@@ -325,7 +325,6 @@ function App() {
           </Col>
           <Col xs={12} md={5} lg={5} >
             <Row md={12} lg={12} >
-              <h2>Legend</h2>
               <Col xs={12} md={8} lg={8} >
                 <div className="legend">
                   <div className="legend-item">
