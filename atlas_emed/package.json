@@ -1,5 +1,5 @@
 {
-  "homepage":"https://atlas-emed.github.io",
+  "homepage": "https://atlas-emed.github.io",
   "name": "atlas_emed",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "@watergis/mapbox-gl-export": "^3.5.7",
     "bootstrap": "^5.3.4",
     "mapbox-gl": "^3.11.0",
     "react": "^19.1.0",

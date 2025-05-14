@@ -16,6 +16,8 @@ import naturalfeatures from "./data/naturalfeatures.geojson"
 import continent from "./data/continent.geojson"
 import DramaCard from './dramaCard';
 import githubLogo from "./data/github-mark.png"
+import { MapboxExportControl, Size, PageOrientation, Format, DPI } from "@watergis/mapbox-gl-export";
+
 
 
 
@@ -69,6 +71,16 @@ function App() {
       unit: 'metric'
     }), 'bottom-right');
 
+    map.addControl(new MapboxExportControl({
+      PageSize: Size.A2,
+      PageOrientation: PageOrientation.Landscape,
+      Format: Format.PNG,
+      DPI: DPI[300],
+      Crosshair: true,
+      PrintableArea: true,
+
+
+    }), 'top-left');
 
 
     map.on('load', () => {
@@ -292,14 +304,37 @@ function App() {
     mapboxMap.setFilter('naturalfeatures-layer', null);
     mapboxMap.setFilter('continent-layer', null);
 
+
+
+  }
+
+  const downloadMapAsImage = () => {
+    const mapContainer = document.getElementById('map-container');
+    const mapCanvas = mapContainer.getElementsByClassName('mapboxgl-canvas')[0];
+
+    if (mapCanvas) {
+      console.log(mapCanvas);
+      // download 
+      var img = mapCanvas.toDataURL("image/png");
+      var link = document.createElement('a');
+      link.href = img;
+      link.download = 'map.png';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      console.log("downloaded");
+    }
+    else {
+      console.error('Map canvas not found');
+    }
   }
 
 
   return (
     <div className="App">
-      <header className="App-header" style={{textAlign: "center" }}>
+      <header className="App-header" style={{ textAlign: "center" }}>
         <Row md={12} lg={12} className='justify-content-end' style={{ margin: "0", padding: "0", width: "100%" }}>
-          <Col xs={12} md={11} lg={11} >
+          <Col xs={12} md={10} lg={10} >
             <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>A Little Atlas of Early Modern English Drama</h1>
           </Col>
 
@@ -313,7 +348,18 @@ function App() {
               <img src={githubLogo} alt="GitHub" style={{ width: '20px', height: '20px' }} />
             </Button>
 
+
           </Col>
+          <Col xs={12} md={1} lg={1} >
+            <Button
+              className="btn btn-light"
+              onClick={() => downloadMapAsImage()}
+              style={{ margin: "0", padding: "5px" }}
+            >
+              <img src="https://img.icons8.com/ios-filled/50/000000/download-2.png" alt="Download" style={{ width: '20px', height: '20px' }} />
+            </Button>
+          </Col>
+
         </Row>
 
 
@@ -413,7 +459,7 @@ function App() {
                       <p style={{ fontSize: "1.1rem", margin: 0, marginBottom: "10%", textAlign: "justify" }}>
                         <b>Credits</b>: <a href="https://lucagiovannini7.github.io/index.html">Luca Giovannini</a> (conceptualization, data curation, supervision), <a href="https://www.dhss.phil.fau.de/person/andreas-wagner/">Andreas Wagner</a> (software, visualisation)
                         <br /><br />
-                        <b>Paper</b>: Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data". In: <i>AIUCD 2025 Book of Abstracts</i>. Università di Verona, 2025, forthcoming. 
+                        <b>Paper</b>: Giovannini, Luca, and Andreas Wagner (2025). "Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor Data". In: <i>AIUCD 2025 Book of Abstracts</i>. Università di Verona, 2025, forthcoming.
                       </p>
                     </>
 
